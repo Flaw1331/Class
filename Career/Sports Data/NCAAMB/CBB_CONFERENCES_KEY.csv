@@ -1,0 +1,4 @@
+TABLE *CONF TABLE*
+CONFID = Conference ID Number to link with 'CBB TEAM STATISTICS 2009-2013' Table
+CONF ABBR = Conference Abbreviation
+CONF NAME = Conference Name

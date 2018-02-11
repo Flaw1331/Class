@@ -1,0 +1,42 @@
+What are some of your biggest strengths that you bring to a team?
+	Strong analytical and problem solving skills.
+	Knowing when to be a team player and when to take the initiative and lead.
+	
+
+Can you tell me about a time when you used data analytics to solve a problem?
+	Cryptocurrency investment - Looked into what would end up being more profitable and a better financial investment for myself
+	Analyzing market fluxuations and finding break-even points for investment
+
+What would you say is your biggest weakness or an area of improvement?
+	Perfectionism - If I can't get something done the way I intend it, I can have a hard time moving on to the next task
+
+What is your expected salary range?
+	Depending on area for relocation - $75k+ for Seattle, might have to settle for less initially just to get up there
+		KC - A lot less realistically, $45-$60k. KC has a bad area (in my eyes for my areas of interest) for big data. Many of the companies are
+		not based here and are more coastally located.
+
+Where do you see yourself 5 years from now? / What are your long-term career goals?
+	In Seattle, working for a large game dev company analyzing their player base data as well as in-house data to find areas of improvement OR
+		working for a sports franchise trying to help build towards a championship
+
+What do you consider to be your biggest achievement?
+	Professionally - Being named Team Lead/SME at Sprint early on. Siginified I could find a way to advance in my career after some life decisions
+
+	Personally - Many sports acolades when younger, but probably most proud of State Football Championship and National Champion in soccer.
+
+Can you describe a big data project you worked on?
+	Building a business analysis document/portfolio for my Crypto Consulting company I started
+	Involved api calls to exchange servers and mining pools, as well as JavaScript and Python coding to manage the data inputs and outputs to create a
+		"live" business analysis tool for my company.
+
+What challenges have you encountered while working with big data?
+	Everything - From learning the initial languages to be able to understand what the data means and how to handle it - To having to get creative on how to find meaning conclusions to what the data means. But every challenge is just another hurdle to get over and learn from. Each project teaches me something new, even if it's just more efficient ways to recycle code I use or shortcuts to speed up my processing time.
+
+
+What are your technical competencies?
+	
+
+
+
+
+

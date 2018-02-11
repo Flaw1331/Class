@@ -1,0 +1,41 @@
+TABLE *CBB TEAM STATISTICS 2009-2013*
+SCHOOLID = School ID Number
+TEAMID = Team ID Number to link with 'CBB DATA 2009-2013' Table	
+YEAR = Season	
+SCHOOL	
+COACH	
+CONFID = Conference ID Number to link with 'CONF TABLE'	
+OVERALL W = As-played wins	
+OVERALL L = As-played losses	
+CONF W = As-played wins in conference games 	
+CONF L = As-played losses in conference games 		
+OFFICIAL W-L = Adjusted Win/loss record	due to vacated wins and/or forfeits
+OFFICIAL CONF W-L = Adjusted Win/loss record in conference games due to vacated wins and/or forfeits 	
+FGM = Field goals made	
+FGA = Field goals attempted	
+FTM = Free throws made	
+FTA = Free throws attempted	
+3PM = Three-point Field goals made		
+3PA = Three-point Field goals attempts
+PTS = Points scored	
+TOTAL REB = Rebounds	
+PF = Personal fouls committed	
+DQ = Disqualifications	
+AST = Assists	
+TO = Turnovers	
+STL = Steals	
+BLK = Blocks	
+O-FGM = Opponents' Field goals made		
+O-FGA = Opponents' Field goals attempted		
+O-FTM = Opponents' Free throws made		
+O-FTA = Opponents' Free throws attempted	
+O-3PM = Opponents' Three-point Field goals made		
+O-3PA = Opponents' Three-point Field goals attempted	
+O-PTS = Opponents' points scored	
+O-TOTAL REB = Opponents' rebounds	
+O-PF = Opponents' personal fouls committed	
+O-DQ = Opponents' disqualifications		
+O-AST = Opponents' assists	
+O-TO = Opponents' turnovers	
+O-STL = Opponents' steals	
+O-BLK = Opponents' blocks

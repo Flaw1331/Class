@@ -1,0 +1,197 @@
+code,con,div,city,team,fran,league,1st,last
+Mon,,,Montreal,Canadiens,Mon,NHL,1917-18,1925-26
+Mon,,ca,Montreal,Canadiens,Mon,NHL,1926-27,1937-38
+Mon,,,Montreal,Canadiens,Mon,NHL,1938-39,1966-67
+Mon,,e,Montreal,Canadiens,Mon,NHL,1967-68,1973-74
+Mon,wa,n,Montreal,Canadiens,Mon,NHL,1974-75,1980-81
+Mon,wa,a,Montreal,Canadiens,Mon,NHL,1981-82,1992-93
+Mon,e,ne,Montreal,Canadiens,Mon,NHL,1993-94,
+Wan,,,Montreal,Wanderers,Wan,NHL,1917-18,1917-18
+Ott,,,Ottawa,Senators,SLE,NHL,1917-18,1925-26
+Ott,,ca,Ottawa,Senators,SLE,NHL,1926-27,1933-34
+Tor,,,Toronto,Arenas,Tor,NHL,1917-18,1918-19
+Que,,,Quebec,Bulldogs,Bro,NHL,1919-20,1919-20
+Tor,,,Toronto,St. Patricks,Tor,NHL,1919-20,1925-26
+Tor,,ca,Toronto,St. Patricks,Tor,NHL,1926-27,1926-27
+Ham,,,Hamilton,Tigers,Bro,NHL,1920-21,1924-25
+Bos,,,Boston,Bruins,Bos,NHL,1924-25,1925-26
+Bos,,am,Boston,Bruins,Bos,NHL,1926-27,1937-38
+Bos,,,Boston,Bruins,Bos,NHL,1938-39,1966-67
+Bos,,e,Boston,Bruins,Bos,NHL,1967-68,1973-74
+Bos,wa,a,Boston,Bruins,Bos,NHL,1974-75,1992-93
+Bos,e,ne,Boston,Bruins,Bos,NHL,1993-94,
+Mar,,,Montreal,Maroons,Mar,NHL,1924-25,1925-26
+Mar,,ca,Montreal,Maroons,Mar,NHL,1926-27,1937-38
+NYA,,,New York,Americans,Bro,NHL,1925-26,1925-26
+NYA,,ca,New York,Americans,Bro,NHL,1926-27,1937-38
+NYA,,,New York,Americans,Bro,NHL,1938-39,1940-41
+Pit,,,Pittsburgh,Pirates,PhQ,NHL,1925-26,1925-26
+Pit,,am,Pittsburgh,Pirates,PhQ,NHL,1926-27,1929-30
+Chi,,am,Chicago,Black Hawks,Chi,NHL,1926-27,1937-38
+Chi,,,Chicago,Black Hawks,Chi,NHL,1938-39,1966-67
+Chi,,e,Chicago,Black Hawks,Chi,NHL,1967-68,1969-70
+Chi,,w,Chicago,Black Hawks,Chi,NHL,1970-71,1973-74
+Chi,cc,s,Chicago,Black Hawks,Chi,NHL,1974-75,1980-81
+Chi,cc,n,Chicago,Black Hawks,Chi,NHL,1981-82,1992-93
+Chi,w,ce,Chicago,Black Hawks,Chi,NHL,1993-94,
+Det,,am,Detroit,Cougars,Det,NHL,1926-27,1929-30
+NYR,,am,New York,Rangers,NYR,NHL,1926-27,1937-38
+NYR,,,New York,Rangers,NYR,NHL,1938-39,1966-67
+NYR,,e,New York,Rangers,NYR,NHL,1967-68,1973-74
+NYR,cc,p,New York,Rangers,NYR,NHL,1974-75,1980-81
+NYR,wa,p,New York,Rangers,NYR,NHL,1981-82,1992-93
+NYR,e,at,New York,Rangers,NYR,NHL,1993-94,
+Tor,,ca,Toronto,Maple Leafs,Tor,NHL,1927-28,1937-38
+Tor,,,Toronto,Maple Leafs,Tor,NHL,1938-39,1966-67
+Tor,,e,Toronto,Maple Leafs,Tor,NHL,1967-68,1973-74
+Tor,wa,a,Toronto,Maple Leafs,Tor,NHL,1974-75,1980-81
+Tor,cc,n,Toronto,Maple Leafs,Tor,NHL,1981-82,1992-93
+Tor,w,ce,Toronto,Maple Leafs,Tor,NHL,1993-94,1997-98
+Tor,e,ne,Toronto,Maple Leafs,Tor,NHL,1998-99,
+Det,,am,Detroit,Falcons,Det,NHL,1930-31,1931-32
+Phi,,am,Philadelphia,Quakers,PhQ,NHL,1930-31,1930-31
+Det,,am,Detroit,Red Wings,Det,NHL,1932-33,1937-38
+Det,,,Detroit,Red Wings,Det,NHL,1938-39,1966-67
+Det,,e,Detroit,Red Wings,Det,NHL,1967-68,1973-74
+Det,wa,n,Detroit,Red Wings,Det,NHL,1974-75,1980-81
+Det,cc,n,Detroit,Red Wings,Det,NHL,1981-82,1992-93
+Det,w,ce,Detroit,Red Wings,Det,NHL,1993-94
+StL,,ca,St. Louis,Eagles,SLE,NHL,1934-35,1934-35
+Bro,,,Brooklyn,Americans,Bro,NHL,1941-42,1941-42
+LA,,w,Los Angeles,Kings,LA,NHL,1967-68,1973-74
+LA,wa,n,Los Angeles,Kings,LA,NHL,1974-75,1980-81
+LA,cc,s,Los Angeles,Kings,LA,NHL,1981-82,1992-93
+LA,w,pc,Los Angeles,Kings,LA,NHL,1993-94,
+Min,,w,Minnesota,North Stars,Dal,NHL,1967-68,1973-74
+Min,cc,s,Minnesota,North Stars,Dal,NHL,1974-75,1977-78
+Min,wa,a,Minnesota,North Stars,Dal,NHL,1978-79,1980-81
+Min,cc,n,Minnesota,North Stars,Dal,NHL,1981-82,1992-93
+Oak,,w,Oakland,Seals,Cle,NHL,1967-68,1969-70
+Phi,,w,Philadelphia,Flyers,Phi,NHL,1967-68,1973-74
+Phi,cc,p,Philadelphia,Flyers,Phi,NHL,1974-75,1980-81
+Phi,wa,p,Philadelphia,Flyers,Phi,NHL,1981-82,1992-93
+Phi,e,at,Philadelphia,Flyers,Phi,NHL,1993-94,
+Pit,,w,Pittsburgh,Penguins,Pit,NHL,1967-68,1973-74
+Pit,wa,n,Pittsburgh,Penguins,Pit,NHL,1974-75,1980-81
+Pit,wa,p,Pittsburgh,Penguins,Pit,NHL,1981-82,1992-93
+Pit,e,ne,Pittsburgh,Penguins,Pit,NHL,1993-94,1997-98
+Pit,e,at,Pittsburgh,Penguins,Pit,NHL,1998-99,
+StL,,w,St. Louis,Blues,StL,NHL,1967-68,1973-74
+StL,cc,s,St. Louis,Blues,StL,NHL,1974-75,1980-81
+StL,cc,n,St. Louis,Blues,StL,NHL,1981-82,1992-93
+StL,w,ce,St. Louis,Blues,StL,NHL,1993-94,
+Buf,,e,Buffalo,Sabres,Buf,NHL,1970-71,1973-74
+Buf,wa,a,Buffalo,Sabres,Buf,NHL,1974-75,1992-93
+Buf,e,ne,Buffalo,Sabres,Buf,NHL,1993-94,
+Clf,,w,California,Golden Seals,Cle,NHL,1970-71,1973-74
+Clf,wa,a,California,Golden Seals,Cle,NHL,1974-75,1975-76
+Van,,e,Vancouver,Canucks,Van,NHL,1970-71,1973-74
+Van,cc,s,Vancouver,Canucks,Van,NHL,1974-75,1992-93
+Van,w,pc,Vancouver,Canucks,Van,NHL,1993-94,1997-98
+Van,w,nw,Vancouver,Canucks,Van,NHL,1998-99,
+Atl,,w,Atlanta,Flames,Cal,NHL,1972-73,1973-74
+Atl,cc,p,Atlanta,Flames,Cal,NHL,1974-75,1979-80
+NYI,,e,New York,Islanders,NYI,NHL,1972-73,1973-74
+NYI,cc,p,New York,Islanders,NYI,NHL,1974-75,1980-81
+NYI,wa,p,New York,Islanders,NYI,NHL,1981-82,1992-93
+NYI,e,at,New York,Islanders,NYI,NHL,1993-94,
+Alb,,w,Alberta,Oilers,Edm,WHA,1972-73,1972-73
+Chi,,w,Chicago,Cougars,ChA,WHA,1972-73,1972-73
+Chi,,e,Chicago,Cougars,ChA,WHA,1973-74,1974-75
+Cle,,e,Cleveland,Crusaders,MnA,WHA,1972-73,1975-76
+Hou,,w,Houston,Aeros,Hou,WHA,1972-73,1976-77
+Hou,,,Houston,Aeros,Hou,WHA,1977-78,1977-78
+LA,,w,Los Angeles,Sharks,MB,WHA,1972-73,1973-74
+Min,,w,Minnesota,Fighting Saints,MnA,WHA,1972-73,1975-76
+NE,,e,New England,Whalers,Car,WHA,1972-73,1976-77
+NE,,,New England,Whalers,Car,WHA,1977-78,1978-79
+NY,,e,New York,Raiders,SD,WHA,1972-73,1972-73
+Ott,,e,Ottawa,Nationals,Bir,WHA,1972-73,1972-73
+Phi,,e,Philadelphia,Blazers,CaA,WHA,1972-73,1972-73
+Que,,e,Quebec,Nordiques,Col,WHA,1972-73,1973-74
+Que,,ca,Quebec,Nordiques,Col,WHA,1974-75,1975-76
+Que,,e,Quebec,Nordiques,Col,WHA,1976-77,1976-77
+Que,,,Quebec,Nordiques,Col,WHA,1977-78,1978-79
+Win,,w,Winnipeg,Jets,Pho,WHA,1972-73,1973-74
+Win,,ca,Winnipeg,Jets,Pho,WHA,1974-75,1975-76
+Win,,w,Winnipeg,Jets,Pho,WHA,1976-77,1976-77
+Win,,,Winnipeg,Jets,Pho,WHA,1977-78,1978-79
+Edm,,w,Edmonton,Oilers,Edm,WHA,1973-74,1973-74
+Edm,,ca,Edmonton,Oilers,Edm,WHA,1974-75,1975-76
+Edm,,w,Edmonton,Oilers,Edm,WHA,1976-77,1976-77
+Edm,,,Edmonton,Oilers,Edm,WHA,1977-78,1978-79
+NYJ,,e,New York,Golden Blades,SD,WHA,1973-74,1973-74
+NYJ,,e,New Jersey,Knights,SD,WHA,1973-74,1973-74
+Tor,,e,Toronto,Toros,Bir,WHA,1973-74,1973-74
+Tor,,ca,Toronto,Toros,Bir,WHA,1974-75,1975-76
+Van,,w,Vancouver,Blazers,CaA,WHA,1973-74,1973-74
+Van,,ca,Vancouver,Blazers,CaA,WHA,1974-75,1974-75
+KC,cc,s,Kansas City,Scouts,NJ,NHL,1974-75,1975-76
+Was,wa,n,Washington,Capitals,Was,NHL,1974-75,1978-79
+Was,cc,p,Washington,Capitals,Was,NHL,1979-80,1980-81
+Was,wa,p,Washington,Capitals,Was,NHL,1981-82,1992-93
+Was,e,at,Washington,Capitals,Was,NHL,1993-94,1997-98
+Was,e,se,Washington,Capitals,Was,NHL,1998-99,
+Ind,,e,Indianapolis,Racers,Ind,WHA,1974-75,1976-77
+Ind,,,Indianapolis,Racers,Ind,WHA,1977-78,1978-79
+MB,,w,Michigan,Stags,MB,WHA,1974-75,1974-75
+MB,,w,Baltimore,Blades,MB,WHA,1974-75,1974-75
+Pho,,w,Phoenix,Roadrunners,PhA,WHA,1974-75,1976-77
+SD,,w,San Diego,Mariners,SD,WHA,1974-75,1976-77
+Cal,,ca,Calgary,Cowboys,CaA,WHA,1975-76,1975-76
+Cal,,w,Calgary,Cowboys,CaA,WHA,1976-77,1976-77
+Cin,,e,Cincinnati,Stingers,Cin,WHA,1975-76,1976-77
+Cin,,,Cincinnati,Stingers,Cin,WHA,1977-78,1978-79
+DO,,w,Denver,Spurs,DO,WHA,1975-76,1975-76
+DO,,w,Ottawa,Civics,DO,WHA,1975-76,1975-76
+Cle,wa,a,Cleveland,Barons,Cle,NHL,1976-77,1977-78
+Col,cc,s,Colorado,Rockies,NJ,NHL,1976-77,1981-82
+Bir,,e,Birmingham,Bulls,Bir,WHA,1976-77,1976-77
+Bir,,,Birmingham,Bulls,Bir,WHA,1977-78,1978-79
+Min,,e,Minnesota,Fighting Saints,MnA,WHA,1976-77,1976-77
+Cze,,,Czechoslovakia,,Cze,WHA,1977-78,1978-79
+Sov,,,Soviet,All Stars,Sov,WHA,1977-78,1978-79
+Fin,,,Finland,,Fin,WHA,1978-79,1978-79
+Edm,cc,s,Edmonton,Oilers,Edm,NHL,1979-80,1992-93
+Edm,w,pc,Edmonton,Oilers,Edm,NHL,1993-94,1997-98
+Edm,w,nw,Edmonton,Oilers,Edm,NHL,1998-99,
+Har,wa,n,Hartford,Whalers,Car,NHL,1979-80,1980-81
+Har,wa,a,Hartford,Whalers,Car,NHL,1981-82,1992-93
+Har,e,ne,Hartford,Whalers,Car,NHL,1993-94,1996-97
+Que,wa,a,Quebec,Nordiques,Col,NHL,1979-80,1992-93
+Que,e,ne,Quebec,Nordiques,Col,NHL,1993-94,1994-95
+Win,cc,s,Winnipeg,Jets,Pho,NHL,1979-80,1980-81
+Win,cc,n,Winnipeg,Jets,Pho,NHL,1981-82,1981-82
+Win,cc,s,Winnipeg,Jets,Pho,NHL,1982-83,1992-93
+Win,w,ce,Winnipeg,Jets,Pho,NHL,1993-94,1995-96
+Cal,cc,p,Calgary,Flames,Cal,NHL,1980-81,1980-81
+Cal,cc,s,Calgary,Flames,Cal,NHL,1981-82,1992-93
+Cal,w,pc,Calgary,Flames,Cal,NHL,1993-94,1997-98
+Cal,w,nw,Calgary,Flames,Cal,NHL,1998-99,
+NJ,wa,p,New Jersey,Devils,NJ,NHL,1982-83,1992-93
+NJ,e,at,New Jersey,Devils,NJ,NHL,1993-94,
+SJ,cc,s,San Jose,Sharks,SJ,NHL,1991-92,1992-93
+SJ,w,pc,San Jose,Sharks,SJ,NHL,1993-94,
+Ott,wa,a,Ottawa,Senators,Ott,NHL,1992-93,1992-93
+Ott,e,ne,Ottawa,Senators,Ott,NHL,1993-94,
+TB,cc,n,Tampa Bay,Lightning,TB,NHL,1992-93,1992-93
+TB,e,at,Tampa Bay,Lightning,TB,NHL,1993-94,1997-98
+TB,e,se,Tampa Bay,Lightning,TB,NHL,1998-99,
+Ana,w,pc,Anaheim,Mighty Ducks,Ana,NHL,1993-94,2005-06
+Dal,w,ce,Dallas,Stars,Dal,NHL,1993-94,1997-98
+Dal,w,pc,Dallas,Stars,Dal,NHL,1998-99,
+Fla,e,at,Florida,Panthers,Fla,NHL,1993-94,1997-98
+Fla,e,se,Florida,Panthers,Fla,NHL,1998-99,
+Col,w,pc,Colorado,Avalanche,Col,NHL,1995-96,1997-98
+Col,w,nw,Colorado,Avalanche,Col,NHL,1998-99,
+Pho,w,ce,Phoenix,Coyotes,Pho,NHL,1996-97,1997-98
+Pho,w,pc,Phoenix,Coyotes,Pho,NHL,1998-99,
+Car,e,ne,Carolina,Hurricanes,Car,NHL,1997-98,1997-98
+Car,e,se,Carolina,Hurricanes,Car,NHL,1998-99,
+Nas,w,ce,Nashville,Predators,Nas,NHL,1998-99,
+Atl,e,se,Atlanta,Thrashers,Win,NHL,99-00,2010-11
+Win,e,se,Winnipeg,Jets,Win,NHL,2011-12,
+Clm,w,ce,Columbus,Blue Jackets,Clm,NHL,2000-01,
+Min,w,nw,Minnesota,Wild,Min,NHL,2000-01,
+Ana,w,pc,Anaheim,Ducks,Ana,NHL,2006-07,
+

@@ -1,0 +1,8 @@
+code,name,year,no,date,team,opp,loc,w/l,g,a,pts,+/-,pim,even,ppg,shg,sog
+gretw001,Wayne Gretzky,1987-88,1,19880406,Edm,Win,Edm,W,0,2,2,0,0,0,0,0,1
+gretw001,Wayne Gretzky,1987-88,2,19880407,Edm,Win,Edm,W,0,0,0,-1,2,0,0,0,2
+gretw001,Wayne Gretzky,1987-88,3,19880409,Edm,Win,Win,L,0,1,1,-1,0,0,0,0,1
+gretw001,Wayne Gretzky,1987-88,4,19880410,Edm,Win,Win,W,0,3,3,-1,0,0,0,0,3
+gretw001,Wayne Gretzky,1987-88,5,19880412,Edm,Win,Edm,W,1,4,5,2,2,1,0,0,4
+gretw001,Wayne Gretzky,1987-88,6,19880419,Edm,Cal,Cal,W,1,0,1,2,2,1,0,0,2
+gretw001,Wayne Gretzky,1987-88,7,19880421,Edm,Cal,Cal,W,2,0,2,3,0,0,1,1,4
