@@ -1,0 +1,23 @@
+TEAMID = Team ID code to link with CFB_TEAM_TABLE	
+SEASON	
+SCHOOL	
+PLAYERID	
+FIRST = First name	
+LAST = Last name	
+POS = Position	
+G = Games played (default is team games played)	
+RATT = Rushing attempts	
+RNET = Net rushing yards	 
+RTD = Rushing touchdowns	
+PATT = Passing attempts	
+PCMP = Passing completions	
+PYDS = Passing yards	
+PTD = Passing touchdowns	
+PINT = Passing interceptions thrown	
+Rec = Receptions	
+RecYDS = Receiving yards	
+RecTD = Receiving touchdowns	
+FGM = Field goals made	
+FGA = Field goals attempted	
+1PM = Point after touchdown (kick) made	
+1PA = Point after touchdown (kick) attempted
