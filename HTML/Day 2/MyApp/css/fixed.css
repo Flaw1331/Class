@@ -1,0 +1,41 @@
+/*
+ * Fixed Position: Position doesn't move when scrolled.
+ */
+
+.box-set {
+  position: relative;
+  height: 4000px;
+  background: darkgray;
+}
+
+.box {
+  position: fixed;
+  width: 150px;
+  height: 150px;
+  background: #2db34a;
+  border: 2px solid black;
+}
+.box-1 {
+  top: 110px;
+}
+
+
+/* 
+.box-1 {
+  top: 6%;
+  left: 2%;
+}
+
+.box-2 {
+  top: 0;
+  right: -40px;
+}
+
+.box-3 {
+  right: 20px;
+  bottom: -10px;
+}
+
+.box-4 {
+  bottom: 0;
+} */

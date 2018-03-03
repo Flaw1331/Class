@@ -1,0 +1,38 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 12px;
+  margin: 8px; 
+}
+.my_image {
+  background-color: #999;
+  /* margin: 0px;
+  padding:0px;
+  line-height: 0px; */
+  /* line-height: 0;
+  margin-left: 13px;
+  border: solid 1px;
+  padding-left: 10px;
+  padding-top:10px; */
+}
+
+#story {
+  /* background-color: #ff0000;
+  padding: 10px;
+  border-radius: 10px;
+  width: 100px;  */
+
+  /* notice if I select this it is 120pixels */
+}
+h1 {
+  background-color: lightgray;
+}
+
+footer {
+  padding: 10px;
+  color: #ff0000;
+  border-radius: 3px;
+  border: solid 1px #ccc;
+  /* goes clockwise around top right bottom left */
+  margin: 5px 10px 5px 0px;
+  background-color: blanchedalmond;
+}

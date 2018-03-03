@@ -1,0 +1,25 @@
+body {
+  /* Notice the comment form for styles are different */
+
+  /* Font family uses fallbacks. If Segoe UI exists use it, otherwise
+      use Tahoma, then Geneva, etc. */
+      /* font-family: 'Libre Baskerville', serif; */
+      /* serif are the strokes on the end */
+  /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+  font-size: 13px;
+  /* margin: 8px; */
+}
+
+h1 {
+  background-color: lightgray;
+}
+
+footer {
+  padding: 10px;
+  color: #ff0000;
+  border-radius: 3px;
+  border: solid 1px #ccc;
+  /* goes clockwise around top right bottom left */
+  margin: 5px 10px 5px 0px;
+  background-color: blanchedalmond;
+}

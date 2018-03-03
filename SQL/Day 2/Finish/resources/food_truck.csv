@@ -1,0 +1,3 @@
+order_id,email,name,items,price
+1, joe@example.com,Joe Tonks, 'pollo burrito. diet coke', 12.50
+2, jill@example.com,Jill Jones, 'carne asada. sprite', 14.50

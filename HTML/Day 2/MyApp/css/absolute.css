@@ -1,0 +1,39 @@
+/*
+ * Absolute Position: anchors elements together
+ 
+ */
+
+.box-set {
+  position: relative;
+  height: 400px;
+  background: darkgray;
+}
+
+.box {
+  /* Absolute Position */
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background: #2db34a;
+  border: 2px solid black;
+}
+
+/* .box-1 {
+  top:130px;
+  left: 200px;
+} */
+
+
+/* .box-2 {
+  top: 0;
+  right: -40px;
+} */
+
+/* .box-3 {
+  right: 20px;
+  bottom: -10px;
+}
+
+.box-4 {
+  bottom: 0;
+} */

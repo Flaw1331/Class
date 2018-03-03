@@ -1,0 +1,39 @@
+/*
+ * Static: Default positioning
+ */
+
+.box-set {
+
+  height: 600px;
+  background: darkgray;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  background: #2db34a;
+  border: 2px solid black;
+}
+
+.box-4 {
+  margin: auto;
+}
+/* This way drops block 2 down */
+/* .box-1 {
+  float: right;
+} */
+
+/* this way is keeps it at the same height */
+ .box-1 {
+  float: right;
+} 
+.box-2 {
+  display: inline-block;
+}
+.box-3 {
+  display: block;
+  overflow: auto;
+}
+
+
+
