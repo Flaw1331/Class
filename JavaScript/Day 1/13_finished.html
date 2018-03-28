@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <!-- https://www.bootstrapcdn.com/bootswatch/ -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/4.0.0/slate/bootstrap.min.css">
+    <link rel="stylesheet" type='text/css' href="site.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+    <title>Home</title>
+</head>
+
+<body>
+    <!-- Navbar Expand Md says at medium resolution expand out the Navbar -->
+    <header class="navbar navbar-dark navbar-expand-md">
+        <div class="navbar-brand">
+            <i class="fas fa-chess-rook"></i> Intro to Javascript
+        </div>
+    </header>
+    <div class="container">
+        <div class='card'>
+            <div class='card-header text-white'>
+                <h3 class='text-center'>Javascript</h3>
+            </div>
+            <div class='card-body'>
+                <div id="my-text"></div>
+                <!-- <div class='btn-group blackjack'>
+                    <button class="btn" id='new-game'>New Game</button>
+                    <button class="btn" id='hit'>Hit</button>
+                    <button class="btn" id='stay'>Stay</button>
+                </div> -->
+
+                <button class='btn' id='ok-button'>ok</button>
+                <div class="btn-group rock-paper-scissors">
+                    <button class="btn" id='rock-button'>Rock</button>
+                    <button class="btn" id='paper-button'>Paper</button>
+                    <button class="btn" id='scissors-button'>Scissors</button>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+
+    <script>
+        // Rock Paper Scissors
+
+        // uncomment the Rock Paper Scissors buttons from the index.html
+        // then use getElementById to get each button and store as a variable
+        // in javascript: let okButton = document.getElementById('ok-button');
+
+        // Now start the game by hiding the 'okButton', change the text-area
+        // to read 'Click Rock Paper Scissors'
+        // Once the user clicks a button, compare that button press to the
+        // computer's randomly generated choice.
+        // Show who wins (computer or human)
+        // clear 
+
+        var myText = document.getElementById("my-text");
+        let okButton = document.getElementById('ok-button');
+        let rockButton = document.getElementById('rock-button');
+        let paperButton = document.getElementById('paper-button');
+        let scissorsButton = document.getElementById('scissors-button');
+
+        const choices = {
+            PAPER: 'paper',
+            SCISSORS: 'scissors',
+            ROCK: 'rock'
+        }
+
+        function GenerateWinningText(winner, resultText) {
+            if (winner === 'computer') {
+                resultText += '<p class="lead">Computer Wins!</p>';
+            }
+            else if (winner === 'player') {
+                resultText += '<p class="lead">You Win!</p>';
+            }
+            else {
+                resultText += '<p class="lead">It is a Tie!</p>';
+            }
+            myText.innerHTML = resultText;
+        }
+
+        function DisplayRockPapersScissors() {
+            okButton.style.display = 'none';
+            rockButton.style.display = 'block';
+            paperButton.style.display = 'block';
+            scissorsButton.style.display = 'block';
+            myText.innerHTML = "<p class='lead'>Welcome</p>Please choose Paper, Rock or Scissors!<br><br>";
+        }
+        function DisplayOkButton() {
+            okButton.style.display = 'block';
+            rockButton.style.display = 'none';
+            paperButton.style.display = 'none';
+            scissorsButton.style.display = 'none';
+        }
+
+        function UpdateGameState(gameStart, playerChoice) {
+            if (gameStart) {
+                DisplayRockPapersScissors();
+            }
+            else {
+                DisplayOkButton();
+                let computerSelections = [choices.ROCK, choices.PAPER, choices.SCISSORS];
+                let computerChoice = computerSelections[Math.round(Math.random() * 2)];
+                let resultText = '<p>Your choice: <strong>' + playerChoice + '</strong>.';
+                resultText += '<br>Computer choice: <strong>' + computerChoice + '<strong>.</p>';
+                if (playerChoice === computerChoice) {
+                    GenerateWinningText('tie', resultText);
+                }
+                else if (playerChoice === choices.ROCK) {
+                    if (computerChoice === choices.SCISSORS)
+                        GenerateWinningText('player', resultText);
+                    else
+                        GenerateWinningText('computer', resultText);
+                }
+                else if (playerChoice === choices.SCISSORS) {
+                    if (computerChoice === choices.PAPER)
+                        GenerateWinningText('player', resultText);
+                    else
+                        GenerateWinningText('computer', resultText);
+                }
+                else if (playerChoice === choices.PAPER) {
+                    if (computerChoice === choices.ROCK)
+                        GenerateWinningText('player', resultText);
+                    else
+                        GenerateWinningText('computer', resultText);
+                }
+                else {
+                    myText.innerHTML = "something bad happened I can't explain";
+                }
+            }
+        }
+
+
+        rockButton.addEventListener('click', function () {
+            UpdateGameState(false, choices.ROCK);
+        });
+
+        paperButton.addEventListener('click', function () {
+            UpdateGameState(false, choices.PAPER);
+        });
+
+        scissorsButton.addEventListener('click', function () {
+            UpdateGameState(false, choices.SCISSORS);
+        });
+
+        okButton.addEventListener('click', function () {
+            UpdateGameState(true);
+        });
+
+        UpdateGameState(true);
+
+    </script>
+
+</body>
+
+</html>

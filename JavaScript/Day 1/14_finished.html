@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <!-- https://www.bootstrapcdn.com/bootswatch/ -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/4.0.0/slate/bootstrap.min.css">
+    <link rel="stylesheet" type='text/css' href="site.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+    <title>Home</title>
+</head>
+
+<body>
+    <!-- Navbar Expand Md says at medium resolution expand out the Navbar -->
+    <header class="navbar navbar-dark navbar-expand-md">
+        <div class="navbar-brand">
+            <i class="fas fa-chess-rook"></i> Intro to Javascript
+        </div>
+    </header>
+    <div class="container">
+        <div class='card'>
+            <div class='card-header text-white'>
+                <h3 class='text-center'>Blackjack</h3>
+            </div>
+            <div class='card-body'>
+                <div id="my-text"></div>
+                <div class='btn-group blackjack'>
+                    <button class="btn" id='new-game'>New Game</button>
+                    <button class="btn" id='hit'>Hit</button>
+                    <button class="btn" id='stay'>Stay</button>
+                </div>
+
+                <!-- <button class='btn' id='ok-button'>ok</button> -->
+                <!-- <div class="btn-group rock-paper-scissors">
+                    <button class="btn" id='rock-button'>Rock</button>
+                    <button class="btn" id='paper-button'>Paper</button>
+                    <button class="btn" id='scissors-button'>Scissors</button>
+                </div> -->
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+
+    <script>
+
+        let suits = ['Hearts', 'Clubs', 'Diamonds', 'Spades']
+        let values = ['Ace', 'King', 'Queen', 'Jack', 'Ten', 'Nine',
+            'Eight', 'Seven', 'Six', 'Five', 'Four', 'Three', 'Two']
+
+        let myText = document.getElementById('my-text');
+        let newGame = document.getElementById('new-game');
+        let hitButton = document.getElementById('hit');
+        let stayButton = document.getElementById('stay');
+        let okButton = document.getElementById('ok-button');
+
+        let gameStarted = false;
+        let gameOver = false;
+        let winner = 'none';
+        let dealerCards = [];
+        let playerCards = [];
+        let dealerScore = 0;
+        let playerScore = 0;
+        let deck = [];
+
+        hitButton.style.display = 'none';
+        stayButton.style.display = 'none';
+
+
+        newGame.addEventListener('click', function () {
+            gameStarted = true;
+            gameOver = false;
+            winner = 'none';
+
+            deck = createDeck();
+            shuffleDeck(deck);
+            dealerCards = [getNextCard(), getNextCard()];
+            playerCards = [getNextCard(), getNextCard()];
+            newGame.style.display = 'none';
+            hitButton.style.display = 'block';
+            stayButton.style.display = 'block';
+            showStatus();
+        });
+
+        hitButton.addEventListener('click', function () {
+            playerCards.push(getNextCard());
+            checkForEndOfGame();
+            showStatus();
+        });
+
+        stayButton.addEventListener('click', function () {
+            gameOver = true;
+            checkForEndOfGame();
+            showStatus();
+        });
+
+        function getCardNumericValue(card) {
+            switch (card.value) {
+                case 'Ace':
+                    return 1;
+                case 'Two':
+                    return 2;
+                case 'Three':
+                    return 3;
+                case 'Four':
+                    return 4;
+                case 'Five':
+                    return 5;
+                case 'Six':
+                    return 6;
+                case 'Seven':
+                    return 7;
+                case 'Eight':
+                    return 8;
+                case 'Nine':
+                    return 9;
+                // king, jack, queen, or 10
+                default:
+                    return 10;
+            }
+        }
+
+        function updateScores() {
+            dealerScore = getScore(dealerCards);
+            playerScore = getScore(playerCards);
+        }
+
+        function getScore(cardArray) {
+            let score = 0;
+            let hasAce = false;
+            for (let i = 0; i < cardArray.length; i++) {
+                let card = cardArray[i];
+                score += getCardNumericValue(card);
+                if (card.value === 'Ace') {
+                    hasAce = true;
+                }
+            }
+            if (hasAce && score + 10 <= 21) {
+                return score + 10;
+            }
+            return score;
+        }
+
+        function showStatus() {
+            if (!gameStarted) {
+                myText.innerHTML = "<p class='lead'>Welcome to Blackjack</p>";
+                return;
+            }
+
+            let dealerCardString = '';
+            for (let i = 0; i < dealerCards.length; i++) {
+                dealerCardString += getCardString(dealerCards[i]) + '<br>';
+            }
+            let playerCardString = '';
+            for (let i = 0; i < playerCards.length; i++) {
+                playerCardString += getCardString(playerCards[i]) + '<br>';
+            }
+            updateScores();
+            checkForEndOfGame();
+            myText.innerHTML = 'Dealer has:<br>' + dealerCardString +
+                '(score: ' + dealerScore + ')<br><br>' +
+                'Player has:<br>' + playerCardString +
+                '(score: ' + playerScore + ')<br><br>';
+
+            if (gameOver) {
+                if (winner === 'player') {
+                    myText.innerHTML += "You WIN!";
+                }
+                else if (winner === 'tie') {
+                    myText.innerHTML += "It's a TIE.";
+                }
+                else {
+                    myText.innerHTML += "Dealer WINS!";
+                }
+                newGame.style.display = 'block';
+                hitButton.style.display = 'none';
+                stayButton.style.display = 'none';
+            }
+
+        }
+
+        function shuffleDeck(deck) {
+            for (let i = 0; i < deck.length; i++) {
+                let swapIndex = Math.trunc(Math.random() * deck.length);
+                let swapCard = deck[swapIndex];
+                deck[swapIndex] = deck[i];
+                deck[i] = swapCard;
+            }
+        }
+
+        function createDeck() {
+            let deck = [];
+            for (let i = 0; i < suits.length; i++) {
+                for (let j = 0; j < values.length; j++) {
+                    let card = {
+                        suit: suits[i],
+                        value: values[j]
+                    };
+                    deck.push(card);
+                }
+            }
+            return deck;
+        }
+
+        function getNextCard() {
+            return deck.shift();
+        }
+
+        function getCardString(card) {
+            return card.value + ' of ' + card.suit;
+        }
+
+        function getHandString(cards) {
+            for (let i = 0; i < cards.length; i++) {
+                console.log(getCardString(cards[i]));
+            }
+        }
+
+        function checkForEndOfGame() {
+            updateScores();
+            if (playerScore === 21) {
+                if (dealerScore !== 21) {
+                    winner = 'player';
+                }
+                else {
+                    winner = 'tie';
+                }
+                gameOver = true;
+                return;
+            }
+            if (dealerScore === 21) {
+                winner = 'computer';
+                gameOver = true;
+            }
+            if (gameOver) {
+                // let dealer take cards
+                while (dealerScore < playerScore && playerScore <= 21 && dealerScore <= 21) {
+                    dealerCards.push(getNextCard());
+                    updateScores();
+                }
+            }
+            if (playerScore > 21) {
+                winner = 'dealer';
+                gameOver = true;
+            }
+            else if (dealerScore > 21) {
+                winner = 'player';
+                gameOver = true;
+            }
+            else if (gameOver) {
+                if (playerScore > dealerScore) {
+                    winner = 'player';
+                }
+                else {
+                    winner = 'dealer';
+                }
+                newGame.style.display = 'block';
+                hitButton.style.display = 'none';
+                stayButton.style.display = 'none';
+            }
+        }
+
+        showStatus();
+    </script>
+
+</body>
+
+</html>

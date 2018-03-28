@@ -1,0 +1,6365 @@
+[
+    {
+        "Zipcode": 15081,
+        "Address": "South Heights, PA 15081, USA",
+        "Population": 342,
+        "Median Age": 50.2,
+        "Household Income": 31500,
+        "Per Capita Income": 22177,
+        "Poverty Rate": 20.76023392
+    },
+    {
+        "Zipcode": 20615,
+        "Address": "Broomes Island, MD 20615, USA",
+        "Population": 424,
+        "Median Age": 43.4,
+        "Household Income": 114375,
+        "Per Capita Income": 43920,
+        "Poverty Rate": 5.188679245
+    },
+    {
+        "Zipcode": 50201,
+        "Address": "Nevada, IA 50201, USA",
+        "Population": 8139,
+        "Median Age": 40.4,
+        "Household Income": 56619,
+        "Per Capita Income": 28908,
+        "Poverty Rate": 7.777368227
+    },
+    {
+        "Zipcode": 84020,
+        "Address": "Draper, UT 84020, USA",
+        "Population": 42751,
+        "Median Age": 30.4,
+        "Household Income": 89922,
+        "Per Capita Income": 33164,
+        "Poverty Rate": 4.392879699
+    },
+    {
+        "Zipcode": 39097,
+        "Address": "Louise, MS 39097, USA",
+        "Population": 495,
+        "Median Age": 58,
+        "Household Income": 26838,
+        "Per Capita Income": 17399,
+        "Poverty Rate": 34.94949495
+    },
+    {
+        "Zipcode": 72315,
+        "Address": "Blytheville, AR 72315, USA",
+        "Population": 24120,
+        "Median Age": 34.4,
+        "Household Income": 37044,
+        "Per Capita Income": 19837,
+        "Poverty Rate": 23.58623549
+    },
+    {
+        "Zipcode": 5454,
+        "Address": "Fairfax, VT 05454, USA",
+        "Population": 4754,
+        "Median Age": 38.7,
+        "Household Income": 74911,
+        "Per Capita Income": 31192,
+        "Poverty Rate": 2.692469499
+    },
+    {
+        "Zipcode": 53816,
+        "Address": "Mt Hope, WI 53816, USA",
+        "Population": 942,
+        "Median Age": 33.4,
+        "Household Income": 44375,
+        "Per Capita Income": 18813,
+        "Poverty Rate": 29.29936306
+    },
+    {
+        "Zipcode": 5483,
+        "Address": "Sheldon, VT 05483, USA",
+        "Population": 1481,
+        "Median Age": 35.9,
+        "Household Income": 65039,
+        "Per Capita Income": 24743,
+        "Poverty Rate": 7.494935854
+    },
+    {
+        "Zipcode": 37345,
+        "Address": "Huntland, TN 37345, USA",
+        "Population": 2155,
+        "Median Age": 46,
+        "Household Income": 38688,
+        "Per Capita Income": 20549,
+        "Poverty Rate": 15.68445476
+    },
+    {
+        "Zipcode": 1922,
+        "Address": "Byfield, MA 01922, USA",
+        "Population": 3025,
+        "Median Age": 44.4,
+        "Household Income": 109301,
+        "Per Capita Income": 40983,
+        "Poverty Rate": 2.181818182
+    },
+    {
+        "Zipcode": 95237,
+        "Address": "Lockeford, CA 95237, USA",
+        "Population": 3269,
+        "Median Age": 38.7,
+        "Household Income": 44542,
+        "Per Capita Income": 22400,
+        "Poverty Rate": 16.70235546
+    },
+    {
+        "Zipcode": 12429,
+        "Address": "Esopus, NY 12429, USA",
+        "Population": 273,
+        "Median Age": 38.7,
+        "Household Income": 114129,
+        "Per Capita Income": 43122,
+        "Poverty Rate": 0
+    },
+    {
+        "Zipcode": 6516,
+        "Address": "West Haven, CT 06516, USA",
+        "Population": 55349,
+        "Median Age": 36.9,
+        "Household Income": 52353,
+        "Per Capita Income": 26602,
+        "Poverty Rate": 11.0426566
+    },
+    {
+        "Zipcode": 81087,
+        "Address": "Vilas, CO 81087, USA",
+        "Population": 192,
+        "Median Age": 26.8,
+        "Household Income": 34500,
+        "Per Capita Income": 13210,
+        "Poverty Rate": 2.083333333
+    },
+    {
+        "Zipcode": 5492,
+        "Address": "Waterville, VT 05492, USA",
+        "Population": 727,
+        "Median Age": 41,
+        "Household Income": 53315,
+        "Per Capita Income": 23399,
+        "Poverty Rate": 12.1045392
+    },
+    {
+        "Zipcode": 2543,
+        "Address": "Woods Hole, MA 02543, USA",
+        "Population": 736,
+        "Median Age": 49.7,
+        "Household Income": 66250,
+        "Per Capita Income": 50348,
+        "Poverty Rate": 8.559782609
+    },
+    {
+        "Zipcode": 6062,
+        "Address": "Plainville, CT 06062, USA",
+        "Population": 17767,
+        "Median Age": 42.4,
+        "Household Income": 60630,
+        "Per Capita Income": 32531,
+        "Poverty Rate": 6.613384364
+    },
+    {
+        "Zipcode": 95008,
+        "Address": "Campbell, CA 95008, USA",
+        "Population": 45187,
+        "Median Age": 37.3,
+        "Household Income": 87204,
+        "Per Capita Income": 44023,
+        "Poverty Rate": 7.395932458
+    },
+    {
+        "Zipcode": 4418,
+        "Address": "Greenbush, ME 04418, USA",
+        "Population": 1632,
+        "Median Age": 42,
+        "Household Income": 37955,
+        "Per Capita Income": 19692,
+        "Poverty Rate": 17.76960784
+    },
+    {
+        "Zipcode": 96818,
+        "Address": "Honolulu, HI 96818, USA",
+        "Population": 51522,
+        "Median Age": 31.3,
+        "Household Income": 70850,
+        "Per Capita Income": 26894,
+        "Poverty Rate": 8.551686658
+    },
+    {
+        "Zipcode": 87734,
+        "Address": "Ocate, NM 87734, USA",
+        "Population": 190,
+        "Median Age": 60.4,
+        "Household Income": 42813,
+        "Per Capita Income": 19060,
+        "Poverty Rate": 44.73684211
+    },
+    {
+        "Zipcode": 30564,
+        "Address": "Murrayville, GA 30564, USA",
+        "Population": 3714,
+        "Median Age": 40.5,
+        "Household Income": 64213,
+        "Per Capita Income": 23422,
+        "Poverty Rate": 9.71997846
+    },
+    {
+        "Zipcode": 23146,
+        "Address": "Rockville, VA 23146, USA",
+        "Population": 3107,
+        "Median Age": 47,
+        "Household Income": 77207,
+        "Per Capita Income": 37414,
+        "Poverty Rate": 5.857740586
+    },
+    {
+        "Zipcode": 85250,
+        "Address": "Scottsdale, AZ 85250, USA",
+        "Population": 16653,
+        "Median Age": 48.6,
+        "Household Income": 59358,
+        "Per Capita Income": 39968,
+        "Poverty Rate": 7.788386477
+    },
+    {
+        "Zipcode": 59529,
+        "Address": "Hogeland, MT 59529, USA",
+        "Population": 143,
+        "Median Age": 57.2,
+        "Household Income": 115938,
+        "Per Capita Income": 70966,
+        "Poverty Rate": 1.398601399
+    },
+    {
+        "Zipcode": 1430,
+        "Address": "Ashburnham, MA 01430, USA",
+        "Population": 6119,
+        "Median Age": 42.4,
+        "Household Income": 83532,
+        "Per Capita Income": 34454,
+        "Poverty Rate": 6.896551724
+    },
+    {
+        "Zipcode": 90003,
+        "Address": "Los Angeles, CA 90003, USA",
+        "Population": 66200,
+        "Median Age": 26.2,
+        "Household Income": 29686,
+        "Per Capita Income": 9963,
+        "Poverty Rate": 39.02114804
+    },
+    {
+        "Zipcode": 93925,
+        "Address": "Chualar, CA 93925, USA",
+        "Population": 1708,
+        "Median Age": 32.5,
+        "Household Income": 70909,
+        "Per Capita Income": 23642,
+        "Poverty Rate": 7.142857143
+    },
+    {
+        "Zipcode": 54229,
+        "Address": "New Franken, WI 54229, USA",
+        "Population": 4123,
+        "Median Age": 40.4,
+        "Household Income": 68667,
+        "Per Capita Income": 29538,
+        "Poverty Rate": 5.918020859
+    },
+    {
+        "Zipcode": 77378,
+        "Address": "Willis, TX 77378, USA",
+        "Population": 14151,
+        "Median Age": 34.7,
+        "Household Income": 48136,
+        "Per Capita Income": 24117,
+        "Poverty Rate": 19.37672249
+    },
+    {
+        "Zipcode": 17938,
+        "Address": "Hegins, PA 17938, USA",
+        "Population": 2489,
+        "Median Age": 42.7,
+        "Household Income": 58409,
+        "Per Capita Income": 23520,
+        "Poverty Rate": 4.660506227
+    },
+    {
+        "Zipcode": 65332,
+        "Address": "Green Ridge, MO 65332, USA",
+        "Population": 1656,
+        "Median Age": 40.3,
+        "Household Income": 40511,
+        "Per Capita Income": 18929,
+        "Poverty Rate": 14.00966184
+    },
+    {
+        "Zipcode": 624,
+        "Address": "Peñuelas, 00624, Puerto Rico",
+        "Population": 25340,
+        "Median Age": 34.2,
+        "Household Income": 14768,
+        "Per Capita Income": 6761,
+        "Poverty Rate": 59.56985004
+    },
+    {
+        "Zipcode": 35956,
+        "Address": "Boaz, AL 35956, USA",
+        "Population": 8716,
+        "Median Age": 40,
+        "Household Income": 46844,
+        "Per Capita Income": 19615,
+        "Poverty Rate": 12.32216613
+    },
+    {
+        "Zipcode": 44093,
+        "Address": "Williamsfield, OH 44093, USA",
+        "Population": 1104,
+        "Median Age": 37.8,
+        "Household Income": 32344,
+        "Per Capita Income": 20559,
+        "Poverty Rate": 42.21014493
+    },
+    {
+        "Zipcode": 12156,
+        "Address": "Schodack Landing, NY 12156, USA",
+        "Population": 933,
+        "Median Age": 40.5,
+        "Household Income": 64107,
+        "Per Capita Income": 31616,
+        "Poverty Rate": 12.96891747
+    },
+    {
+        "Zipcode": 14113,
+        "Address": "North Java, NY 14113, USA",
+        "Population": 630,
+        "Median Age": 45.6,
+        "Household Income": 47500,
+        "Per Capita Income": 33149,
+        "Poverty Rate": 10.31746032
+    },
+    {
+        "Zipcode": 17774,
+        "Address": "Unityville, PA 17774, USA",
+        "Population": 1261,
+        "Median Age": 35.7,
+        "Household Income": 45795,
+        "Per Capita Income": 20033,
+        "Poverty Rate": 13.79857256
+    },
+    {
+        "Zipcode": 36736,
+        "Address": "Dixons Mills, AL 36736, USA",
+        "Population": 1756,
+        "Median Age": 42.3,
+        "Household Income": 28333,
+        "Per Capita Income": 17708,
+        "Poverty Rate": 33.20045558
+    },
+    {
+        "Zipcode": 37727,
+        "Address": "Del Rio, TN 37727, USA",
+        "Population": 2101,
+        "Median Age": 49.8,
+        "Household Income": 29779,
+        "Per Capita Income": 20369,
+        "Poverty Rate": 25.70204664
+    },
+    {
+        "Zipcode": 12759,
+        "Address": "Loch Sheldrake, NY 12759, USA",
+        "Population": 2033,
+        "Median Age": 30.1,
+        "Household Income": 37902,
+        "Per Capita Income": 13996,
+        "Poverty Rate": 25.62715199
+    },
+    {
+        "Zipcode": 25669,
+        "Address": "Crum, WV 25669, USA",
+        "Population": 908,
+        "Median Age": 44,
+        "Household Income": 35302,
+        "Per Capita Income": 16972,
+        "Poverty Rate": 23.78854626
+    },
+    {
+        "Zipcode": 63039,
+        "Address": "Gray Summit, MO 63039, USA",
+        "Population": 1297,
+        "Median Age": 31.7,
+        "Household Income": 44521,
+        "Per Capita Income": 18539,
+        "Poverty Rate": 4.703161141
+    },
+    {
+        "Zipcode": 22025,
+        "Address": "Dumfries, VA 22025, USA",
+        "Population": 16955,
+        "Median Age": 40,
+        "Household Income": 115000,
+        "Per Capita Income": 48008,
+        "Poverty Rate": 3.108227661
+    },
+    {
+        "Zipcode": 24083,
+        "Address": "Daleville, VA 24083, USA",
+        "Population": 2277,
+        "Median Age": 46.4,
+        "Household Income": 91295,
+        "Per Capita Income": 47678,
+        "Poverty Rate": 0.658761528
+    },
+    {
+        "Zipcode": 10303,
+        "Address": "Staten Island, NY 10303, USA",
+        "Population": 24537,
+        "Median Age": 31.1,
+        "Household Income": 51537,
+        "Per Capita Income": 22077,
+        "Poverty Rate": 21.82825936
+    },
+    {
+        "Zipcode": 28436,
+        "Address": "Delco, NC 28436, USA",
+        "Population": 2170,
+        "Median Age": 37.9,
+        "Household Income": 45417,
+        "Per Capita Income": 22077,
+        "Poverty Rate": 13.13364055
+    },
+    {
+        "Zipcode": 79345,
+        "Address": "Meadow, TX 79345, USA",
+        "Population": 968,
+        "Median Age": 41.1,
+        "Household Income": 53281,
+        "Per Capita Income": 22971,
+        "Poverty Rate": 17.3553719
+    },
+    {
+        "Zipcode": 33029,
+        "Address": "Hollywood, FL 33029, USA",
+        "Population": 47086,
+        "Median Age": 36.6,
+        "Household Income": 88264,
+        "Per Capita Income": 30976,
+        "Poverty Rate": 3.32370556
+    },
+    {
+        "Zipcode": 8872,
+        "Address": "Sayreville, NJ 08872, USA",
+        "Population": 20041,
+        "Median Age": 37.7,
+        "Household Income": 72956,
+        "Per Capita Income": 32666,
+        "Poverty Rate": 6.366947757
+    },
+    {
+        "Zipcode": 24281,
+        "Address": "Rose Hill, VA 24281, USA",
+        "Population": 2691,
+        "Median Age": 37.6,
+        "Household Income": 22902,
+        "Per Capita Income": 15557,
+        "Poverty Rate": 37.08658491
+    },
+    {
+        "Zipcode": 14555,
+        "Address": "Sodus Point, NY 14555, USA",
+        "Population": 1229,
+        "Median Age": 54.9,
+        "Household Income": 57500,
+        "Per Capita Income": 30559,
+        "Poverty Rate": 11.31000814
+    },
+    {
+        "Zipcode": 44629,
+        "Address": "Gnadenhutten, OH 44629, USA",
+        "Population": 2707,
+        "Median Age": 35.9,
+        "Household Income": 43545,
+        "Per Capita Income": 19101,
+        "Poverty Rate": 9.050609531
+    },
+    {
+        "Zipcode": 47591,
+        "Address": "Vincennes, IN 47591, USA",
+        "Population": 26995,
+        "Median Age": 37.1,
+        "Household Income": 40815,
+        "Per Capita Income": 20681,
+        "Poverty Rate": 14.11002037
+    },
+    {
+        "Zipcode": 20886,
+        "Address": "Montgomery Village, MD 20886, USA",
+        "Population": 34023,
+        "Median Age": 34,
+        "Household Income": 77136,
+        "Per Capita Income": 35177,
+        "Poverty Rate": 8.003409458
+    },
+    {
+        "Zipcode": 22191,
+        "Address": "Woodbridge, VA 22191, USA",
+        "Population": 61863,
+        "Median Age": 30.9,
+        "Household Income": 79198,
+        "Per Capita Income": 31401,
+        "Poverty Rate": 10.41494916
+    },
+    {
+        "Zipcode": 10309,
+        "Address": "Staten Island, NY 10309, USA",
+        "Population": 32646,
+        "Median Age": 38.5,
+        "Household Income": 86297,
+        "Per Capita Income": 35719,
+        "Poverty Rate": 6.766525761
+    },
+    {
+        "Zipcode": 32683,
+        "Address": "Otter Creek, FL 32683, USA",
+        "Population": 337,
+        "Median Age": 45.9,
+        "Household Income": 36563,
+        "Per Capita Income": 13575,
+        "Poverty Rate": 59.94065282
+    },
+    {
+        "Zipcode": 16029,
+        "Address": "East Butler, PA 16029, USA",
+        "Population": 647,
+        "Median Age": 40,
+        "Household Income": 41875,
+        "Per Capita Income": 22128,
+        "Poverty Rate": 13.29211747
+    },
+    {
+        "Zipcode": 76135,
+        "Address": "Fort Worth, TX 76135, USA",
+        "Population": 20550,
+        "Median Age": 39.8,
+        "Household Income": 52945,
+        "Per Capita Income": 27715,
+        "Poverty Rate": 13.94160584
+    },
+    {
+        "Zipcode": 93954,
+        "Address": "San Lucas, CA 93954, USA",
+        "Population": 222,
+        "Median Age": 31.8,
+        "Household Income": 39167,
+        "Per Capita Income": 12520,
+        "Poverty Rate": 40.54054054
+    },
+    {
+        "Zipcode": 12942,
+        "Address": "Keene, NY 12942, USA",
+        "Population": 724,
+        "Median Age": 44.4,
+        "Household Income": 42188,
+        "Per Capita Income": 24003,
+        "Poverty Rate": 20.5801105
+    },
+    {
+        "Zipcode": 61062,
+        "Address": "Pearl City, IL 61062, USA",
+        "Population": 1964,
+        "Median Age": 40.7,
+        "Household Income": 60000,
+        "Per Capita Income": 26087,
+        "Poverty Rate": 9.266802444
+    },
+    {
+        "Zipcode": 4357,
+        "Address": "Richmond, ME 04357, USA",
+        "Population": 3393,
+        "Median Age": 43.4,
+        "Household Income": 59961,
+        "Per Capita Income": 26571,
+        "Poverty Rate": 8.871205423
+    },
+    {
+        "Zipcode": 52560,
+        "Address": "Floris, IA 52560, USA",
+        "Population": 483,
+        "Median Age": 44.6,
+        "Household Income": 53472,
+        "Per Capita Income": 21979,
+        "Poverty Rate": 11.18012422
+    },
+    {
+        "Zipcode": 87528,
+        "Address": "Dulce, NM 87528, USA",
+        "Population": 3405,
+        "Median Age": 29,
+        "Household Income": 39725,
+        "Per Capita Income": 16182,
+        "Poverty Rate": 20.76358297
+    },
+    {
+        "Zipcode": 60565,
+        "Address": "Naperville, IL 60565, USA",
+        "Population": 40864,
+        "Median Age": 40.8,
+        "Household Income": 113581,
+        "Per Capita Income": 45408,
+        "Poverty Rate": 3.57527408
+    },
+    {
+        "Zipcode": 6422,
+        "Address": "Durham, CT 06422, USA",
+        "Population": 7380,
+        "Median Age": 42.5,
+        "Household Income": 124179,
+        "Per Capita Income": 47679,
+        "Poverty Rate": 0.93495935
+    },
+    {
+        "Zipcode": 35801,
+        "Address": "Huntsville, AL 35801, USA",
+        "Population": 22253,
+        "Median Age": 44,
+        "Household Income": 59352,
+        "Per Capita Income": 41807,
+        "Poverty Rate": 8.668494136
+    },
+    {
+        "Zipcode": 6444,
+        "Address": "Marion, CT 06444, USA",
+        "Population": 134,
+        "Median Age": 29.7,
+        "Household Income": 103636,
+        "Per Capita Income": 22178,
+        "Poverty Rate": 0
+    },
+    {
+        "Zipcode": 37398,
+        "Address": "Winchester, TN 37398, USA",
+        "Population": 13589,
+        "Median Age": 45.6,
+        "Household Income": 43330,
+        "Per Capita Income": 24562,
+        "Poverty Rate": 12.19368607
+    },
+    {
+        "Zipcode": 58647,
+        "Address": "New England, ND 58647, USA",
+        "Population": 1156,
+        "Median Age": 47,
+        "Household Income": 49375,
+        "Per Capita Income": 26557,
+        "Poverty Rate": 5.882352941
+    },
+    {
+        "Zipcode": 67849,
+        "Address": "Hanston, KS 67849, USA",
+        "Population": 486,
+        "Median Age": 43,
+        "Household Income": 63214,
+        "Per Capita Income": 26015,
+        "Poverty Rate": 4.938271605
+    },
+    {
+        "Zipcode": 31771,
+        "Address": "Norman Park, GA 31771, USA",
+        "Population": 6207,
+        "Median Age": 32.9,
+        "Household Income": 33524,
+        "Per Capita Income": 17690,
+        "Poverty Rate": 20.62187852
+    },
+    {
+        "Zipcode": 55396,
+        "Address": "Winthrop, MN 55396, USA",
+        "Population": 2231,
+        "Median Age": 41.8,
+        "Household Income": 48919,
+        "Per Capita Income": 23296,
+        "Poverty Rate": 13.5365307
+    },
+    {
+        "Zipcode": 92543,
+        "Address": "Hemet, CA 92543, USA",
+        "Population": 34406,
+        "Median Age": 36.5,
+        "Household Income": 26909,
+        "Per Capita Income": 14425,
+        "Poverty Rate": 30.7795152
+    },
+    {
+        "Zipcode": 89316,
+        "Address": "Eureka, NV 89316, USA",
+        "Population": 1513,
+        "Median Age": 38.7,
+        "Household Income": 63603,
+        "Per Capita Income": 26280,
+        "Poverty Rate": 14.87111699
+    },
+    {
+        "Zipcode": 99661,
+        "Address": "Sand Point, AK 99661, USA",
+        "Population": 1243,
+        "Median Age": 39.6,
+        "Household Income": 71250,
+        "Per Capita Income": 27423,
+        "Poverty Rate": 18.66452132
+    },
+    {
+        "Zipcode": 55735,
+        "Address": "Finlayson, MN 55735, USA",
+        "Population": 1802,
+        "Median Age": 49,
+        "Household Income": 40592,
+        "Per Capita Income": 23097,
+        "Poverty Rate": 15.53829079
+    },
+    {
+        "Zipcode": 80831,
+        "Address": "Peyton, CO 80831, USA",
+        "Population": 22256,
+        "Median Age": 35,
+        "Household Income": 81000,
+        "Per Capita Income": 31028,
+        "Poverty Rate": 6.411754134
+    },
+    {
+        "Zipcode": 20634,
+        "Address": "Great Mills, MD 20634, USA",
+        "Population": 6562,
+        "Median Age": 31.9,
+        "Household Income": 79944,
+        "Per Capita Income": 35961,
+        "Poverty Rate": 9.295946358
+    },
+    {
+        "Zipcode": 59846,
+        "Address": "Huson, MT 59846, USA",
+        "Population": 1148,
+        "Median Age": 58.5,
+        "Household Income": 52891,
+        "Per Capita Income": 26606,
+        "Poverty Rate": 10.27874564
+    },
+    {
+        "Zipcode": 77039,
+        "Address": "Houston, TX 77039, USA",
+        "Population": 28151,
+        "Median Age": 27.2,
+        "Household Income": 38167,
+        "Per Capita Income": 12255,
+        "Poverty Rate": 29.73961849
+    },
+    {
+        "Zipcode": 8340,
+        "Address": "Milmay, NJ 08340, USA",
+        "Population": 716,
+        "Median Age": 42,
+        "Household Income": 100250,
+        "Per Capita Income": 39030,
+        "Poverty Rate": 5.167597765
+    },
+    {
+        "Zipcode": 44143,
+        "Address": "Cleveland, OH 44143, USA",
+        "Population": 24044,
+        "Median Age": 48.5,
+        "Household Income": 60265,
+        "Per Capita Income": 34714,
+        "Poverty Rate": 6.034769589
+    },
+    {
+        "Zipcode": 48191,
+        "Address": "Willis, MI 48191, USA",
+        "Population": 3736,
+        "Median Age": 41.8,
+        "Household Income": 72204,
+        "Per Capita Income": 25659,
+        "Poverty Rate": 10.59957173
+    },
+    {
+        "Zipcode": 5301,
+        "Address": "Guilford, VT 05301, USA",
+        "Population": 16819,
+        "Median Age": 44.1,
+        "Household Income": 49552,
+        "Per Capita Income": 28510,
+        "Poverty Rate": 13.57393424
+    },
+    {
+        "Zipcode": 82327,
+        "Address": "Hanna, WY 82327, USA",
+        "Population": 792,
+        "Median Age": 39.8,
+        "Household Income": 34531,
+        "Per Capita Income": 22759,
+        "Poverty Rate": 25.25252525
+    },
+    {
+        "Zipcode": 55433,
+        "Address": "Minneapolis, MN 55433, USA",
+        "Population": 34024,
+        "Median Age": 36.3,
+        "Household Income": 59258,
+        "Per Capita Income": 27493,
+        "Poverty Rate": 9.972372443
+    },
+    {
+        "Zipcode": 84093,
+        "Address": "Sandy, UT 84093, USA",
+        "Population": 23237,
+        "Median Age": 41,
+        "Household Income": 94938,
+        "Per Capita Income": 40837,
+        "Poverty Rate": 5.116839523
+    },
+    {
+        "Zipcode": 44313,
+        "Address": "Akron, OH 44313, USA",
+        "Population": 24611,
+        "Median Age": 41,
+        "Household Income": 48852,
+        "Per Capita Income": 31436,
+        "Poverty Rate": 14.68042745
+    },
+    {
+        "Zipcode": 58331,
+        "Address": "Egeland, ND 58331, USA",
+        "Population": 116,
+        "Median Age": 53.5,
+        "Household Income": 69792,
+        "Per Capita Income": 51149,
+        "Poverty Rate": 1.724137931
+    },
+    {
+        "Zipcode": 38858,
+        "Address": "Nettleton, MS 38858, USA",
+        "Population": 7392,
+        "Median Age": 39.1,
+        "Household Income": 38586,
+        "Per Capita Income": 18655,
+        "Poverty Rate": 23.80952381
+    },
+    {
+        "Zipcode": 77336,
+        "Address": "Huffman, TX 77336, USA",
+        "Population": 12022,
+        "Median Age": 36,
+        "Household Income": 62995,
+        "Per Capita Income": 30721,
+        "Poverty Rate": 9.632340709
+    },
+    {
+        "Zipcode": 38339,
+        "Address": "Guys, TN 38339, USA",
+        "Population": 574,
+        "Median Age": 40.5,
+        "Household Income": 44500,
+        "Per Capita Income": 21109,
+        "Poverty Rate": 26.65505226
+    },
+    {
+        "Zipcode": 5156,
+        "Address": "Springfield, VT 05156, USA",
+        "Population": 9529,
+        "Median Age": 43.6,
+        "Household Income": 48872,
+        "Per Capita Income": 25574,
+        "Poverty Rate": 13.62157624
+    },
+    {
+        "Zipcode": 73014,
+        "Address": "Calumet, OK 73014, USA",
+        "Population": 1642,
+        "Median Age": 39.8,
+        "Household Income": 58264,
+        "Per Capita Income": 26515,
+        "Poverty Rate": 9.439707674
+    },
+    {
+        "Zipcode": 54120,
+        "Address": "Fence, WI 54120, USA",
+        "Population": 111,
+        "Median Age": 53.5,
+        "Household Income": 31250,
+        "Per Capita Income": 19959,
+        "Poverty Rate": 11.71171171
+    },
+    {
+        "Zipcode": 13640,
+        "Address": "Wellesley Island, NY 13640, USA",
+        "Population": 241,
+        "Median Age": 62.8,
+        "Household Income": 88125,
+        "Per Capita Income": 48388,
+        "Poverty Rate": 3.734439834
+    },
+    {
+        "Zipcode": 59542,
+        "Address": "Turner, MT 59542, USA",
+        "Population": 262,
+        "Median Age": 34,
+        "Household Income": 33214,
+        "Per Capita Income": 17982,
+        "Poverty Rate": 13.74045802
+    },
+    {
+        "Zipcode": 10553,
+        "Address": "Mt Vernon, NY 10553, USA",
+        "Population": 9895,
+        "Median Age": 40.7,
+        "Household Income": 58514,
+        "Per Capita Income": 26137,
+        "Poverty Rate": 15.26023244
+    },
+    {
+        "Zipcode": 43758,
+        "Address": "Malta, OH 43758, USA",
+        "Population": 3517,
+        "Median Age": 39.5,
+        "Household Income": 43438,
+        "Per Capita Income": 19770,
+        "Poverty Rate": 21.35342622
+    },
+    {
+        "Zipcode": 52320,
+        "Address": "Olin, IA 52320, USA",
+        "Population": 1109,
+        "Median Age": 46.6,
+        "Household Income": 59167,
+        "Per Capita Income": 29853,
+        "Poverty Rate": 9.738503156
+    },
+    {
+        "Zipcode": 45646,
+        "Address": "Latham, OH 45646, USA",
+        "Population": 361,
+        "Median Age": 41.3,
+        "Household Income": 82604,
+        "Per Capita Income": 28220,
+        "Poverty Rate": 7.202216066
+    },
+    {
+        "Zipcode": 36688,
+        "Address": "Mobile, AL 36688, USA",
+        "Population": 545,
+        "Median Age": 20.1,
+        "Household Income": null,
+        "Per Capita Income": 3086,
+        "Poverty Rate": 0
+    },
+    {
+        "Zipcode": 74456,
+        "Address": "Preston, OK 74456, USA",
+        "Population": 231,
+        "Median Age": 30.6,
+        "Household Income": 27750,
+        "Per Capita Income": 16345,
+        "Poverty Rate": 23.37662338
+    },
+    {
+        "Zipcode": 59802,
+        "Address": "Missoula, MT 59802, USA",
+        "Population": 19292,
+        "Median Age": 33,
+        "Household Income": 37931,
+        "Per Capita Income": 25060,
+        "Poverty Rate": 22.29939871
+    },
+    {
+        "Zipcode": 25571,
+        "Address": "West Hamlin, WV 25571, USA",
+        "Population": 2371,
+        "Median Age": 43.7,
+        "Household Income": 36650,
+        "Per Capita Income": 16769,
+        "Poverty Rate": 26.40236187
+    },
+    {
+        "Zipcode": 56358,
+        "Address": "Ogilvie, MN 56358, USA",
+        "Population": 3353,
+        "Median Age": 41.2,
+        "Household Income": 49091,
+        "Per Capita Income": 20779,
+        "Poverty Rate": 13.9874739
+    },
+    {
+        "Zipcode": 6069,
+        "Address": "Sharon, CT 06069, USA",
+        "Population": 2440,
+        "Median Age": 57,
+        "Household Income": 73958,
+        "Per Capita Income": 54815,
+        "Poverty Rate": 6.557377049
+    },
+    {
+        "Zipcode": 15206,
+        "Address": "Pittsburgh, PA 15206, USA",
+        "Population": 29098,
+        "Median Age": 36.6,
+        "Household Income": 33792,
+        "Per Capita Income": 27733,
+        "Poverty Rate": 20.10103787
+    },
+    {
+        "Zipcode": 33496,
+        "Address": "Boca Raton, FL 33496, USA",
+        "Population": 22354,
+        "Median Age": 54.2,
+        "Household Income": 83138,
+        "Per Capita Income": 64715,
+        "Poverty Rate": 7.935939877
+    },
+    {
+        "Zipcode": 37764,
+        "Address": "Kodak, TN 37764, USA",
+        "Population": 9241,
+        "Median Age": 41.1,
+        "Household Income": 46102,
+        "Per Capita Income": 22642,
+        "Poverty Rate": 15.56108646
+    },
+    {
+        "Zipcode": 61013,
+        "Address": "Cedarville, IL 61013, USA",
+        "Population": 488,
+        "Median Age": 50.2,
+        "Household Income": 55000,
+        "Per Capita Income": 27283,
+        "Poverty Rate": 11.2704918
+    },
+    {
+        "Zipcode": 15937,
+        "Address": "Jerome, PA 15937, USA",
+        "Population": 601,
+        "Median Age": 45.7,
+        "Household Income": 65000,
+        "Per Capita Income": 24503,
+        "Poverty Rate": 5.158069884
+    },
+    {
+        "Zipcode": 27249,
+        "Address": "Gibsonville, NC 27249, USA",
+        "Population": 12596,
+        "Median Age": 42.1,
+        "Household Income": 50095,
+        "Per Capita Income": 25651,
+        "Poverty Rate": 10.86852969
+    },
+    {
+        "Zipcode": 76556,
+        "Address": "Milano, TX 76556, USA",
+        "Population": 1392,
+        "Median Age": 50.7,
+        "Household Income": 39375,
+        "Per Capita Income": 21201,
+        "Poverty Rate": 17.52873563
+    },
+    {
+        "Zipcode": 46236,
+        "Address": "Indianapolis, IN 46236, USA",
+        "Population": 27509,
+        "Median Age": 40.3,
+        "Household Income": 80833,
+        "Per Capita Income": 38140,
+        "Poverty Rate": 4.74753717
+    },
+    {
+        "Zipcode": 29170,
+        "Address": "West Columbia, SC 29170, USA",
+        "Population": 21101,
+        "Median Age": 36.8,
+        "Household Income": 56415,
+        "Per Capita Income": 25261,
+        "Poverty Rate": 9.824178949
+    },
+    {
+        "Zipcode": 49893,
+        "Address": "Wallace, MI 49893, USA",
+        "Population": 2008,
+        "Median Age": 47.9,
+        "Household Income": 59696,
+        "Per Capita Income": 27882,
+        "Poverty Rate": 8.964143426
+    },
+    {
+        "Zipcode": 63014,
+        "Address": "Berger, MO 63014, USA",
+        "Population": 467,
+        "Median Age": 48.4,
+        "Household Income": 32188,
+        "Per Capita Income": 19712,
+        "Poverty Rate": 22.48394004
+    },
+    {
+        "Zipcode": 79021,
+        "Address": "Cotton Center, TX 79021, USA",
+        "Population": 104,
+        "Median Age": 26.5,
+        "Household Income": 56250,
+        "Per Capita Income": 17961,
+        "Poverty Rate": 25.96153846
+    },
+    {
+        "Zipcode": 44251,
+        "Address": "Westfield Center, OH 44251, USA",
+        "Population": 905,
+        "Median Age": 52.6,
+        "Household Income": 73021,
+        "Per Capita Income": 47881,
+        "Poverty Rate": 0.552486188
+    },
+    {
+        "Zipcode": 79118,
+        "Address": "Amarillo, TX 79118, USA",
+        "Population": 20026,
+        "Median Age": 34.6,
+        "Household Income": 62323,
+        "Per Capita Income": 25783,
+        "Poverty Rate": 11.9544592
+    },
+    {
+        "Zipcode": 46704,
+        "Address": "Arcola, IN 46704, USA",
+        "Population": 194,
+        "Median Age": 35.4,
+        "Household Income": 31089,
+        "Per Capita Income": 13796,
+        "Poverty Rate": 6.18556701
+    },
+    {
+        "Zipcode": 93605,
+        "Address": "Big Creek, CA 93605, USA",
+        "Population": 243,
+        "Median Age": 49.2,
+        "Household Income": 84375,
+        "Per Capita Income": 34293,
+        "Poverty Rate": 1.646090535
+    },
+    {
+        "Zipcode": 22066,
+        "Address": "Great Falls, VA 22066, USA",
+        "Population": 19475,
+        "Median Age": 43.5,
+        "Household Income": 214219,
+        "Per Capita Income": 89776,
+        "Poverty Rate": 1.201540436
+    },
+    {
+        "Zipcode": 43804,
+        "Address": "Baltic, OH 43804, USA",
+        "Population": 3750,
+        "Median Age": 25.4,
+        "Household Income": 36841,
+        "Per Capita Income": 12923,
+        "Poverty Rate": 28.85333333
+    },
+    {
+        "Zipcode": 78414,
+        "Address": "Corpus Christi, TX 78414, USA",
+        "Population": 33033,
+        "Median Age": 34,
+        "Household Income": 75971,
+        "Per Capita Income": 33464,
+        "Poverty Rate": 5.542941907
+    },
+    {
+        "Zipcode": 71405,
+        "Address": "Ball, LA 71405, USA",
+        "Population": 5687,
+        "Median Age": 35.8,
+        "Household Income": 55242,
+        "Per Capita Income": 23941,
+        "Poverty Rate": 15.73764727
+    },
+    {
+        "Zipcode": 11385,
+        "Address": "Ridgewood, NY 11385, USA",
+        "Population": 99379,
+        "Median Age": 35,
+        "Household Income": 50799,
+        "Per Capita Income": 23272,
+        "Poverty Rate": 18.03298484
+    },
+    {
+        "Zipcode": 83830,
+        "Address": "Fernwood, ID 83830, USA",
+        "Population": 929,
+        "Median Age": 42.7,
+        "Household Income": 37244,
+        "Per Capita Income": 16450,
+        "Poverty Rate": 8.934337998
+    },
+    {
+        "Zipcode": 12010,
+        "Address": "Amsterdam, NY 12010, USA",
+        "Population": 28802,
+        "Median Age": 41.7,
+        "Household Income": 44256,
+        "Per Capita Income": 25059,
+        "Poverty Rate": 17.6098882
+    },
+    {
+        "Zipcode": 37191,
+        "Address": "Woodlawn, TN 37191, USA",
+        "Population": 4226,
+        "Median Age": 39.3,
+        "Household Income": 63393,
+        "Per Capita Income": 28185,
+        "Poverty Rate": 7.311878845
+    },
+    {
+        "Zipcode": 72039,
+        "Address": "Damascus, AR 72039, USA",
+        "Population": 2402,
+        "Median Age": 40.8,
+        "Household Income": 33857,
+        "Per Capita Income": 19838,
+        "Poverty Rate": 22.98084929
+    },
+    {
+        "Zipcode": 96783,
+        "Address": "Pepeekeo, HI 96783, USA",
+        "Population": 2149,
+        "Median Age": 40.4,
+        "Household Income": 31705,
+        "Per Capita Income": 17613,
+        "Poverty Rate": 21.77757096
+    },
+    {
+        "Zipcode": 57658,
+        "Address": "Wakpala, SD 57658, USA",
+        "Population": 329,
+        "Median Age": 33.5,
+        "Household Income": 15833,
+        "Per Capita Income": 7979,
+        "Poverty Rate": 55.31914894
+    },
+    {
+        "Zipcode": 73673,
+        "Address": "Willow, OK 73673, USA",
+        "Population": 352,
+        "Median Age": 53.6,
+        "Household Income": 40234,
+        "Per Capita Income": 26554,
+        "Poverty Rate": 16.19318182
+    },
+    {
+        "Zipcode": 63935,
+        "Address": "Doniphan, MO 63935, USA",
+        "Population": 9863,
+        "Median Age": 42.5,
+        "Household Income": 31208,
+        "Per Capita Income": 16144,
+        "Poverty Rate": 27.92253878
+    },
+    {
+        "Zipcode": 73951,
+        "Address": "Tyrone, OK 73951, USA",
+        "Population": 1085,
+        "Median Age": 28.7,
+        "Household Income": 43125,
+        "Per Capita Income": 16762,
+        "Poverty Rate": 22.94930876
+    },
+    {
+        "Zipcode": 49036,
+        "Address": "Coldwater, MI 49036, USA",
+        "Population": 23706,
+        "Median Age": 41.6,
+        "Household Income": 42635,
+        "Per Capita Income": 21336,
+        "Poverty Rate": 14.79794145
+    },
+    {
+        "Zipcode": 47434,
+        "Address": "Harrodsburg, IN 47434, USA",
+        "Population": 115,
+        "Median Age": 52.5,
+        "Household Income": null,
+        "Per Capita Income": 21634,
+        "Poverty Rate": 0
+    },
+    {
+        "Zipcode": 37336,
+        "Address": "Georgetown, TN 37336, USA",
+        "Population": 4864,
+        "Median Age": 44.4,
+        "Household Income": 48066,
+        "Per Capita Income": 22370,
+        "Poverty Rate": 14.76151316
+    },
+    {
+        "Zipcode": 86507,
+        "Address": "Lukachukai, AZ 86507, USA",
+        "Population": 2464,
+        "Median Age": 24.1,
+        "Household Income": 22009,
+        "Per Capita Income": 8346,
+        "Poverty Rate": 48.29545455
+    },
+    {
+        "Zipcode": 54022,
+        "Address": "River Falls, WI 54022, USA",
+        "Population": 21786,
+        "Median Age": 28.8,
+        "Household Income": 60016,
+        "Per Capita Income": 27608,
+        "Poverty Rate": 14.18801065
+    },
+    {
+        "Zipcode": 75454,
+        "Address": "Melissa, TX 75454, USA",
+        "Population": 5800,
+        "Median Age": 31.7,
+        "Household Income": 87125,
+        "Per Capita Income": 29919,
+        "Poverty Rate": 3.310344828
+    },
+    {
+        "Zipcode": 38152,
+        "Address": "Memphis, TN 38152, USA",
+        "Population": 818,
+        "Median Age": 19.8,
+        "Household Income": null,
+        "Per Capita Income": 2691,
+        "Poverty Rate": 0
+    },
+    {
+        "Zipcode": 82934,
+        "Address": "Granger, WY 82934, USA",
+        "Population": 239,
+        "Median Age": 33.1,
+        "Household Income": 32450,
+        "Per Capita Income": 13016,
+        "Poverty Rate": 7.112970711
+    },
+    {
+        "Zipcode": 28529,
+        "Address": "Grantsboro, NC 28529, USA",
+        "Population": 2653,
+        "Median Age": 45.1,
+        "Household Income": 41858,
+        "Per Capita Income": 20985,
+        "Poverty Rate": 16.50961176
+    },
+    {
+        "Zipcode": 74643,
+        "Address": "Lamont, OK 74643, USA",
+        "Population": 453,
+        "Median Age": 39.5,
+        "Household Income": 43214,
+        "Per Capita Income": 22991,
+        "Poverty Rate": 8.167770419
+    },
+    {
+        "Zipcode": 2056,
+        "Address": "Norfolk, MA 02056, USA",
+        "Population": 11274,
+        "Median Age": 42.5,
+        "Household Income": 134104,
+        "Per Capita Income": 43630,
+        "Poverty Rate": 4.479332979
+    },
+    {
+        "Zipcode": 52533,
+        "Address": "Batavia, IA 52533, USA",
+        "Population": 1626,
+        "Median Age": 42.6,
+        "Household Income": 49938,
+        "Per Capita Income": 21050,
+        "Poverty Rate": 7.626076261
+    },
+    {
+        "Zipcode": 45005,
+        "Address": "Franklin, OH 45005, USA",
+        "Population": 29997,
+        "Median Age": 40.5,
+        "Household Income": 52016,
+        "Per Capita Income": 24292,
+        "Poverty Rate": 9.850985099
+    },
+    {
+        "Zipcode": 97146,
+        "Address": "Warrenton, OR 97146, USA",
+        "Population": 5795,
+        "Median Age": 40.1,
+        "Household Income": 41192,
+        "Per Capita Income": 23133,
+        "Poverty Rate": 17.01466782
+    },
+    {
+        "Zipcode": 17946,
+        "Address": "Lost Creek, PA 17946, USA",
+        "Population": 215,
+        "Median Age": 62.1,
+        "Household Income": 15469,
+        "Per Capita Income": 10440,
+        "Poverty Rate": 59.53488372
+    },
+    {
+        "Zipcode": 95240,
+        "Address": "Lodi, CA 95240, USA",
+        "Population": 46482,
+        "Median Age": 33.1,
+        "Household Income": 41172,
+        "Per Capita Income": 19814,
+        "Poverty Rate": 22.97233338
+    },
+    {
+        "Zipcode": 53156,
+        "Address": "Palmyra, WI 53156, USA",
+        "Population": 3054,
+        "Median Age": 42.4,
+        "Household Income": 53600,
+        "Per Capita Income": 25161,
+        "Poverty Rate": 9.790438769
+    },
+    {
+        "Zipcode": 46323,
+        "Address": "Hammond, IN 46323, USA",
+        "Population": 22561,
+        "Median Age": 34.6,
+        "Household Income": 45478,
+        "Per Capita Income": 19994,
+        "Poverty Rate": 14.4009574
+    },
+    {
+        "Zipcode": 36858,
+        "Address": "Hatchechubbee, AL 36858, USA",
+        "Population": 540,
+        "Median Age": 37.4,
+        "Household Income": 71563,
+        "Per Capita Income": 25395,
+        "Poverty Rate": 2.407407407
+    },
+    {
+        "Zipcode": 99506,
+        "Address": "Joint Base Elmendorf-Richardson, AK 99506, USA",
+        "Population": 7499,
+        "Median Age": 22,
+        "Household Income": 60753,
+        "Per Capita Income": 19565,
+        "Poverty Rate": 4.867315642
+    },
+    {
+        "Zipcode": 50002,
+        "Address": "Adair, IA 50002, USA",
+        "Population": 1338,
+        "Median Age": 41.3,
+        "Household Income": 40550,
+        "Per Capita Income": 23974,
+        "Poverty Rate": 15.3961136
+    },
+    {
+        "Zipcode": 15656,
+        "Address": "Leechburg, PA 15656, USA",
+        "Population": 10208,
+        "Median Age": 43.9,
+        "Household Income": 47658,
+        "Per Capita Income": 25820,
+        "Poverty Rate": 12.27468652
+    },
+    {
+        "Zipcode": 49781,
+        "Address": "St Ignace, MI 49781, USA",
+        "Population": 4303,
+        "Median Age": 44.2,
+        "Household Income": 39838,
+        "Per Capita Income": 23000,
+        "Poverty Rate": 15.26841738
+    },
+    {
+        "Zipcode": 46524,
+        "Address": "Etna Green, IN 46524, USA",
+        "Population": 2541,
+        "Median Age": 32,
+        "Household Income": 60033,
+        "Per Capita Income": 19849,
+        "Poverty Rate": 13.34120425
+    },
+    {
+        "Zipcode": 31405,
+        "Address": "Savannah, GA 31405, USA",
+        "Population": 37016,
+        "Median Age": 34.6,
+        "Household Income": 43051,
+        "Per Capita Income": 23719,
+        "Poverty Rate": 18.3623298
+    },
+    {
+        "Zipcode": 42031,
+        "Address": "Clinton, KY 42031, USA",
+        "Population": 3251,
+        "Median Age": 49.1,
+        "Household Income": 32123,
+        "Per Capita Income": 18442,
+        "Poverty Rate": 24.17717625
+    },
+    {
+        "Zipcode": 71331,
+        "Address": "Effie, LA 71331, USA",
+        "Population": 841,
+        "Median Age": 34.3,
+        "Household Income": 37109,
+        "Per Capita Income": 18372,
+        "Poverty Rate": 24.61355529
+    },
+    {
+        "Zipcode": 21750,
+        "Address": "Hancock, MD 21750, USA",
+        "Population": 3999,
+        "Median Age": 38.6,
+        "Household Income": 47857,
+        "Per Capita Income": 21608,
+        "Poverty Rate": 11.10277569
+    },
+    {
+        "Zipcode": 8234,
+        "Address": "Egg Harbor Township, NJ 08234, USA",
+        "Population": 42491,
+        "Median Age": 39.3,
+        "Household Income": 71316,
+        "Per Capita Income": 29387,
+        "Poverty Rate": 8.020521993
+    },
+    {
+        "Zipcode": 25699,
+        "Address": "Wilsondale, WV 25699, USA",
+        "Population": 119,
+        "Median Age": 42,
+        "Household Income": 11875,
+        "Per Capita Income": 6104,
+        "Poverty Rate": 89.91596639
+    },
+    {
+        "Zipcode": 55342,
+        "Address": "Hector, MN 55342, USA",
+        "Population": 2065,
+        "Median Age": 42.2,
+        "Household Income": 55982,
+        "Per Capita Income": 26832,
+        "Poverty Rate": 7.89346247
+    },
+    {
+        "Zipcode": 63128,
+        "Address": "St. Louis, MO 63128, USA",
+        "Population": 29973,
+        "Median Age": 49.1,
+        "Household Income": 73440,
+        "Per Capita Income": 39328,
+        "Poverty Rate": 3.416408101
+    },
+    {
+        "Zipcode": 10984,
+        "Address": "Thiells, NY 10984, USA",
+        "Population": 3317,
+        "Median Age": 42.5,
+        "Household Income": 112016,
+        "Per Capita Income": 39093,
+        "Poverty Rate": 0.452215858
+    },
+    {
+        "Zipcode": 57219,
+        "Address": "Bristol, SD 57219, USA",
+        "Population": 727,
+        "Median Age": 50.1,
+        "Household Income": 57574,
+        "Per Capita Income": 22913,
+        "Poverty Rate": 5.777166437
+    },
+    {
+        "Zipcode": 44276,
+        "Address": "Sterling, OH 44276, USA",
+        "Population": 1879,
+        "Median Age": 40.2,
+        "Household Income": 52330,
+        "Per Capita Income": 24753,
+        "Poverty Rate": 13.51782863
+    },
+    {
+        "Zipcode": 2740,
+        "Address": "New Bedford, MA 02740, USA",
+        "Population": 43308,
+        "Median Age": 37.4,
+        "Household Income": 34259,
+        "Per Capita Income": 20649,
+        "Poverty Rate": 24.51510114
+    },
+    {
+        "Zipcode": 78742,
+        "Address": "Austin, TX 78742, USA",
+        "Population": 810,
+        "Median Age": 33.6,
+        "Household Income": 19688,
+        "Per Capita Income": 15485,
+        "Poverty Rate": 50.86419753
+    },
+    {
+        "Zipcode": 76031,
+        "Address": "Cleburne, TX 76031, USA",
+        "Population": 17360,
+        "Median Age": 36.1,
+        "Household Income": 46714,
+        "Per Capita Income": 20226,
+        "Poverty Rate": 15.69700461
+    },
+    {
+        "Zipcode": 57005,
+        "Address": "Brandon, SD 57005, USA",
+        "Population": 10610,
+        "Median Age": 34.6,
+        "Household Income": 69690,
+        "Per Capita Income": 27832,
+        "Poverty Rate": 7.80395853
+    },
+    {
+        "Zipcode": 84116,
+        "Address": "Salt Lake City, UT 84116, USA",
+        "Population": 33574,
+        "Median Age": 29.2,
+        "Household Income": 42235,
+        "Per Capita Income": 15888,
+        "Poverty Rate": 21.27241318
+    },
+    {
+        "Zipcode": 62330,
+        "Address": "Dallas City, IL 62330, USA",
+        "Population": 1852,
+        "Median Age": 39.5,
+        "Household Income": 39271,
+        "Per Capita Income": 20130,
+        "Poverty Rate": 14.63282937
+    },
+    {
+        "Zipcode": 49415,
+        "Address": "Fruitport, MI 49415, USA",
+        "Population": 6260,
+        "Median Age": 44.3,
+        "Household Income": 51587,
+        "Per Capita Income": 26853,
+        "Poverty Rate": 6.757188498
+    },
+    {
+        "Zipcode": 59453,
+        "Address": "Judith Gap, MT 59453, USA",
+        "Population": 337,
+        "Median Age": 42.4,
+        "Household Income": 38750,
+        "Per Capita Income": 20918,
+        "Poverty Rate": 10.08902077
+    },
+    {
+        "Zipcode": 5261,
+        "Address": "Pownal, VT 05261, USA",
+        "Population": 2835,
+        "Median Age": 45,
+        "Household Income": 56667,
+        "Per Capita Income": 25144,
+        "Poverty Rate": 10.26455026
+    },
+    {
+        "Zipcode": 19023,
+        "Address": "Darby, PA 19023, USA",
+        "Population": 22710,
+        "Median Age": 30.2,
+        "Household Income": 38790,
+        "Per Capita Income": 18351,
+        "Poverty Rate": 24.02025539
+    },
+    {
+        "Zipcode": 5736,
+        "Address": "Center Rutland, VT 05736, USA",
+        "Population": 788,
+        "Median Age": 48.4,
+        "Household Income": 56313,
+        "Per Capita Income": 36613,
+        "Poverty Rate": 0.76142132
+    },
+    {
+        "Zipcode": 84072,
+        "Address": "Tabiona, UT 84072, USA",
+        "Population": 529,
+        "Median Age": 30.3,
+        "Household Income": 48654,
+        "Per Capita Income": 18735,
+        "Poverty Rate": 0.756143667
+    },
+    {
+        "Zipcode": 38844,
+        "Address": "Gattman, MS 38844, USA",
+        "Population": 153,
+        "Median Age": 58.9,
+        "Household Income": 36071,
+        "Per Capita Income": 20537,
+        "Poverty Rate": 16.99346405
+    },
+    {
+        "Zipcode": 27822,
+        "Address": "Elm City, NC 27822, USA",
+        "Population": 8082,
+        "Median Age": 43.6,
+        "Household Income": 46250,
+        "Per Capita Income": 21943,
+        "Poverty Rate": 18.70824053
+    },
+    {
+        "Zipcode": 37080,
+        "Address": "Joelton, TN 37080, USA",
+        "Population": 7962,
+        "Median Age": 44.3,
+        "Household Income": 61824,
+        "Per Capita Income": 25231,
+        "Poverty Rate": 8.013062045
+    },
+    {
+        "Zipcode": 92310,
+        "Address": "Fort Irwin, CA 92310, USA",
+        "Population": 9049,
+        "Median Age": 22.7,
+        "Household Income": 49778,
+        "Per Capita Income": 19066,
+        "Poverty Rate": 7.768814234
+    },
+    {
+        "Zipcode": 26807,
+        "Address": "Franklin, WV 26807, USA",
+        "Population": 2886,
+        "Median Age": 45.6,
+        "Household Income": 36550,
+        "Per Capita Income": 20860,
+        "Poverty Rate": 18.19126819
+    },
+    {
+        "Zipcode": 75783,
+        "Address": "Quitman, TX 75783, USA",
+        "Population": 7486,
+        "Median Age": 45.1,
+        "Household Income": 40322,
+        "Per Capita Income": 23210,
+        "Poverty Rate": 12.03580016
+    },
+    {
+        "Zipcode": 19057,
+        "Address": "Levittown, PA 19057, USA",
+        "Population": 18171,
+        "Median Age": 38,
+        "Household Income": 62863,
+        "Per Capita Income": 25069,
+        "Poverty Rate": 9.515161521
+    },
+    {
+        "Zipcode": 23219,
+        "Address": "Richmond, VA 23219, USA",
+        "Population": 3284,
+        "Median Age": 25.4,
+        "Household Income": 19231,
+        "Per Capita Income": 24403,
+        "Poverty Rate": 38.79415347
+    },
+    {
+        "Zipcode": 30666,
+        "Address": "Statham, GA 30666, USA",
+        "Population": 9287,
+        "Median Age": 37.3,
+        "Household Income": 53627,
+        "Per Capita Income": 23167,
+        "Poverty Rate": 8.301927425
+    },
+    {
+        "Zipcode": 53936,
+        "Address": "Grand Marsh, WI 53936, USA",
+        "Population": 2555,
+        "Median Age": 37.3,
+        "Household Income": 44583,
+        "Per Capita Income": 13364,
+        "Poverty Rate": 5.596868885
+    },
+    {
+        "Zipcode": 83638,
+        "Address": "McCall, ID 83638, USA",
+        "Population": 5876,
+        "Median Age": 43.3,
+        "Household Income": 53850,
+        "Per Capita Income": 26119,
+        "Poverty Rate": 6.262763785
+    },
+    {
+        "Zipcode": 68947,
+        "Address": "Hildreth, NE 68947, USA",
+        "Population": 622,
+        "Median Age": 45.5,
+        "Household Income": 56250,
+        "Per Capita Income": 33158,
+        "Poverty Rate": 5.78778135
+    },
+    {
+        "Zipcode": 25559,
+        "Address": "Salt Rock, WV 25559, USA",
+        "Population": 2105,
+        "Median Age": 41.9,
+        "Household Income": 55120,
+        "Per Capita Income": 22464,
+        "Poverty Rate": 11.11638955
+    },
+    {
+        "Zipcode": 99102,
+        "Address": "Albion, WA 99102, USA",
+        "Population": 519,
+        "Median Age": 35.4,
+        "Household Income": 43977,
+        "Per Capita Income": 23766,
+        "Poverty Rate": 11.75337187
+    },
+    {
+        "Zipcode": 63304,
+        "Address": "St Charles, MO 63304, USA",
+        "Population": 40094,
+        "Median Age": 39.8,
+        "Household Income": 85329,
+        "Per Capita Income": 35568,
+        "Poverty Rate": 4.337307328
+    },
+    {
+        "Zipcode": 13637,
+        "Address": "Evans Mills, NY 13637, USA",
+        "Population": 4270,
+        "Median Age": 28.4,
+        "Household Income": 55104,
+        "Per Capita Income": 23870,
+        "Poverty Rate": 18.64168618
+    },
+    {
+        "Zipcode": 44147,
+        "Address": "Broadview Heights, OH 44147, USA",
+        "Population": 19331,
+        "Median Age": 42.1,
+        "Household Income": 76021,
+        "Per Capita Income": 37217,
+        "Poverty Rate": 6.533547152
+    },
+    {
+        "Zipcode": 47367,
+        "Address": "Oakville, IN 47367, USA",
+        "Population": 123,
+        "Median Age": 39.8,
+        "Household Income": 41250,
+        "Per Capita Income": 16255,
+        "Poverty Rate": 0
+    },
+    {
+        "Zipcode": 71957,
+        "Address": "Mt Ida, AR 71957, USA",
+        "Population": 3004,
+        "Median Age": 54.9,
+        "Household Income": 35445,
+        "Per Capita Income": 21459,
+        "Poverty Rate": 16.67776298
+    },
+    {
+        "Zipcode": 55802,
+        "Address": "Duluth, MN 55802, USA",
+        "Population": 2212,
+        "Median Age": 59.5,
+        "Household Income": 24674,
+        "Per Capita Income": 31860,
+        "Poverty Rate": 25.36166365
+    },
+    {
+        "Zipcode": 21053,
+        "Address": "Freeland, MD 21053, USA",
+        "Population": 3227,
+        "Median Age": 45.5,
+        "Household Income": 90361,
+        "Per Capita Income": 36118,
+        "Poverty Rate": 3.811589712
+    },
+    {
+        "Zipcode": 28076,
+        "Address": "Henrietta, NC 28076, USA",
+        "Population": 1060,
+        "Median Age": 30,
+        "Household Income": 25221,
+        "Per Capita Income": 9871,
+        "Poverty Rate": 52.45283019
+    },
+    {
+        "Zipcode": 53588,
+        "Address": "Spring Green, WI 53588, USA",
+        "Population": 3831,
+        "Median Age": 44.8,
+        "Household Income": 58086,
+        "Per Capita Income": 29862,
+        "Poverty Rate": 9.814669799
+    },
+    {
+        "Zipcode": 49234,
+        "Address": "Clarklake, MI 49234, USA",
+        "Population": 2665,
+        "Median Age": 47.3,
+        "Household Income": 58250,
+        "Per Capita Income": 30245,
+        "Poverty Rate": 16.62288931
+    },
+    {
+        "Zipcode": 92285,
+        "Address": "Landers, CA 92285, USA",
+        "Population": 2739,
+        "Median Age": 50.1,
+        "Household Income": 22917,
+        "Per Capita Income": 17840,
+        "Poverty Rate": 37.60496532
+    },
+    {
+        "Zipcode": 7082,
+        "Address": "Towaco, NJ 07082, USA",
+        "Population": 5107,
+        "Median Age": 45.9,
+        "Household Income": 129432,
+        "Per Capita Income": 59216,
+        "Poverty Rate": 3.309183474
+    },
+    {
+        "Zipcode": 49098,
+        "Address": "Watervliet, MI 49098, USA",
+        "Population": 6388,
+        "Median Age": 37,
+        "Household Income": 42237,
+        "Per Capita Income": 18480,
+        "Poverty Rate": 21.08641202
+    },
+    {
+        "Zipcode": 63138,
+        "Address": "St. Louis, MO 63138, USA",
+        "Population": 20863,
+        "Median Age": 30.3,
+        "Household Income": 33691,
+        "Per Capita Income": 17488,
+        "Poverty Rate": 25.58596559
+    },
+    {
+        "Zipcode": 75942,
+        "Address": "Doucette, TX 75942, USA",
+        "Population": 289,
+        "Median Age": 38.1,
+        "Household Income": 43512,
+        "Per Capita Income": 15008,
+        "Poverty Rate": 26.29757785
+    },
+    {
+        "Zipcode": 2802,
+        "Address": "Albion, RI 02802, USA",
+        "Population": 919,
+        "Median Age": 37.2,
+        "Household Income": 48456,
+        "Per Capita Income": 42134,
+        "Poverty Rate": 0
+    },
+    {
+        "Zipcode": 95490,
+        "Address": "Willits, CA 95490, USA",
+        "Population": 12158,
+        "Median Age": 46.9,
+        "Household Income": 38394,
+        "Per Capita Income": 22551,
+        "Poverty Rate": 19.46866261
+    },
+    {
+        "Zipcode": 71340,
+        "Address": "Harrisonburg, LA 71340, USA",
+        "Population": 1612,
+        "Median Age": 33.7,
+        "Household Income": 30560,
+        "Per Capita Income": 19909,
+        "Poverty Rate": 8.498759305
+    },
+    {
+        "Zipcode": 60622,
+        "Address": "Chicago, IL 60622, USA",
+        "Population": 54272,
+        "Median Age": 31.1,
+        "Household Income": 68923,
+        "Per Capita Income": 43393,
+        "Poverty Rate": 14.77557488
+    },
+    {
+        "Zipcode": 28454,
+        "Address": "Maple Hill, NC 28454, USA",
+        "Population": 1813,
+        "Median Age": 42.6,
+        "Household Income": 20711,
+        "Per Capita Income": 13553,
+        "Poverty Rate": 27.854385
+    },
+    {
+        "Zipcode": 58503,
+        "Address": "Bismarck, ND 58503, USA",
+        "Population": 27196,
+        "Median Age": 37.3,
+        "Household Income": 81341,
+        "Per Capita Income": 38377,
+        "Poverty Rate": 4.416090602
+    },
+    {
+        "Zipcode": 33025,
+        "Address": "Hollywood, FL 33025, USA",
+        "Population": 57766,
+        "Median Age": 32.9,
+        "Household Income": 51822,
+        "Per Capita Income": 23660,
+        "Poverty Rate": 12.01398747
+    },
+    {
+        "Zipcode": 87583,
+        "Address": "Villanueva, NM 87583, USA",
+        "Population": 115,
+        "Median Age": 60.4,
+        "Household Income": 4955,
+        "Per Capita Income": 5947,
+        "Poverty Rate": 63.47826087
+    },
+    {
+        "Zipcode": 43050,
+        "Address": "Mt Vernon, OH 43050, USA",
+        "Population": 28612,
+        "Median Age": 41.9,
+        "Household Income": 42576,
+        "Per Capita Income": 23495,
+        "Poverty Rate": 16.33230812
+    },
+    {
+        "Zipcode": 25414,
+        "Address": "Charles Town, WV 25414, USA",
+        "Population": 17147,
+        "Median Age": 40.1,
+        "Household Income": 72833,
+        "Per Capita Income": 32308,
+        "Poverty Rate": 11.13897475
+    },
+    {
+        "Zipcode": 7718,
+        "Address": "Belford, NJ 07718, USA",
+        "Population": 6143,
+        "Median Age": 40.5,
+        "Household Income": 87398,
+        "Per Capita Income": 36267,
+        "Poverty Rate": 6.82077161
+    },
+    {
+        "Zipcode": 46996,
+        "Address": "Winamac, IN 46996, USA",
+        "Population": 7358,
+        "Median Age": 40.1,
+        "Household Income": 45412,
+        "Per Capita Income": 20784,
+        "Poverty Rate": 16.5941832
+    },
+    {
+        "Zipcode": 57078,
+        "Address": "Yankton, SD 57078, USA",
+        "Population": 18894,
+        "Median Age": 40.7,
+        "Household Income": 50660,
+        "Per Capita Income": 27293,
+        "Poverty Rate": 12.96178681
+    },
+    {
+        "Zipcode": 56726,
+        "Address": "Greenbush, MN 56726, USA",
+        "Population": 1582,
+        "Median Age": 42.2,
+        "Household Income": 52235,
+        "Per Capita Income": 27445,
+        "Poverty Rate": 5.752212389
+    },
+    {
+        "Zipcode": 52133,
+        "Address": "Castalia, IA 52133, USA",
+        "Population": 625,
+        "Median Age": 40.3,
+        "Household Income": 66333,
+        "Per Capita Income": 26065,
+        "Poverty Rate": 5.28
+    },
+    {
+        "Zipcode": 6019,
+        "Address": "Canton, CT 06019, USA",
+        "Population": 10249,
+        "Median Age": 45.1,
+        "Household Income": 88281,
+        "Per Capita Income": 44781,
+        "Poverty Rate": 3.766221095
+    },
+    {
+        "Zipcode": 93545,
+        "Address": "Lone Pine, CA 93545, USA",
+        "Population": 2214,
+        "Median Age": 40.6,
+        "Household Income": 32473,
+        "Per Capita Income": 18444,
+        "Poverty Rate": 18.06684734
+    },
+    {
+        "Zipcode": 97711,
+        "Address": "Ashwood, OR 97711, USA",
+        "Population": 123,
+        "Median Age": 34.5,
+        "Household Income": 27188,
+        "Per Capita Income": 12480,
+        "Poverty Rate": 41.46341463
+    },
+    {
+        "Zipcode": 3064,
+        "Address": "Nashua, NH 03064, USA",
+        "Population": 14533,
+        "Median Age": 40.6,
+        "Household Income": 64026,
+        "Per Capita Income": 34045,
+        "Poverty Rate": 11.64934976
+    },
+    {
+        "Zipcode": 8540,
+        "Address": "Princeton, NJ 08540, USA",
+        "Population": 47316,
+        "Median Age": 37.5,
+        "Household Income": 125439,
+        "Per Capita Income": 61810,
+        "Poverty Rate": 4.161383042
+    },
+    {
+        "Zipcode": 60091,
+        "Address": "Wilmette, IL 60091, USA",
+        "Population": 27268,
+        "Median Age": 43.8,
+        "Household Income": 129551,
+        "Per Capita Income": 67089,
+        "Poverty Rate": 2.977849494
+    },
+    {
+        "Zipcode": 61929,
+        "Address": "Hammond, IL 61929, USA",
+        "Population": 652,
+        "Median Age": 45.7,
+        "Household Income": 47891,
+        "Per Capita Income": 23964,
+        "Poverty Rate": 5.214723926
+    },
+    {
+        "Zipcode": 92252,
+        "Address": "Joshua Tree, CA 92252, USA",
+        "Population": 10047,
+        "Median Age": 45,
+        "Household Income": 42338,
+        "Per Capita Income": 22951,
+        "Poverty Rate": 18.77177267
+    },
+    {
+        "Zipcode": 22102,
+        "Address": "McLean, VA 22102, USA",
+        "Population": 22146,
+        "Median Age": 40.2,
+        "Household Income": 112427,
+        "Per Capita Income": 82461,
+        "Poverty Rate": 3.720762214
+    },
+    {
+        "Zipcode": 13827,
+        "Address": "Owego, NY 13827, USA",
+        "Population": 11795,
+        "Median Age": 44.2,
+        "Household Income": 56025,
+        "Per Capita Income": 28315,
+        "Poverty Rate": 8.71555744
+    },
+    {
+        "Zipcode": 757,
+        "Address": "Santa Isabel, 00757, Puerto Rico",
+        "Population": 23231,
+        "Median Age": 34.3,
+        "Household Income": 18033,
+        "Per Capita Income": 9412,
+        "Poverty Rate": 48.99487753
+    },
+    {
+        "Zipcode": 68147,
+        "Address": "Bellevue, NE 68147, USA",
+        "Population": 10339,
+        "Median Age": 33,
+        "Household Income": 53997,
+        "Per Capita Income": 22024,
+        "Poverty Rate": 17.55488925
+    },
+    {
+        "Zipcode": 27826,
+        "Address": "Fairfield, NC 27826, USA",
+        "Population": 963,
+        "Median Age": 49.4,
+        "Household Income": 38362,
+        "Per Capita Income": 16651,
+        "Poverty Rate": 16.61474559
+    },
+    {
+        "Zipcode": 63951,
+        "Address": "Lowndes, MO 63951, USA",
+        "Population": 219,
+        "Median Age": 48.8,
+        "Household Income": 47768,
+        "Per Capita Income": 20417,
+        "Poverty Rate": 25.11415525
+    },
+    {
+        "Zipcode": 3077,
+        "Address": "Raymond, NH 03077, USA",
+        "Population": 10218,
+        "Median Age": 39.5,
+        "Household Income": 61488,
+        "Per Capita Income": 27774,
+        "Poverty Rate": 6.517909571
+    },
+    {
+        "Zipcode": 76599,
+        "Address": "Gatesville, TX 76599, USA",
+        "Population": 1480,
+        "Median Age": 35,
+        "Household Income": null,
+        "Per Capita Income": 8815,
+        "Poverty Rate": 0
+    },
+    {
+        "Zipcode": 38870,
+        "Address": "Smithville, MS 38870, USA",
+        "Population": 2559,
+        "Median Age": 40.8,
+        "Household Income": 53443,
+        "Per Capita Income": 22094,
+        "Poverty Rate": 7.463853068
+    },
+    {
+        "Zipcode": 13312,
+        "Address": "Brantingham, NY 13312, USA",
+        "Population": 320,
+        "Median Age": 56.1,
+        "Household Income": 41250,
+        "Per Capita Income": 30699,
+        "Poverty Rate": 14.6875
+    },
+    {
+        "Zipcode": 21901,
+        "Address": "North East, MD 21901, USA",
+        "Population": 16786,
+        "Median Age": 37.3,
+        "Household Income": 65951,
+        "Per Capita Income": 29821,
+        "Poverty Rate": 12.21255808
+    },
+    {
+        "Zipcode": 30120,
+        "Address": "Cartersville, GA 30120, USA",
+        "Population": 37250,
+        "Median Age": 35.9,
+        "Household Income": 44141,
+        "Per Capita Income": 20678,
+        "Poverty Rate": 19.53288591
+    },
+    {
+        "Zipcode": 34209,
+        "Address": "Bradenton, FL 34209, USA",
+        "Population": 33008,
+        "Median Age": 54.1,
+        "Household Income": 51572,
+        "Per Capita Income": 28711,
+        "Poverty Rate": 9.294716432
+    },
+    {
+        "Zipcode": 22027,
+        "Address": "Dunn Loring, VA 22027, USA",
+        "Population": 2567,
+        "Median Age": 44.9,
+        "Household Income": 187768,
+        "Per Capita Income": 61580,
+        "Poverty Rate": 4.830541488
+    },
+    {
+        "Zipcode": 27262,
+        "Address": "High Point, NC 27262, USA",
+        "Population": 24635,
+        "Median Age": 38.5,
+        "Household Income": 39867,
+        "Per Capita Income": 22889,
+        "Poverty Rate": 21.29490562
+    },
+    {
+        "Zipcode": 93428,
+        "Address": "Cambria, CA 93428, USA",
+        "Population": 6393,
+        "Median Age": 58.4,
+        "Household Income": 59813,
+        "Per Capita Income": 40682,
+        "Poverty Rate": 7.961833255
+    },
+    {
+        "Zipcode": 47431,
+        "Address": "Freedom, IN 47431, USA",
+        "Population": 1268,
+        "Median Age": 35.6,
+        "Household Income": 37500,
+        "Per Capita Income": 19556,
+        "Poverty Rate": 31.23028391
+    },
+    {
+        "Zipcode": 28782,
+        "Address": "Tryon, NC 28782, USA",
+        "Population": 6662,
+        "Median Age": 56.9,
+        "Household Income": 46713,
+        "Per Capita Income": 28377,
+        "Poverty Rate": 8.015610928
+    },
+    {
+        "Zipcode": 59743,
+        "Address": "Melrose, MT 59743, USA",
+        "Population": 159,
+        "Median Age": 57.4,
+        "Household Income": 39293,
+        "Per Capita Income": 27250,
+        "Poverty Rate": 20.12578616
+    },
+    {
+        "Zipcode": 12941,
+        "Address": "Jay, NY 12941, USA",
+        "Population": 1374,
+        "Median Age": 44.6,
+        "Household Income": 72361,
+        "Per Capita Income": 40100,
+        "Poverty Rate": 8.806404658
+    },
+    {
+        "Zipcode": 85262,
+        "Address": "Scottsdale, AZ 85262, USA",
+        "Population": 11034,
+        "Median Age": 54.4,
+        "Household Income": 125884,
+        "Per Capita Income": 80227,
+        "Poverty Rate": 2.872938191
+    },
+    {
+        "Zipcode": 33614,
+        "Address": "Tampa, FL 33614, USA",
+        "Population": 48125,
+        "Median Age": 35.5,
+        "Household Income": 35098,
+        "Per Capita Income": 18039,
+        "Poverty Rate": 23.22701299
+    },
+    {
+        "Zipcode": 56371,
+        "Address": "Roscoe, MN 56371, USA",
+        "Population": 132,
+        "Median Age": 52.1,
+        "Household Income": 51250,
+        "Per Capita Income": 26395,
+        "Poverty Rate": 4.545454545
+    },
+    {
+        "Zipcode": 55419,
+        "Address": "Minneapolis, MN 55419, USA",
+        "Population": 26808,
+        "Median Age": 36.8,
+        "Household Income": 94177,
+        "Per Capita Income": 49251,
+        "Poverty Rate": 8.075947478
+    },
+    {
+        "Zipcode": 72007,
+        "Address": "Austin, AR 72007, USA",
+        "Population": 6065,
+        "Median Age": 34.7,
+        "Household Income": 53125,
+        "Per Capita Income": 21845,
+        "Poverty Rate": 9.200329761
+    },
+    {
+        "Zipcode": 48221,
+        "Address": "Detroit, MI 48221, USA",
+        "Population": 39455,
+        "Median Age": 39.6,
+        "Household Income": 38588,
+        "Per Capita Income": 20123,
+        "Poverty Rate": 23.49005196
+    },
+    {
+        "Zipcode": 49639,
+        "Address": "Hersey, MI 49639, USA",
+        "Population": 2617,
+        "Median Age": 40.7,
+        "Household Income": 41570,
+        "Per Capita Income": 17687,
+        "Poverty Rate": 14.97898357
+    },
+    {
+        "Zipcode": 57429,
+        "Address": "Brentford, SD 57429, USA",
+        "Population": 109,
+        "Median Age": 36.1,
+        "Household Income": 40000,
+        "Per Capita Income": 20763,
+        "Poverty Rate": 2.752293578
+    },
+    {
+        "Zipcode": 46617,
+        "Address": "South Bend, IN 46617, USA",
+        "Population": 9947,
+        "Median Age": 33,
+        "Household Income": 48726,
+        "Per Capita Income": 27706,
+        "Poverty Rate": 21.40343822
+    },
+    {
+        "Zipcode": 41763,
+        "Address": "Slemp, KY 41763, USA",
+        "Population": 645,
+        "Median Age": 41.6,
+        "Household Income": 36827,
+        "Per Capita Income": 16535,
+        "Poverty Rate": 17.98449612
+    },
+    {
+        "Zipcode": 47232,
+        "Address": "Elizabethtown, IN 47232, USA",
+        "Population": 3280,
+        "Median Age": 37.4,
+        "Household Income": 60128,
+        "Per Capita Income": 21838,
+        "Poverty Rate": 13.35365854
+    },
+    {
+        "Zipcode": 23055,
+        "Address": "Fork Union, VA 23055, USA",
+        "Population": 936,
+        "Median Age": 48,
+        "Household Income": 59648,
+        "Per Capita Income": 21737,
+        "Poverty Rate": 1.388888889
+    },
+    {
+        "Zipcode": 50433,
+        "Address": "Dougherty, IA 50433, USA",
+        "Population": 206,
+        "Median Age": 45.4,
+        "Household Income": 55781,
+        "Per Capita Income": 41122,
+        "Poverty Rate": 3.883495146
+    },
+    {
+        "Zipcode": 18237,
+        "Address": "McAdoo, PA 18237, USA",
+        "Population": 3848,
+        "Median Age": 39.1,
+        "Household Income": 42140,
+        "Per Capita Income": 20172,
+        "Poverty Rate": 11.9022869
+    },
+    {
+        "Zipcode": 49048,
+        "Address": "Kalamazoo, MI 49048, USA",
+        "Population": 25434,
+        "Median Age": 34.9,
+        "Household Income": 41443,
+        "Per Capita Income": 20479,
+        "Poverty Rate": 24.02296139
+    },
+    {
+        "Zipcode": 57725,
+        "Address": "Caputa, SD 57725, USA",
+        "Population": 110,
+        "Median Age": 66.6,
+        "Household Income": 57841,
+        "Per Capita Income": 21549,
+        "Poverty Rate": 16.36363636
+    },
+    {
+        "Zipcode": 32409,
+        "Address": "Panama City, FL 32409, USA",
+        "Population": 8635,
+        "Median Age": 41.4,
+        "Household Income": 50461,
+        "Per Capita Income": 24300,
+        "Poverty Rate": 13.59583092
+    },
+    {
+        "Zipcode": 57315,
+        "Address": "Avon, SD 57315, USA",
+        "Population": 1141,
+        "Median Age": 40.3,
+        "Household Income": 44813,
+        "Per Capita Income": 21359,
+        "Poverty Rate": 16.38913234
+    },
+    {
+        "Zipcode": 27288,
+        "Address": "Eden, NC 27288, USA",
+        "Population": 23445,
+        "Median Age": 42.5,
+        "Household Income": 33800,
+        "Per Capita Income": 18470,
+        "Poverty Rate": 22.38430369
+    },
+    {
+        "Zipcode": 98591,
+        "Address": "Toledo, WA 98591, USA",
+        "Population": 3837,
+        "Median Age": 49,
+        "Household Income": 50488,
+        "Per Capita Income": 24795,
+        "Poverty Rate": 10.50299713
+    },
+    {
+        "Zipcode": 12804,
+        "Address": "Queensbury, NY 12804, USA",
+        "Population": 26308,
+        "Median Age": 44.6,
+        "Household Income": 60152,
+        "Per Capita Income": 32970,
+        "Poverty Rate": 9.14550707
+    },
+    {
+        "Zipcode": 18473,
+        "Address": "White Mills, PA 18473, USA",
+        "Population": 432,
+        "Median Age": 41.8,
+        "Household Income": 50052,
+        "Per Capita Income": 27326,
+        "Poverty Rate": 19.90740741
+    },
+    {
+        "Zipcode": 92392,
+        "Address": "Victorville, CA 92392, USA",
+        "Population": 54557,
+        "Median Age": 27.9,
+        "Household Income": 58667,
+        "Per Capita Income": 19090,
+        "Poverty Rate": 19.85446414
+    },
+    {
+        "Zipcode": 68930,
+        "Address": "Blue Hill, NE 68930, USA",
+        "Population": 1430,
+        "Median Age": 44.7,
+        "Household Income": 44643,
+        "Per Capita Income": 22939,
+        "Poverty Rate": 11.11888112
+    },
+    {
+        "Zipcode": 66052,
+        "Address": "Linwood, KS 66052, USA",
+        "Population": 2021,
+        "Median Age": 42.8,
+        "Household Income": 57848,
+        "Per Capita Income": 27076,
+        "Poverty Rate": 6.82830282
+    },
+    {
+        "Zipcode": 4010,
+        "Address": "Brownfield, ME 04010, USA",
+        "Population": 1336,
+        "Median Age": 47.6,
+        "Household Income": 45592,
+        "Per Capita Income": 25609,
+        "Poverty Rate": 10.62874251
+    },
+    {
+        "Zipcode": 41073,
+        "Address": "Bellevue, KY 41073, USA",
+        "Population": 5810,
+        "Median Age": 37.7,
+        "Household Income": 53396,
+        "Per Capita Income": 26881,
+        "Poverty Rate": 9.432013769
+    },
+    {
+        "Zipcode": 98362,
+        "Address": "Port Angeles, WA 98362, USA",
+        "Population": 22052,
+        "Median Age": 47.5,
+        "Household Income": 43827,
+        "Per Capita Income": 25914,
+        "Poverty Rate": 14.38871758
+    },
+    {
+        "Zipcode": 25165,
+        "Address": "Racine, WV 25165, USA",
+        "Population": 451,
+        "Median Age": 41.1,
+        "Household Income": 49886,
+        "Per Capita Income": 24418,
+        "Poverty Rate": 9.312638581
+    },
+    {
+        "Zipcode": 56453,
+        "Address": "Hewitt, MN 56453, USA",
+        "Population": 855,
+        "Median Age": 41,
+        "Household Income": 50089,
+        "Per Capita Income": 21875,
+        "Poverty Rate": 12.86549708
+    },
+    {
+        "Zipcode": 24137,
+        "Address": "Penhook, VA 24137, USA",
+        "Population": 2893,
+        "Median Age": 46.3,
+        "Household Income": 54979,
+        "Per Capita Income": 30491,
+        "Poverty Rate": 11.61424127
+    },
+    {
+        "Zipcode": 66507,
+        "Address": "Maple Hill, KS 66507, USA",
+        "Population": 1237,
+        "Median Age": 31.8,
+        "Household Income": 67500,
+        "Per Capita Income": 23114,
+        "Poverty Rate": 2.425222312
+    },
+    {
+        "Zipcode": 49874,
+        "Address": "Powers, MI 49874, USA",
+        "Population": 1208,
+        "Median Age": 46.9,
+        "Household Income": 35729,
+        "Per Capita Income": 19398,
+        "Poverty Rate": 15.64569536
+    },
+    {
+        "Zipcode": 59752,
+        "Address": "Three Forks, MT 59752, USA",
+        "Population": 3236,
+        "Median Age": 44,
+        "Household Income": 51176,
+        "Per Capita Income": 25177,
+        "Poverty Rate": 8.683559951
+    },
+    {
+        "Zipcode": 37923,
+        "Address": "Knoxville, TN 37923, USA",
+        "Population": 27624,
+        "Median Age": 37,
+        "Household Income": 53893,
+        "Per Capita Income": 30167,
+        "Poverty Rate": 11.23298581
+    },
+    {
+        "Zipcode": 44305,
+        "Address": "Akron, OH 44305, USA",
+        "Population": 21899,
+        "Median Age": 37.6,
+        "Household Income": 36944,
+        "Per Capita Income": 18868,
+        "Poverty Rate": 23.43486004
+    },
+    {
+        "Zipcode": 23602,
+        "Address": "Newport News, VA 23602, USA",
+        "Population": 39925,
+        "Median Age": 36.7,
+        "Household Income": 61343,
+        "Per Capita Income": 30030,
+        "Poverty Rate": 10.43456481
+    },
+    {
+        "Zipcode": 23440,
+        "Address": "Tangier, VA 23440, USA",
+        "Population": 483,
+        "Median Age": 55.7,
+        "Household Income": 40833,
+        "Per Capita Income": 20990,
+        "Poverty Rate": 21.32505176
+    },
+    {
+        "Zipcode": 22834,
+        "Address": "Linville, VA 22834, USA",
+        "Population": 1092,
+        "Median Age": 38.6,
+        "Household Income": 40357,
+        "Per Capita Income": 30224,
+        "Poverty Rate": 8.882783883
+    },
+    {
+        "Zipcode": 79416,
+        "Address": "Lubbock, TX 79416, USA",
+        "Population": 32772,
+        "Median Age": 26.2,
+        "Household Income": 45937,
+        "Per Capita Income": 23645,
+        "Poverty Rate": 19.80349078
+    },
+    {
+        "Zipcode": 49616,
+        "Address": "Benzonia, MI 49616, USA",
+        "Population": 1884,
+        "Median Age": 45.7,
+        "Household Income": 39145,
+        "Per Capita Income": 18568,
+        "Poverty Rate": 17.78131635
+    },
+    {
+        "Zipcode": 25431,
+        "Address": "Levels, WV 25431, USA",
+        "Population": 219,
+        "Median Age": 50.5,
+        "Household Income": 31161,
+        "Per Capita Income": 21822,
+        "Poverty Rate": 12.32876712
+    },
+    {
+        "Zipcode": 40769,
+        "Address": "Williamsburg, KY 40769, USA",
+        "Population": 18135,
+        "Median Age": 36.9,
+        "Household Income": 27221,
+        "Per Capita Income": 14298,
+        "Poverty Rate": 27.19602978
+    },
+    {
+        "Zipcode": 69130,
+        "Address": "Cozad, NE 69130, USA",
+        "Population": 5411,
+        "Median Age": 41.6,
+        "Household Income": 46899,
+        "Per Capita Income": 21825,
+        "Poverty Rate": 12.84420625
+    },
+    {
+        "Zipcode": 92843,
+        "Address": "Garden Grove, CA 92843, USA",
+        "Population": 44351,
+        "Median Age": 33.3,
+        "Household Income": 51991,
+        "Per Capita Income": 17186,
+        "Poverty Rate": 20.31972222
+    },
+    {
+        "Zipcode": 98051,
+        "Address": "Ravensdale, WA 98051, USA",
+        "Population": 3852,
+        "Median Age": 42.3,
+        "Household Income": 77623,
+        "Per Capita Income": 32555,
+        "Poverty Rate": 6.464174455
+    },
+    {
+        "Zipcode": 48468,
+        "Address": "Port Hope, MI 48468, USA",
+        "Population": 1440,
+        "Median Age": 55.2,
+        "Household Income": 38882,
+        "Per Capita Income": 22710,
+        "Poverty Rate": 13.05555556
+    },
+    {
+        "Zipcode": 10007,
+        "Address": "New York, NY 10007, USA",
+        "Population": 6525,
+        "Median Age": 34,
+        "Household Income": 216037,
+        "Per Capita Income": 157713,
+        "Poverty Rate": 2.206896552
+    },
+    {
+        "Zipcode": 90302,
+        "Address": "Inglewood, CA 90302, USA",
+        "Population": 30502,
+        "Median Age": 32.4,
+        "Household Income": 43042,
+        "Per Capita Income": 21718,
+        "Poverty Rate": 18.77253951
+    },
+    {
+        "Zipcode": 38487,
+        "Address": "Williamsport, TN 38487, USA",
+        "Population": 762,
+        "Median Age": 41.6,
+        "Household Income": 38125,
+        "Per Capita Income": 18884,
+        "Poverty Rate": 24.40944882
+    },
+    {
+        "Zipcode": 13635,
+        "Address": "Edwards, NY 13635, USA",
+        "Population": 837,
+        "Median Age": 46,
+        "Household Income": 33194,
+        "Per Capita Income": 21320,
+        "Poverty Rate": 17.68219833
+    },
+    {
+        "Zipcode": 97229,
+        "Address": "Portland, OR 97229, USA",
+        "Population": 59983,
+        "Median Age": 37.8,
+        "Household Income": 100063,
+        "Per Capita Income": 44657,
+        "Poverty Rate": 4.851374556
+    },
+    {
+        "Zipcode": 2382,
+        "Address": "Whitman, MA 02382, USA",
+        "Population": 14567,
+        "Median Age": 39.1,
+        "Household Income": 72462,
+        "Per Capita Income": 32541,
+        "Poverty Rate": 7.736665065
+    },
+    {
+        "Zipcode": 7606,
+        "Address": "South Hackensack, NJ 07606, USA",
+        "Population": 2371,
+        "Median Age": 39.4,
+        "Household Income": 68750,
+        "Per Capita Income": 33300,
+        "Poverty Rate": 4.555040067
+    },
+    {
+        "Zipcode": 50543,
+        "Address": "Gowrie, IA 50543, USA",
+        "Population": 1562,
+        "Median Age": 44.5,
+        "Household Income": 44583,
+        "Per Capita Income": 23616,
+        "Poverty Rate": 15.87708067
+    },
+    {
+        "Zipcode": 14033,
+        "Address": "Colden, NY 14033, USA",
+        "Population": 2170,
+        "Median Age": 44.3,
+        "Household Income": 81979,
+        "Per Capita Income": 32764,
+        "Poverty Rate": 6.728110599
+    },
+    {
+        "Zipcode": 13495,
+        "Address": "Yorkville, NY 13495, USA",
+        "Population": 2168,
+        "Median Age": 38.4,
+        "Household Income": 48576,
+        "Per Capita Income": 24413,
+        "Poverty Rate": 9.086715867
+    },
+    {
+        "Zipcode": 12723,
+        "Address": "Callicoon, NY 12723, USA",
+        "Population": 2196,
+        "Median Age": 43.2,
+        "Household Income": 58102,
+        "Per Capita Income": 25249,
+        "Poverty Rate": 11.70309654
+    },
+    {
+        "Zipcode": 28349,
+        "Address": "Kenansville, NC 28349, USA",
+        "Population": 4277,
+        "Median Age": 38.3,
+        "Household Income": 39057,
+        "Per Capita Income": 15572,
+        "Poverty Rate": 17.9331307
+    },
+    {
+        "Zipcode": 97396,
+        "Address": "Willamina, OR 97396, USA",
+        "Population": 2827,
+        "Median Age": 44.3,
+        "Household Income": 36848,
+        "Per Capita Income": 18929,
+        "Poverty Rate": 16.94375663
+    },
+    {
+        "Zipcode": 42025,
+        "Address": "Benton, KY 42025, USA",
+        "Population": 19744,
+        "Median Age": 43.2,
+        "Household Income": 42310,
+        "Per Capita Income": 21348,
+        "Poverty Rate": 11.51742301
+    },
+    {
+        "Zipcode": 53118,
+        "Address": "Dousman, WI 53118, USA",
+        "Population": 7248,
+        "Median Age": 46.9,
+        "Household Income": 81619,
+        "Per Capita Income": 38393,
+        "Poverty Rate": 3.214679912
+    },
+    {
+        "Zipcode": 55060,
+        "Address": "Owatonna, MN 55060, USA",
+        "Population": 28884,
+        "Median Age": 39.4,
+        "Household Income": 54945,
+        "Per Capita Income": 27727,
+        "Poverty Rate": 10.4313807
+    },
+    {
+        "Zipcode": 71825,
+        "Address": "Blevins, AR 71825, USA",
+        "Population": 686,
+        "Median Age": 32.6,
+        "Household Income": 35625,
+        "Per Capita Income": 13098,
+        "Poverty Rate": 36.1516035
+    },
+    {
+        "Zipcode": 71353,
+        "Address": "Melville, LA 71353, USA",
+        "Population": 1646,
+        "Median Age": 43.4,
+        "Household Income": 26719,
+        "Per Capita Income": 19660,
+        "Poverty Rate": 36.39125152
+    },
+    {
+        "Zipcode": 50525,
+        "Address": "Clarion, IA 50525, USA",
+        "Population": 3491,
+        "Median Age": 42.2,
+        "Household Income": 39200,
+        "Per Capita Income": 25499,
+        "Poverty Rate": 16.06989401
+    },
+    {
+        "Zipcode": 57021,
+        "Address": "Davis, SD 57021, USA",
+        "Population": 395,
+        "Median Age": 34.5,
+        "Household Income": 81875,
+        "Per Capita Income": 28762,
+        "Poverty Rate": 2.784810127
+    },
+    {
+        "Zipcode": 12831,
+        "Address": "Gansevoort, NY 12831, USA",
+        "Population": 17644,
+        "Median Age": 40.3,
+        "Household Income": 71393,
+        "Per Capita Income": 33481,
+        "Poverty Rate": 3.882339606
+    },
+    {
+        "Zipcode": 25442,
+        "Address": "Shenandoah Junction, WV 25442, USA",
+        "Population": 1734,
+        "Median Age": 35,
+        "Household Income": 73949,
+        "Per Capita Income": 31249,
+        "Poverty Rate": 6.978085352
+    },
+    {
+        "Zipcode": 28395,
+        "Address": "Wade, NC 28395, USA",
+        "Population": 1953,
+        "Median Age": 39.5,
+        "Household Income": 39813,
+        "Per Capita Income": 23319,
+        "Poverty Rate": 18.02355351
+    },
+    {
+        "Zipcode": 3448,
+        "Address": "Gilsum, NH 03448, USA",
+        "Population": 662,
+        "Median Age": 50.8,
+        "Household Income": 45417,
+        "Per Capita Income": 26556,
+        "Poverty Rate": 12.08459215
+    },
+    {
+        "Zipcode": 66088,
+        "Address": "Valley Falls, KS 66088, USA",
+        "Population": 2579,
+        "Median Age": 42.8,
+        "Household Income": 50667,
+        "Per Capita Income": 25268,
+        "Poverty Rate": 7.98759209
+    },
+    {
+        "Zipcode": 49411,
+        "Address": "Free Soil, MI 49411, USA",
+        "Population": 1523,
+        "Median Age": 47.1,
+        "Household Income": 44450,
+        "Per Capita Income": 25531,
+        "Poverty Rate": 13.59159554
+    },
+    {
+        "Zipcode": 79705,
+        "Address": "Midland, TX 79705, USA",
+        "Population": 32784,
+        "Median Age": 36.8,
+        "Household Income": 68649,
+        "Per Capita Income": 38947,
+        "Poverty Rate": 8.906783797
+    },
+    {
+        "Zipcode": 74066,
+        "Address": "Sapulpa, OK 74066, USA",
+        "Population": 31116,
+        "Median Age": 38.9,
+        "Household Income": 44675,
+        "Per Capita Income": 22844,
+        "Poverty Rate": 13.51716159
+    },
+    {
+        "Zipcode": 41046,
+        "Address": "Glencoe, KY 41046, USA",
+        "Population": 1991,
+        "Median Age": 24,
+        "Household Income": 37585,
+        "Per Capita Income": 13209,
+        "Poverty Rate": 27.22250126
+    },
+    {
+        "Zipcode": 7724,
+        "Address": "Eatontown, NJ 07724, USA",
+        "Population": 21758,
+        "Median Age": 41.7,
+        "Household Income": 78064,
+        "Per Capita Income": 39958,
+        "Poverty Rate": 6.135674235
+    },
+    {
+        "Zipcode": 41649,
+        "Address": "Martin, KY 41649, USA",
+        "Population": 3004,
+        "Median Age": 41.4,
+        "Household Income": 25458,
+        "Per Capita Income": 15356,
+        "Poverty Rate": 28.36218375
+    },
+    {
+        "Zipcode": 55435,
+        "Address": "Minneapolis, MN 55435, USA",
+        "Population": 12286,
+        "Median Age": 46.9,
+        "Household Income": 56213,
+        "Per Capita Income": 47347,
+        "Poverty Rate": 3.898746541
+    },
+    {
+        "Zipcode": 13402,
+        "Address": "Madison, NY 13402, USA",
+        "Population": 1587,
+        "Median Age": 46.4,
+        "Household Income": 43387,
+        "Per Capita Income": 19660,
+        "Poverty Rate": 22.0541903
+    },
+    {
+        "Zipcode": 8324,
+        "Address": "Heislerville, NJ 08324, USA",
+        "Population": 670,
+        "Median Age": 42.5,
+        "Household Income": 67772,
+        "Per Capita Income": 28069,
+        "Poverty Rate": 14.47761194
+    },
+    {
+        "Zipcode": 3276,
+        "Address": "Tilton, NH 03276, USA",
+        "Population": 8394,
+        "Median Age": 41.9,
+        "Household Income": 58449,
+        "Per Capita Income": 25690,
+        "Poverty Rate": 13.17607815
+    },
+    {
+        "Zipcode": 69163,
+        "Address": "Stapleton, NE 69163, USA",
+        "Population": 828,
+        "Median Age": 50.4,
+        "Household Income": 45481,
+        "Per Capita Income": 25348,
+        "Poverty Rate": 13.4057971
+    },
+    {
+        "Zipcode": 64480,
+        "Address": "Rea, MO 64480, USA",
+        "Population": 325,
+        "Median Age": 57.5,
+        "Household Income": 65000,
+        "Per Capita Income": 34670,
+        "Poverty Rate": 11.69230769
+    },
+    {
+        "Zipcode": 90210,
+        "Address": "Beverly Hills, CA 90210, USA",
+        "Population": 21548,
+        "Median Age": 46.4,
+        "Household Income": 132254,
+        "Per Capita Income": 111364,
+        "Poverty Rate": 7.420642287
+    },
+    {
+        "Zipcode": 72401,
+        "Address": "Jonesboro, AR 72401, USA",
+        "Population": 55197,
+        "Median Age": 31.6,
+        "Household Income": 34819,
+        "Per Capita Income": 20130,
+        "Poverty Rate": 26.8456619
+    },
+    {
+        "Zipcode": 41540,
+        "Address": "Lick Creek, KY 41540, USA",
+        "Population": 235,
+        "Median Age": 40.2,
+        "Household Income": 62672,
+        "Per Capita Income": 24235,
+        "Poverty Rate": 9.787234043
+    },
+    {
+        "Zipcode": 57568,
+        "Address": "Presho, SD 57568, USA",
+        "Population": 647,
+        "Median Age": 45.2,
+        "Household Income": 51700,
+        "Per Capita Income": 28055,
+        "Poverty Rate": 7.882534776
+    },
+    {
+        "Zipcode": 29113,
+        "Address": "Norway, SC 29113, USA",
+        "Population": 2176,
+        "Median Age": 32.1,
+        "Household Income": 36875,
+        "Per Capita Income": 13381,
+        "Poverty Rate": 24.31066176
+    },
+    {
+        "Zipcode": 25401,
+        "Address": "Martinsburg, WV 25401, USA",
+        "Population": 14987,
+        "Median Age": 34.7,
+        "Household Income": 36600,
+        "Per Capita Income": 21158,
+        "Poverty Rate": 27.20357643
+    },
+    {
+        "Zipcode": 13326,
+        "Address": "Cooperstown, NY 13326, USA",
+        "Population": 5456,
+        "Median Age": 50.4,
+        "Household Income": 57375,
+        "Per Capita Income": 35094,
+        "Poverty Rate": 8.431085044
+    },
+    {
+        "Zipcode": 61604,
+        "Address": "Peoria, IL 61604, USA",
+        "Population": 31427,
+        "Median Age": 36.8,
+        "Household Income": 40630,
+        "Per Capita Income": 21137,
+        "Poverty Rate": 21.60880771
+    },
+    {
+        "Zipcode": 32535,
+        "Address": "Century, FL 32535, USA",
+        "Population": 6015,
+        "Median Age": 37.8,
+        "Household Income": 34107,
+        "Per Capita Income": 13066,
+        "Poverty Rate": 14.28096426
+    },
+    {
+        "Zipcode": 3048,
+        "Address": "Greenville, NH 03048, USA",
+        "Population": 3513,
+        "Median Age": 43.6,
+        "Household Income": 62321,
+        "Per Capita Income": 28864,
+        "Poverty Rate": 11.07315685
+    },
+    {
+        "Zipcode": 55976,
+        "Address": "Stewartville, MN 55976, USA",
+        "Population": 7480,
+        "Median Age": 37.5,
+        "Household Income": 53616,
+        "Per Capita Income": 26641,
+        "Poverty Rate": 6.99197861
+    },
+    {
+        "Zipcode": 23665,
+        "Address": "Hampton, VA 23665, USA",
+        "Population": 5593,
+        "Median Age": 22.2,
+        "Household Income": 52313,
+        "Per Capita Income": 18789,
+        "Poverty Rate": 3.969247273
+    },
+    {
+        "Zipcode": 28226,
+        "Address": "Charlotte, NC 28226, USA",
+        "Population": 37412,
+        "Median Age": 41.1,
+        "Household Income": 68291,
+        "Per Capita Income": 48777,
+        "Poverty Rate": 6.388324602
+    },
+    {
+        "Zipcode": 76310,
+        "Address": "Wichita Falls, TX 76310, USA",
+        "Population": 18492,
+        "Median Age": 37.2,
+        "Household Income": 63646,
+        "Per Capita Income": 27924,
+        "Poverty Rate": 10.19900498
+    },
+    {
+        "Zipcode": 12456,
+        "Address": "Mt Marion, NY 12456, USA",
+        "Population": 707,
+        "Median Age": 37.5,
+        "Household Income": 48993,
+        "Per Capita Income": 17639,
+        "Poverty Rate": 2.121640736
+    },
+    {
+        "Zipcode": 73743,
+        "Address": "Hillsdale, OK 73743, USA",
+        "Population": 132,
+        "Median Age": 42.5,
+        "Household Income": 50000,
+        "Per Capita Income": 24770,
+        "Poverty Rate": 7.575757576
+    },
+    {
+        "Zipcode": 2169,
+        "Address": "Quincy, MA 02169, USA",
+        "Population": 55064,
+        "Median Age": 38.1,
+        "Household Income": 58669,
+        "Per Capita Income": 32613,
+        "Poverty Rate": 10.54227808
+    },
+    {
+        "Zipcode": 23228,
+        "Address": "Henrico, VA 23228, USA",
+        "Population": 33844,
+        "Median Age": 35.1,
+        "Household Income": 44224,
+        "Per Capita Income": 23998,
+        "Poverty Rate": 15.56258126
+    },
+    {
+        "Zipcode": 35907,
+        "Address": "Gadsden, AL 35907, USA",
+        "Population": 8339,
+        "Median Age": 40.7,
+        "Household Income": 70147,
+        "Per Capita Income": 26791,
+        "Poverty Rate": 5.144501739
+    },
+    {
+        "Zipcode": 8859,
+        "Address": "Parlin, NJ 08859, USA",
+        "Population": 21594,
+        "Median Age": 38.9,
+        "Household Income": 79835,
+        "Per Capita Income": 35353,
+        "Poverty Rate": 6.075761786
+    },
+    {
+        "Zipcode": 64639,
+        "Address": "De Witt, MO 64639, USA",
+        "Population": 257,
+        "Median Age": 48.9,
+        "Household Income": 57917,
+        "Per Capita Income": 25446,
+        "Poverty Rate": 4.280155642
+    },
+    {
+        "Zipcode": 18914,
+        "Address": "Chalfont, PA 18914, USA",
+        "Population": 21694,
+        "Median Age": 39.4,
+        "Household Income": 101522,
+        "Per Capita Income": 40247,
+        "Poverty Rate": 2.696598138
+    },
+    {
+        "Zipcode": 11693,
+        "Address": "Far Rockaway, NY 11693, USA",
+        "Population": 11335,
+        "Median Age": 39.1,
+        "Household Income": 50570,
+        "Per Capita Income": 25149,
+        "Poverty Rate": 21.44684605
+    },
+    {
+        "Zipcode": 58494,
+        "Address": "Wing, ND 58494, USA",
+        "Population": 357,
+        "Median Age": 42.2,
+        "Household Income": 48500,
+        "Per Capita Income": 29216,
+        "Poverty Rate": 5.602240896
+    },
+    {
+        "Zipcode": 62025,
+        "Address": "Edwardsville, IL 62025, USA",
+        "Population": 33736,
+        "Median Age": 35.2,
+        "Household Income": 72877,
+        "Per Capita Income": 34115,
+        "Poverty Rate": 9.097106948
+    },
+    {
+        "Zipcode": 64625,
+        "Address": "Breckenridge, MO 64625, USA",
+        "Population": 549,
+        "Median Age": 43.7,
+        "Household Income": 36250,
+        "Per Capita Income": 20795,
+        "Poverty Rate": 17.12204007
+    },
+    {
+        "Zipcode": 17737,
+        "Address": "Hughesville, PA 17737, USA",
+        "Population": 5881,
+        "Median Age": 42.3,
+        "Household Income": 51007,
+        "Per Capita Income": 24229,
+        "Poverty Rate": 13.1100153
+    },
+    {
+        "Zipcode": 58466,
+        "Address": "Marion, ND 58466, USA",
+        "Population": 509,
+        "Median Age": 44.5,
+        "Household Income": 69844,
+        "Per Capita Income": 36981,
+        "Poverty Rate": 9.430255403
+    },
+    {
+        "Zipcode": 45897,
+        "Address": "Williamstown, OH 45897, USA",
+        "Population": 155,
+        "Median Age": 45.3,
+        "Household Income": null,
+        "Per Capita Income": 8999,
+        "Poverty Rate": 50.96774194
+    },
+    {
+        "Zipcode": 20143,
+        "Address": "Catharpin, VA 20143, USA",
+        "Population": 1081,
+        "Median Age": 42.8,
+        "Household Income": 139938,
+        "Per Capita Income": 51051,
+        "Poverty Rate": 2.405180389
+    },
+    {
+        "Zipcode": 22642,
+        "Address": "Linden, VA 22642, USA",
+        "Population": 3912,
+        "Median Age": 37.1,
+        "Household Income": 76198,
+        "Per Capita Income": 28685,
+        "Poverty Rate": 10.60838446
+    },
+    {
+        "Zipcode": 52217,
+        "Address": "Clutier, IA 52217, USA",
+        "Population": 447,
+        "Median Age": 47.8,
+        "Household Income": 40625,
+        "Per Capita Income": 22426,
+        "Poverty Rate": 7.606263982
+    },
+    {
+        "Zipcode": 36370,
+        "Address": "Pansey, AL 36370, USA",
+        "Population": 929,
+        "Median Age": 43.9,
+        "Household Income": 44018,
+        "Per Capita Income": 21152,
+        "Poverty Rate": 10.33369214
+    },
+    {
+        "Zipcode": 42762,
+        "Address": "Millwood, KY 42762, USA",
+        "Population": 531,
+        "Median Age": 42.3,
+        "Household Income": 30500,
+        "Per Capita Income": 15664,
+        "Poverty Rate": 18.45574388
+    },
+    {
+        "Zipcode": 35005,
+        "Address": "Adamsville, AL 35005, USA",
+        "Population": 8150,
+        "Median Age": 38.2,
+        "Household Income": 46059,
+        "Per Capita Income": 21273,
+        "Poverty Rate": 17.86503067
+    },
+    {
+        "Zipcode": 2145,
+        "Address": "Somerville, MA 02145, USA",
+        "Population": 24659,
+        "Median Age": 33,
+        "Household Income": 55487,
+        "Per Capita Income": 29355,
+        "Poverty Rate": 16.34697271
+    },
+    {
+        "Zipcode": 83841,
+        "Address": "Laclede, ID 83841, USA",
+        "Population": 171,
+        "Median Age": 60.8,
+        "Household Income": 26618,
+        "Per Capita Income": 23912,
+        "Poverty Rate": 0
+    },
+    {
+        "Zipcode": 93637,
+        "Address": "Madera, CA 93637, USA",
+        "Population": 40515,
+        "Median Age": 29.5,
+        "Household Income": 48974,
+        "Per Capita Income": 17449,
+        "Poverty Rate": 20.05183265
+    },
+    {
+        "Zipcode": 84118,
+        "Address": "Salt Lake City, UT 84118, USA",
+        "Population": 67019,
+        "Median Age": 30.4,
+        "Household Income": 61203,
+        "Per Capita Income": 19777,
+        "Poverty Rate": 12.23235202
+    },
+    {
+        "Zipcode": 37737,
+        "Address": "Friendsville, TN 37737, USA",
+        "Population": 5464,
+        "Median Age": 45.7,
+        "Household Income": 54405,
+        "Per Capita Income": 29839,
+        "Poverty Rate": 11.20058565
+    },
+    {
+        "Zipcode": 60421,
+        "Address": "Elwood, IL 60421, USA",
+        "Population": 3960,
+        "Median Age": 40.1,
+        "Household Income": 70485,
+        "Per Capita Income": 30466,
+        "Poverty Rate": 8.585858586
+    },
+    {
+        "Zipcode": 38229,
+        "Address": "Gleason, TN 38229, USA",
+        "Population": 2948,
+        "Median Age": 43.5,
+        "Household Income": 36800,
+        "Per Capita Income": 19886,
+        "Poverty Rate": 17.33378562
+    },
+    {
+        "Zipcode": 62449,
+        "Address": "Oblong, IL 62449, USA",
+        "Population": 2971,
+        "Median Age": 41.5,
+        "Household Income": 46765,
+        "Per Capita Income": 25332,
+        "Poverty Rate": 8.347357792
+    },
+    {
+        "Zipcode": 30152,
+        "Address": "Kennesaw, GA 30152, USA",
+        "Population": 41689,
+        "Median Age": 36.7,
+        "Household Income": 74559,
+        "Per Capita Income": 35046,
+        "Poverty Rate": 7.404831011
+    },
+    {
+        "Zipcode": 55069,
+        "Address": "Rush City, MN 55069, USA",
+        "Population": 5450,
+        "Median Age": 37.7,
+        "Household Income": 54203,
+        "Per Capita Income": 20182,
+        "Poverty Rate": 10.99082569
+    },
+    {
+        "Zipcode": 61606,
+        "Address": "Peoria, IL 61606, USA",
+        "Population": 7989,
+        "Median Age": 21.9,
+        "Household Income": 35904,
+        "Per Capita Income": 17917,
+        "Poverty Rate": 30.27913381
+    },
+    {
+        "Zipcode": 65017,
+        "Address": "Brumley, MO 65017, USA",
+        "Population": 1580,
+        "Median Age": 44.2,
+        "Household Income": 42083,
+        "Per Capita Income": 19123,
+        "Poverty Rate": 20.56962025
+    },
+    {
+        "Zipcode": 69347,
+        "Address": "Hay Springs, NE 69347, USA",
+        "Population": 1113,
+        "Median Age": 52.6,
+        "Household Income": 40250,
+        "Per Capita Income": 23501,
+        "Poverty Rate": 11.85983827
+    },
+    {
+        "Zipcode": 35475,
+        "Address": "Northport, AL 35475, USA",
+        "Population": 14315,
+        "Median Age": 33.9,
+        "Household Income": 69924,
+        "Per Capita Income": 28117,
+        "Poverty Rate": 3.548725114
+    },
+    {
+        "Zipcode": 72722,
+        "Address": "Decatur, AR 72722, USA",
+        "Population": 3171,
+        "Median Age": 37.7,
+        "Household Income": 37198,
+        "Per Capita Income": 16971,
+        "Poverty Rate": 22.23273415
+    },
+    {
+        "Zipcode": 34744,
+        "Address": "Kissimmee, FL 34744, USA",
+        "Population": 44675,
+        "Median Age": 36.2,
+        "Household Income": 45589,
+        "Per Capita Income": 19455,
+        "Poverty Rate": 17.42585339
+    },
+    {
+        "Zipcode": 17051,
+        "Address": "Mcveytown, PA 17051, USA",
+        "Population": 4693,
+        "Median Age": 42.6,
+        "Household Income": 43234,
+        "Per Capita Income": 19984,
+        "Poverty Rate": 9.71659919
+    },
+    {
+        "Zipcode": 28618,
+        "Address": "Deep Gap, NC 28618, USA",
+        "Population": 1871,
+        "Median Age": 44.3,
+        "Household Income": 41929,
+        "Per Capita Income": 23581,
+        "Poverty Rate": 9.780865847
+    },
+    {
+        "Zipcode": 70748,
+        "Address": "Jackson, LA 70748, USA",
+        "Population": 6440,
+        "Median Age": 43,
+        "Household Income": 41489,
+        "Per Capita Income": 17350,
+        "Poverty Rate": 17.14285714
+    },
+    {
+        "Zipcode": 47952,
+        "Address": "Kingman, IN 47952, USA",
+        "Population": 2685,
+        "Median Age": 45.5,
+        "Household Income": 37232,
+        "Per Capita Income": 20271,
+        "Poverty Rate": 18.2122905
+    },
+    {
+        "Zipcode": 78214,
+        "Address": "San Antonio, TX 78214, USA",
+        "Population": 23611,
+        "Median Age": 33.6,
+        "Household Income": 27222,
+        "Per Capita Income": 13595,
+        "Poverty Rate": 34.17898437
+    },
+    {
+        "Zipcode": 19372,
+        "Address": "Thorndale, PA 19372, USA",
+        "Population": 1536,
+        "Median Age": 35.3,
+        "Household Income": 75347,
+        "Per Capita Income": 44586,
+        "Poverty Rate": 2.799479167
+    },
+    {
+        "Zipcode": 52362,
+        "Address": "Wyoming, IA 52362, USA",
+        "Population": 670,
+        "Median Age": 49.1,
+        "Household Income": 38359,
+        "Per Capita Income": 27973,
+        "Poverty Rate": 3.582089552
+    },
+    {
+        "Zipcode": 45684,
+        "Address": "Stout, OH 45684, USA",
+        "Population": 1862,
+        "Median Age": 40.8,
+        "Household Income": 47517,
+        "Per Capita Income": 18795,
+        "Poverty Rate": 13.58754028
+    },
+    {
+        "Zipcode": 80545,
+        "Address": "Red Feather Lakes, CO 80545, USA",
+        "Population": 629,
+        "Median Age": 61.5,
+        "Household Income": 40583,
+        "Per Capita Income": 30261,
+        "Poverty Rate": 27.18600954
+    },
+    {
+        "Zipcode": 72036,
+        "Address": "Cotton Plant, AR 72036, USA",
+        "Population": 757,
+        "Median Age": 47,
+        "Household Income": 22361,
+        "Per Capita Income": 13850,
+        "Poverty Rate": 26.68428005
+    },
+    {
+        "Zipcode": 13335,
+        "Address": "Edmeston, NY 13335, USA",
+        "Population": 1721,
+        "Median Age": 41.4,
+        "Household Income": 52083,
+        "Per Capita Income": 22636,
+        "Poverty Rate": 12.66705404
+    },
+    {
+        "Zipcode": 27283,
+        "Address": "Julian, NC 27283, USA",
+        "Population": 3124,
+        "Median Age": 43.4,
+        "Household Income": 52015,
+        "Per Capita Income": 27215,
+        "Poverty Rate": 7.458386684
+    },
+    {
+        "Zipcode": 692,
+        "Address": "Vega Alta, 00692, Puerto Rico",
+        "Population": 37618,
+        "Median Age": 35,
+        "Household Income": 18500,
+        "Per Capita Income": 9273,
+        "Poverty Rate": 49.20250944
+    },
+    {
+        "Zipcode": 49269,
+        "Address": "Parma, MI 49269, USA",
+        "Population": 5954,
+        "Median Age": 43,
+        "Household Income": 48185,
+        "Per Capita Income": 24291,
+        "Poverty Rate": 19.83540477
+    },
+    {
+        "Zipcode": 72856,
+        "Address": "Sand Gap, AR 72856, USA",
+        "Population": 528,
+        "Median Age": 52.1,
+        "Household Income": 31016,
+        "Per Capita Income": 24773,
+        "Poverty Rate": 9.28030303
+    },
+    {
+        "Zipcode": 41835,
+        "Address": "McRoberts, KY 41835, USA",
+        "Population": 967,
+        "Median Age": 50.9,
+        "Household Income": 43690,
+        "Per Capita Income": 19524,
+        "Poverty Rate": 29.47259566
+    },
+    {
+        "Zipcode": 47003,
+        "Address": "West College Corner, IN 47003, USA",
+        "Population": 1029,
+        "Median Age": 41,
+        "Household Income": 39519,
+        "Per Capita Income": 19997,
+        "Poverty Rate": 16.71525753
+    },
+    {
+        "Zipcode": 14304,
+        "Address": "Niagara Falls, NY 14304, USA",
+        "Population": 29745,
+        "Median Age": 44.7,
+        "Household Income": 47878,
+        "Per Capita Income": 25791,
+        "Poverty Rate": 11.23213986
+    },
+    {
+        "Zipcode": 12148,
+        "Address": "Rexford, NY 12148, USA",
+        "Population": 4322,
+        "Median Age": 44.2,
+        "Household Income": 107540,
+        "Per Capita Income": 44237,
+        "Poverty Rate": 1.758445164
+    },
+    {
+        "Zipcode": 37067,
+        "Address": "Franklin, TN 37067, USA",
+        "Population": 23391,
+        "Median Age": 37.6,
+        "Household Income": 95155,
+        "Per Capita Income": 45675,
+        "Poverty Rate": 3.266213501
+    },
+    {
+        "Zipcode": 71046,
+        "Address": "Keatchie, LA 71046, USA",
+        "Population": 1491,
+        "Median Age": 37.9,
+        "Household Income": 41825,
+        "Per Capita Income": 23280,
+        "Poverty Rate": 10.99932931
+    },
+    {
+        "Zipcode": 91207,
+        "Address": "Glendale, CA 91207, USA",
+        "Population": 10435,
+        "Median Age": 45.6,
+        "Household Income": 91005,
+        "Per Capita Income": 47259,
+        "Poverty Rate": 4.532822233
+    },
+    {
+        "Zipcode": 83313,
+        "Address": "Bellevue, ID 83313, USA",
+        "Population": 3609,
+        "Median Age": 35.4,
+        "Household Income": 45168,
+        "Per Capita Income": 23296,
+        "Poverty Rate": 20.0055417
+    },
+    {
+        "Zipcode": 38049,
+        "Address": "Mason, TN 38049, USA",
+        "Population": 4572,
+        "Median Age": 36.2,
+        "Household Income": 32386,
+        "Per Capita Income": 24972,
+        "Poverty Rate": 20.8223972
+    },
+    {
+        "Zipcode": 94539,
+        "Address": "Fremont, CA 94539, USA",
+        "Population": 51494,
+        "Median Age": 41.2,
+        "Household Income": 143949,
+        "Per Capita Income": 50701,
+        "Poverty Rate": 3.625665126
+    },
+    {
+        "Zipcode": 54747,
+        "Address": "Independence, WI 54747, USA",
+        "Population": 2583,
+        "Median Age": 39,
+        "Household Income": 41755,
+        "Per Capita Income": 22124,
+        "Poverty Rate": 16.2601626
+    },
+    {
+        "Zipcode": 60437,
+        "Address": "Kinsman, IL 60437, USA",
+        "Population": 157,
+        "Median Age": 49.8,
+        "Household Income": 36563,
+        "Per Capita Income": 23715,
+        "Poverty Rate": 8.917197452
+    },
+    {
+        "Zipcode": 57785,
+        "Address": "Sturgis, SD 57785, USA",
+        "Population": 9276,
+        "Median Age": 45.9,
+        "Household Income": 38638,
+        "Per Capita Income": 24036,
+        "Poverty Rate": 14.80163864
+    },
+    {
+        "Zipcode": 60137,
+        "Address": "Glen Ellyn, IL 60137, USA",
+        "Population": 38384,
+        "Median Age": 41.1,
+        "Household Income": 89386,
+        "Per Capita Income": 47759,
+        "Poverty Rate": 5.460608587
+    },
+    {
+        "Zipcode": 58259,
+        "Address": "Michigan, ND 58259, USA",
+        "Population": 384,
+        "Median Age": 54.1,
+        "Household Income": 48295,
+        "Per Capita Income": 31803,
+        "Poverty Rate": 4.947916667
+    },
+    {
+        "Zipcode": 13068,
+        "Address": "Freeville, NY 13068, USA",
+        "Population": 5693,
+        "Median Age": 44,
+        "Household Income": 66480,
+        "Per Capita Income": 30384,
+        "Poverty Rate": 7.728789742
+    },
+    {
+        "Zipcode": 68317,
+        "Address": "Bennet, NE 68317, USA",
+        "Population": 1531,
+        "Median Age": 40.4,
+        "Household Income": 79063,
+        "Per Capita Income": 30851,
+        "Poverty Rate": 3.135205748
+    },
+    {
+        "Zipcode": 6377,
+        "Address": "Sterling, CT 06377, USA",
+        "Population": 2787,
+        "Median Age": 38.5,
+        "Household Income": 71509,
+        "Per Capita Income": 28464,
+        "Poverty Rate": 7.786149982
+    },
+    {
+        "Zipcode": 76525,
+        "Address": "Evant, TX 76525, USA",
+        "Population": 1113,
+        "Median Age": 44.9,
+        "Household Income": 42750,
+        "Per Capita Income": 21032,
+        "Poverty Rate": 11.32075472
+    },
+    {
+        "Zipcode": 82932,
+        "Address": "Farson, WY 82932, USA",
+        "Population": 1032,
+        "Median Age": 35.9,
+        "Household Income": 91115,
+        "Per Capita Income": 40005,
+        "Poverty Rate": 2.228682171
+    },
+    {
+        "Zipcode": 54524,
+        "Address": "Fifield, WI 54524, USA",
+        "Population": 743,
+        "Median Age": 44.7,
+        "Household Income": 43047,
+        "Per Capita Income": 24178,
+        "Poverty Rate": 18.43876178
+    },
+    {
+        "Zipcode": 75149,
+        "Address": "Mesquite, TX 75149, USA",
+        "Population": 58427,
+        "Median Age": 31.8,
+        "Household Income": 47739,
+        "Per Capita Income": 19636,
+        "Poverty Rate": 14.62337618
+    },
+    {
+        "Zipcode": 25427,
+        "Address": "Hedgesville, WV 25427, USA",
+        "Population": 12630,
+        "Median Age": 42.9,
+        "Household Income": 54619,
+        "Per Capita Income": 27919,
+        "Poverty Rate": 10.72842439
+    },
+    {
+        "Zipcode": 45036,
+        "Address": "Lebanon, OH 45036, USA",
+        "Population": 38476,
+        "Median Age": 36.9,
+        "Household Income": 68633,
+        "Per Capita Income": 27591,
+        "Poverty Rate": 7.74768687
+    },
+    {
+        "Zipcode": 28635,
+        "Address": "Hays, NC 28635, USA",
+        "Population": 3920,
+        "Median Age": 35.6,
+        "Household Income": 30565,
+        "Per Capita Income": 14292,
+        "Poverty Rate": 23.57142857
+    },
+    {
+        "Zipcode": 63566,
+        "Address": "Winigan, MO 63566, USA",
+        "Population": 118,
+        "Median Age": 38.9,
+        "Household Income": 34107,
+        "Per Capita Income": 15108,
+        "Poverty Rate": 0
+    },
+    {
+        "Zipcode": 34224,
+        "Address": "Englewood, FL 34224, USA",
+        "Population": 15432,
+        "Median Age": 60.1,
+        "Household Income": 39645,
+        "Per Capita Income": 24929,
+        "Poverty Rate": 14.34033178
+    },
+    {
+        "Zipcode": 75640,
+        "Address": "Diana, TX 75640, USA",
+        "Population": 4052,
+        "Median Age": 42.8,
+        "Household Income": 54423,
+        "Per Capita Income": 22459,
+        "Poverty Rate": 16.65844028
+    },
+    {
+        "Zipcode": 85383,
+        "Address": "Peoria, AZ 85383, USA",
+        "Population": 38400,
+        "Median Age": 36.7,
+        "Household Income": 101526,
+        "Per Capita Income": 37735,
+        "Poverty Rate": 3.5703125
+    },
+    {
+        "Zipcode": 60018,
+        "Address": "Des Plaines, IL 60018, USA",
+        "Population": 28749,
+        "Median Age": 39.9,
+        "Household Income": 54688,
+        "Per Capita Income": 25289,
+        "Poverty Rate": 11.30821942
+    },
+    {
+        "Zipcode": 21061,
+        "Address": "Glen Burnie, MD 21061, USA",
+        "Population": 53491,
+        "Median Age": 36,
+        "Household Income": 60430,
+        "Per Capita Income": 29841,
+        "Poverty Rate": 10.73077714
+    },
+    {
+        "Zipcode": 47436,
+        "Address": "Heltonville, IN 47436, USA",
+        "Population": 1557,
+        "Median Age": 42.5,
+        "Household Income": 42042,
+        "Per Capita Income": 18000,
+        "Poverty Rate": 10.46885035
+    },
+    {
+        "Zipcode": 77520,
+        "Address": "Baytown, TX 77520, USA",
+        "Population": 37735,
+        "Median Age": 32.1,
+        "Household Income": 43409,
+        "Per Capita Income": 18650,
+        "Poverty Rate": 21.62978667
+    },
+    {
+        "Zipcode": 44867,
+        "Address": "Republic, OH 44867, USA",
+        "Population": 2294,
+        "Median Age": 42.1,
+        "Household Income": 59268,
+        "Per Capita Income": 27746,
+        "Poverty Rate": 6.800348736
+    },
+    {
+        "Zipcode": 8854,
+        "Address": "Piscataway Township, NJ 08854, USA",
+        "Population": 56874,
+        "Median Age": 33.2,
+        "Household Income": 91164,
+        "Per Capita Income": 32262,
+        "Poverty Rate": 4.970636846
+    },
+    {
+        "Zipcode": 19944,
+        "Address": "Fenwick Island, DE 19944, USA",
+        "Population": 551,
+        "Median Age": 63.7,
+        "Household Income": 62000,
+        "Per Capita Income": 56948,
+        "Poverty Rate": 2.359346642
+    },
+    {
+        "Zipcode": 97016,
+        "Address": "Clatskanie, OR 97016, USA",
+        "Population": 6714,
+        "Median Age": 45.6,
+        "Household Income": 57153,
+        "Per Capita Income": 25154,
+        "Poverty Rate": 14.38784629
+    },
+    {
+        "Zipcode": 73560,
+        "Address": "Olustee, OK 73560, USA",
+        "Population": 609,
+        "Median Age": 26.9,
+        "Household Income": 28942,
+        "Per Capita Income": 17101,
+        "Poverty Rate": 29.22824302
+    },
+    {
+        "Zipcode": 98012,
+        "Address": "Bothell, WA 98012, USA",
+        "Population": 52351,
+        "Median Age": 37.2,
+        "Household Income": 88283,
+        "Per Capita Income": 39165,
+        "Poverty Rate": 5.810777254
+    },
+    {
+        "Zipcode": 44510,
+        "Address": "Youngstown, OH 44510, USA",
+        "Population": 2543,
+        "Median Age": 35.5,
+        "Household Income": 13917,
+        "Per Capita Income": 9907,
+        "Poverty Rate": 52.02516713
+    },
+    {
+        "Zipcode": 10803,
+        "Address": "Pelham, NY 10803, USA",
+        "Population": 12439,
+        "Median Age": 39.7,
+        "Household Income": 140000,
+        "Per Capita Income": 73808,
+        "Poverty Rate": 3.006672562
+    },
+    {
+        "Zipcode": 61270,
+        "Address": "Morrison, IL 61270, USA",
+        "Population": 7159,
+        "Median Age": 45.2,
+        "Household Income": 54206,
+        "Per Capita Income": 27990,
+        "Poverty Rate": 8.436932532
+    },
+    {
+        "Zipcode": 60645,
+        "Address": "Chicago, IL 60645, USA",
+        "Population": 46913,
+        "Median Age": 35,
+        "Household Income": 48918,
+        "Per Capita Income": 25500,
+        "Poverty Rate": 18.4192015
+    },
+    {
+        "Zipcode": 47932,
+        "Address": "Covington, IN 47932, USA",
+        "Population": 5381,
+        "Median Age": 42.5,
+        "Household Income": 53462,
+        "Per Capita Income": 26981,
+        "Poverty Rate": 8.028247538
+    },
+    {
+        "Zipcode": 72079,
+        "Address": "Jefferson, AR 72079, USA",
+        "Population": 766,
+        "Median Age": 44.2,
+        "Household Income": 34375,
+        "Per Capita Income": 20873,
+        "Poverty Rate": 10.31331593
+    },
+    {
+        "Zipcode": 65729,
+        "Address": "Pontiac, MO 65729, USA",
+        "Population": 337,
+        "Median Age": 54.1,
+        "Household Income": 67350,
+        "Per Capita Income": 32609,
+        "Poverty Rate": 28.78338279
+    },
+    {
+        "Zipcode": 14715,
+        "Address": "Bolivar, NY 14715, USA",
+        "Population": 2763,
+        "Median Age": 40.2,
+        "Household Income": 45030,
+        "Per Capita Income": 22257,
+        "Poverty Rate": 15.63517915
+    },
+    {
+        "Zipcode": 48469,
+        "Address": "Port Sanilac, MI 48469, USA",
+        "Population": 1175,
+        "Median Age": 56.4,
+        "Household Income": 44438,
+        "Per Capita Income": 25798,
+        "Poverty Rate": 14.63829787
+    },
+    {
+        "Zipcode": 18223,
+        "Address": "Ebervale, PA 18223, USA",
+        "Population": 122,
+        "Median Age": 43.7,
+        "Household Income": 49458,
+        "Per Capita Income": 37056,
+        "Poverty Rate": 25.40983607
+    },
+    {
+        "Zipcode": 39180,
+        "Address": "Vicksburg, MS 39180, USA",
+        "Population": 33827,
+        "Median Age": 37.1,
+        "Household Income": 40661,
+        "Per Capita Income": 21209,
+        "Poverty Rate": 24.25577202
+    },
+    {
+        "Zipcode": 97022,
+        "Address": "Eagle Creek, OR 97022, USA",
+        "Population": 3208,
+        "Median Age": 43.9,
+        "Household Income": 66927,
+        "Per Capita Income": 24343,
+        "Poverty Rate": 10.28678304
+    },
+    {
+        "Zipcode": 79764,
+        "Address": "Odessa, TX 79764, USA",
+        "Population": 20868,
+        "Median Age": 34.2,
+        "Household Income": 50556,
+        "Per Capita Income": 21883,
+        "Poverty Rate": 13.72436266
+    },
+    {
+        "Zipcode": 88353,
+        "Address": "Vaughn, NM 88353, USA",
+        "Population": 534,
+        "Median Age": 26.9,
+        "Household Income": 30179,
+        "Per Capita Income": 12829,
+        "Poverty Rate": 13.48314607
+    },
+    {
+        "Zipcode": 67351,
+        "Address": "Liberty, KS 67351, USA",
+        "Population": 587,
+        "Median Age": 48.1,
+        "Household Income": 84250,
+        "Per Capita Income": 30635,
+        "Poverty Rate": 6.814310051
+    },
+    {
+        "Zipcode": 88321,
+        "Address": "Encino, NM 88321, USA",
+        "Population": 117,
+        "Median Age": 57.4,
+        "Household Income": 27054,
+        "Per Capita Income": 31962,
+        "Poverty Rate": 10.25641026
+    },
+    {
+        "Zipcode": 73771,
+        "Address": "Wakita, OK 73771, USA",
+        "Population": 450,
+        "Median Age": 48.9,
+        "Household Income": 45536,
+        "Per Capita Income": 27035,
+        "Poverty Rate": 6.888888889
+    },
+    {
+        "Zipcode": 98270,
+        "Address": "Marysville, WA 98270, USA",
+        "Population": 46105,
+        "Median Age": 35.2,
+        "Household Income": 65130,
+        "Per Capita Income": 26833,
+        "Poverty Rate": 12.85543867
+    },
+    {
+        "Zipcode": 730,
+        "Address": "Ponce, 00730, Puerto Rico",
+        "Population": 37931,
+        "Median Age": 37,
+        "Household Income": 16259,
+        "Per Capita Income": 9768,
+        "Poverty Rate": 50.79486436
+    },
+    {
+        "Zipcode": 63038,
+        "Address": "Glencoe, MO 63038, USA",
+        "Population": 6631,
+        "Median Age": 45.5,
+        "Household Income": 106513,
+        "Per Capita Income": 54149,
+        "Poverty Rate": 2.684361333
+    },
+    {
+        "Zipcode": 32064,
+        "Address": "Live Oak, FL 32064, USA",
+        "Population": 6841,
+        "Median Age": 34.4,
+        "Household Income": 24090,
+        "Per Capita Income": 14169,
+        "Poverty Rate": 35.87194855
+    },
+    {
+        "Zipcode": 77880,
+        "Address": "Washington, TX 77880, USA",
+        "Population": 1637,
+        "Median Age": 48.8,
+        "Household Income": 38672,
+        "Per Capita Income": 25386,
+        "Poverty Rate": 17.95968235
+    },
+    {
+        "Zipcode": 69101,
+        "Address": "North Platte, NE 69101, USA",
+        "Population": 29745,
+        "Median Age": 38.4,
+        "Household Income": 45156,
+        "Per Capita Income": 25867,
+        "Poverty Rate": 11.58177845
+    },
+    {
+        "Zipcode": 17263,
+        "Address": "State Line, PA 17263, USA",
+        "Population": 597,
+        "Median Age": 47,
+        "Household Income": 63430,
+        "Per Capita Income": 37458,
+        "Poverty Rate": 15.41038526
+    },
+    {
+        "Zipcode": 58075,
+        "Address": "Wahpeton, ND 58075, USA",
+        "Population": 9028,
+        "Median Age": 35.9,
+        "Household Income": 51179,
+        "Per Capita Income": 27588,
+        "Poverty Rate": 12.72707133
+    },
+    {
+        "Zipcode": 76638,
+        "Address": "Crawford, TX 76638, USA",
+        "Population": 3083,
+        "Median Age": 41.2,
+        "Household Income": 77679,
+        "Per Capita Income": 36692,
+        "Poverty Rate": 7.362958158
+    },
+    {
+        "Zipcode": 32025,
+        "Address": "Lake City, FL 32025, USA",
+        "Population": 23341,
+        "Median Age": 35.2,
+        "Household Income": 39916,
+        "Per Capita Income": 17493,
+        "Poverty Rate": 16.04472816
+    },
+    {
+        "Zipcode": 28371,
+        "Address": "Parkton, NC 28371, USA",
+        "Population": 6628,
+        "Median Age": 33.6,
+        "Household Income": 43365,
+        "Per Capita Income": 18333,
+        "Poverty Rate": 21.16777308
+    },
+    {
+        "Zipcode": 48084,
+        "Address": "Troy, MI 48084, USA",
+        "Population": 14689,
+        "Median Age": 37,
+        "Household Income": 84331,
+        "Per Capita Income": 44055,
+        "Poverty Rate": 5.568792974
+    },
+    {
+        "Zipcode": 6801,
+        "Address": "Bethel, CT 06801, USA",
+        "Population": 18911,
+        "Median Age": 40.9,
+        "Household Income": 85884,
+        "Per Capita Income": 38941,
+        "Poverty Rate": 3.870763048
+    },
+    {
+        "Zipcode": 91405,
+        "Address": "Van Nuys, CA 91405, USA",
+        "Population": 54435,
+        "Median Age": 32,
+        "Household Income": 38847,
+        "Per Capita Income": 17645,
+        "Poverty Rate": 26.1100395
+    },
+    {
+        "Zipcode": 33559,
+        "Address": "Lutz, FL 33559, USA",
+        "Population": 16952,
+        "Median Age": 34.4,
+        "Household Income": 55643,
+        "Per Capita Income": 27345,
+        "Poverty Rate": 11.43817839
+    },
+    {
+        "Zipcode": 95051,
+        "Address": "Santa Clara, CA 95051, USA",
+        "Population": 53152,
+        "Median Age": 36.1,
+        "Household Income": 100504,
+        "Per Capita Income": 43487,
+        "Poverty Rate": 6.865216737
+    },
+    {
+        "Zipcode": 26205,
+        "Address": "Craigsville, WV 26205, USA",
+        "Population": 3079,
+        "Median Age": 41.8,
+        "Household Income": 32128,
+        "Per Capita Income": 16382,
+        "Poverty Rate": 35.85579734
+    },
+    {
+        "Zipcode": 51448,
+        "Address": "Kiron, IA 51448, USA",
+        "Population": 653,
+        "Median Age": 40.8,
+        "Household Income": 44219,
+        "Per Capita Income": 22819,
+        "Poverty Rate": 11.3323124
+    },
+    {
+        "Zipcode": 76377,
+        "Address": "Petrolia, TX 76377, USA",
+        "Population": 787,
+        "Median Age": 41.3,
+        "Household Income": 48750,
+        "Per Capita Income": 22710,
+        "Poverty Rate": 6.861499365
+    },
+    {
+        "Zipcode": 40060,
+        "Address": "Raywick, KY 40060, USA",
+        "Population": 1115,
+        "Median Age": 44.2,
+        "Household Income": 40813,
+        "Per Capita Income": 18390,
+        "Poverty Rate": 14.08071749
+    },
+    {
+        "Zipcode": 57004,
+        "Address": "Beresford, SD 57004, USA",
+        "Population": 3563,
+        "Median Age": 39.7,
+        "Household Income": 53958,
+        "Per Capita Income": 25930,
+        "Poverty Rate": 3.704743194
+    },
+    {
+        "Zipcode": 28208,
+        "Address": "Charlotte, NC 28208, USA",
+        "Population": 34474,
+        "Median Age": 32.9,
+        "Household Income": 28435,
+        "Per Capita Income": 14056,
+        "Poverty Rate": 31.94001276
+    },
+    {
+        "Zipcode": 26574,
+        "Address": "Grant Town, WV 26574, USA",
+        "Population": 553,
+        "Median Age": 40.9,
+        "Household Income": 44038,
+        "Per Capita Income": 21078,
+        "Poverty Rate": 21.15732369
+    },
+    {
+        "Zipcode": 4107,
+        "Address": "Cape Elizabeth, ME 04107, USA",
+        "Population": 8993,
+        "Median Age": 48.4,
+        "Household Income": 98629,
+        "Per Capita Income": 53526,
+        "Poverty Rate": 3.180251307
+    },
+    {
+        "Zipcode": 30601,
+        "Address": "Athens, GA 30601, USA",
+        "Population": 21349,
+        "Median Age": 26,
+        "Household Income": 20884,
+        "Per Capita Income": 13402,
+        "Poverty Rate": 47.20127406
+    },
+    {
+        "Zipcode": 42366,
+        "Address": "Philpot, KY 42366, USA",
+        "Population": 5847,
+        "Median Age": 43.2,
+        "Household Income": 63170,
+        "Per Capita Income": 26182,
+        "Poverty Rate": 4.976911237
+    },
+    {
+        "Zipcode": 71834,
+        "Address": "Doddridge, AR 71834, USA",
+        "Population": 1385,
+        "Median Age": 53.3,
+        "Household Income": 39821,
+        "Per Capita Income": 23159,
+        "Poverty Rate": 20.64981949
+    },
+    {
+        "Zipcode": 54733,
+        "Address": "Dallas, WI 54733, USA",
+        "Population": 1305,
+        "Median Age": 41.3,
+        "Household Income": 50809,
+        "Per Capita Income": 23292,
+        "Poverty Rate": 10.57471264
+    },
+    {
+        "Zipcode": 42456,
+        "Address": "Slaughters, KY 42456, USA",
+        "Population": 1438,
+        "Median Age": 39.6,
+        "Household Income": 47930,
+        "Per Capita Income": 21130,
+        "Poverty Rate": 14.5340751
+    },
+    {
+        "Zipcode": 65733,
+        "Address": "Protem, MO 65733, USA",
+        "Population": 653,
+        "Median Age": 51.3,
+        "Household Income": 33618,
+        "Per Capita Income": 16655,
+        "Poverty Rate": 15.46707504
+    },
+    {
+        "Zipcode": 23832,
+        "Address": "Chesterfield, VA 23832, USA",
+        "Population": 32263,
+        "Median Age": 37.2,
+        "Household Income": 75942,
+        "Per Capita Income": 31379,
+        "Poverty Rate": 4.745373958
+    },
+    {
+        "Zipcode": 44273,
+        "Address": "Seville, OH 44273, USA",
+        "Population": 6704,
+        "Median Age": 44.5,
+        "Household Income": 65368,
+        "Per Capita Income": 30043,
+        "Poverty Rate": 5.235680191
+    },
+    {
+        "Zipcode": 12464,
+        "Address": "Phoenicia, NY 12464, USA",
+        "Population": 935,
+        "Median Age": 58.1,
+        "Household Income": 49911,
+        "Per Capita Income": 37118,
+        "Poverty Rate": 3.636363636
+    },
+    {
+        "Zipcode": 55063,
+        "Address": "Pine City, MN 55063, USA",
+        "Population": 9171,
+        "Median Age": 43.2,
+        "Household Income": 47556,
+        "Per Capita Income": 22709,
+        "Poverty Rate": 13.60811253
+    },
+    {
+        "Zipcode": 17018,
+        "Address": "Dauphin, PA 17018, USA",
+        "Population": 4175,
+        "Median Age": 47.1,
+        "Household Income": 58438,
+        "Per Capita Income": 32552,
+        "Poverty Rate": 6.682634731
+    },
+    {
+        "Zipcode": 17214,
+        "Address": "Blue Ridge Summit, PA 17214, USA",
+        "Population": 1158,
+        "Median Age": 44.7,
+        "Household Income": 52112,
+        "Per Capita Income": 29722,
+        "Poverty Rate": 8.635578584
+    },
+    {
+        "Zipcode": 76706,
+        "Address": "Waco, TX 76706, USA",
+        "Population": 36055,
+        "Median Age": 22.6,
+        "Household Income": 26398,
+        "Per Capita Income": 14613,
+        "Poverty Rate": 38.15004854
+    },
+    {
+        "Zipcode": 14855,
+        "Address": "Jasper, NY 14855, USA",
+        "Population": 988,
+        "Median Age": 29.3,
+        "Household Income": 43750,
+        "Per Capita Income": 15913,
+        "Poverty Rate": 20.85020243
+    },
+    {
+        "Zipcode": 12789,
+        "Address": "Woodridge, NY 12789, USA",
+        "Population": 1887,
+        "Median Age": 37.5,
+        "Household Income": 51827,
+        "Per Capita Income": 23318,
+        "Poverty Rate": 10.81081081
+    },
+    {
+        "Zipcode": 66614,
+        "Address": "Topeka, KS 66614, USA",
+        "Population": 31709,
+        "Median Age": 38.8,
+        "Household Income": 53673,
+        "Per Capita Income": 30118,
+        "Poverty Rate": 11.87675423
+    },
+    {
+        "Zipcode": 27549,
+        "Address": "Louisburg, NC 27549, USA",
+        "Population": 24784,
+        "Median Age": 40.3,
+        "Household Income": 36969,
+        "Per Capita Income": 20001,
+        "Poverty Rate": 18.5321175
+    },
+    {
+        "Zipcode": 49112,
+        "Address": "Edwardsburg, MI 49112, USA",
+        "Population": 10253,
+        "Median Age": 39.5,
+        "Household Income": 49712,
+        "Per Capita Income": 21768,
+        "Poverty Rate": 12.05500829
+    },
+    {
+        "Zipcode": 57075,
+        "Address": "Wentworth, SD 57075, USA",
+        "Population": 791,
+        "Median Age": 52.9,
+        "Household Income": 49375,
+        "Per Capita Income": 39309,
+        "Poverty Rate": 14.41213654
+    },
+    {
+        "Zipcode": 15018,
+        "Address": "Buena Vista, PA 15018, USA",
+        "Population": 668,
+        "Median Age": 44.1,
+        "Household Income": 50588,
+        "Per Capita Income": 20773,
+        "Poverty Rate": 13.32335329
+    },
+    {
+        "Zipcode": 72833,
+        "Address": "Danville, AR 72833, USA",
+        "Population": 4297,
+        "Median Age": 36.7,
+        "Household Income": 41512,
+        "Per Capita Income": 17870,
+        "Poverty Rate": 21.73609495
+    },
+    {
+        "Zipcode": 72347,
+        "Address": "Hickory Ridge, AR 72347, USA",
+        "Population": 689,
+        "Median Age": 45.3,
+        "Household Income": 31471,
+        "Per Capita Income": 19479,
+        "Poverty Rate": 15.38461538
+    },
+    {
+        "Zipcode": 3104,
+        "Address": "Manchester, NH 03104, USA",
+        "Population": 33145,
+        "Median Age": 37.6,
+        "Household Income": 60468,
+        "Per Capita Income": 32130,
+        "Poverty Rate": 11.0423895
+    },
+    {
+        "Zipcode": 97721,
+        "Address": "Princeton, OR 97721, USA",
+        "Population": 610,
+        "Median Age": 30.7,
+        "Household Income": 27321,
+        "Per Capita Income": 11412,
+        "Poverty Rate": 50.98360656
+    },
+    {
+        "Zipcode": 98358,
+        "Address": "Nordland, WA 98358, USA",
+        "Population": 1237,
+        "Median Age": 51.6,
+        "Household Income": 51146,
+        "Per Capita Income": 28010,
+        "Poverty Rate": 6.224737268
+    },
+    {
+        "Zipcode": 28663,
+        "Address": "Piney Creek, NC 28663, USA",
+        "Population": 709,
+        "Median Age": 39.6,
+        "Household Income": 36000,
+        "Per Capita Income": 20294,
+        "Poverty Rate": 13.39915374
+    },
+    {
+        "Zipcode": 11220,
+        "Address": "Brooklyn, NY 11220, USA",
+        "Population": 103089,
+        "Median Age": 32.4,
+        "Household Income": 37580,
+        "Per Capita Income": 16263,
+        "Poverty Rate": 30.76855921
+    },
+    {
+        "Zipcode": 99753,
+        "Address": "Koyuk, AK 99753, USA",
+        "Population": 279,
+        "Median Age": 19.9,
+        "Household Income": 28333,
+        "Per Capita Income": 8987,
+        "Poverty Rate": 53.76344086
+    },
+    {
+        "Zipcode": 50315,
+        "Address": "Des Moines, IA 50315, USA",
+        "Population": 35873,
+        "Median Age": 34.4,
+        "Household Income": 41793,
+        "Per Capita Income": 20989,
+        "Poverty Rate": 16.15421069
+    },
+    {
+        "Zipcode": 1585,
+        "Address": "West Brookfield, MA 01585, USA",
+        "Population": 4646,
+        "Median Age": 45.7,
+        "Household Income": 62667,
+        "Per Capita Income": 31262,
+        "Poverty Rate": 10.03013345
+    },
+    {
+        "Zipcode": 16636,
+        "Address": "Dysart, PA 16636, USA",
+        "Population": 801,
+        "Median Age": 47.6,
+        "Household Income": 42303,
+        "Per Capita Income": 21236,
+        "Poverty Rate": 14.48189763
+    },
+    {
+        "Zipcode": 957,
+        "Address": "Bayamón, 00957, Puerto Rico",
+        "Population": 46252,
+        "Median Age": 37.1,
+        "Household Income": 23736,
+        "Per Capita Income": 11453,
+        "Poverty Rate": 37.99619476
+    },
+    {
+        "Zipcode": 12769,
+        "Address": "Phillipsport, NY 12769, USA",
+        "Population": 142,
+        "Median Age": 50.2,
+        "Household Income": 48750,
+        "Per Capita Income": 29437,
+        "Poverty Rate": 27.46478873
+    },
+    {
+        "Zipcode": 77328,
+        "Address": "Cleveland, TX 77328, USA",
+        "Population": 15666,
+        "Median Age": 34,
+        "Household Income": 48250,
+        "Per Capita Income": 19670,
+        "Poverty Rate": 18.51780927
+    },
+    {
+        "Zipcode": 30236,
+        "Address": "Jonesboro, GA 30236, USA",
+        "Population": 44082,
+        "Median Age": 33.9,
+        "Household Income": 40107,
+        "Per Capita Income": 21374,
+        "Poverty Rate": 22.28347171
+    },
+    {
+        "Zipcode": 1527,
+        "Address": "Millbury, MA 01527, USA",
+        "Population": 13264,
+        "Median Age": 43,
+        "Household Income": 71832,
+        "Per Capita Income": 32329,
+        "Poverty Rate": 5.247285887
+    },
+    {
+        "Zipcode": 54151,
+        "Address": "Niagara, WI 54151, USA",
+        "Population": 3376,
+        "Median Age": 45.7,
+        "Household Income": 45813,
+        "Per Capita Income": 23500,
+        "Poverty Rate": 13.24052133
+    },
+    {
+        "Zipcode": 37101,
+        "Address": "McEwen, TN 37101, USA",
+        "Population": 6388,
+        "Median Age": 41.1,
+        "Household Income": 50398,
+        "Per Capita Income": 21198,
+        "Poverty Rate": 12.7269881
+    },
+    {
+        "Zipcode": 71031,
+        "Address": "Goldonna, LA 71031, USA",
+        "Population": 1012,
+        "Median Age": 49.8,
+        "Household Income": 44250,
+        "Per Capita Income": 20250,
+        "Poverty Rate": 14.92094862
+    },
+    {
+        "Zipcode": 27358,
+        "Address": "Summerfield, NC 27358, USA",
+        "Population": 14998,
+        "Median Age": 43,
+        "Household Income": 88382,
+        "Per Capita Income": 40210,
+        "Poverty Rate": 4.320576077
+    },
+    {
+        "Zipcode": 1469,
+        "Address": "Townsend, MA 01469, USA",
+        "Population": 7044,
+        "Median Age": 40.4,
+        "Household Income": 78985,
+        "Per Capita Income": 34037,
+        "Poverty Rate": 4.997160704
+    },
+    {
+        "Zipcode": 67835,
+        "Address": "Cimarron, KS 67835, USA",
+        "Population": 3105,
+        "Median Age": 33.4,
+        "Household Income": 52188,
+        "Per Capita Income": 22510,
+        "Poverty Rate": 13.68760064
+    },
+    {
+        "Zipcode": 43030,
+        "Address": "Jacksontown, OH 43030, USA",
+        "Population": 180,
+        "Median Age": 54,
+        "Household Income": null,
+        "Per Capita Income": 27844,
+        "Poverty Rate": 0
+    },
+    {
+        "Zipcode": 29001,
+        "Address": "Alcolu, SC 29001, USA",
+        "Population": 1954,
+        "Median Age": 36.9,
+        "Household Income": 33205,
+        "Per Capita Income": 17998,
+        "Poverty Rate": 18.93551689
+    },
+    {
+        "Zipcode": 32187,
+        "Address": "San Mateo, FL 32187, USA",
+        "Population": 1996,
+        "Median Age": 46.5,
+        "Household Income": 30300,
+        "Per Capita Income": 18933,
+        "Poverty Rate": 15.88176353
+    },
+    {
+        "Zipcode": 85353,
+        "Address": "Tolleson, AZ 85353, USA",
+        "Population": 32308,
+        "Median Age": 26.7,
+        "Household Income": 50066,
+        "Per Capita Income": 16046,
+        "Poverty Rate": 14.97461929
+    },
+    {
+        "Zipcode": 56343,
+        "Address": "Kensington, MN 56343, USA",
+        "Population": 930,
+        "Median Age": 42.4,
+        "Household Income": 48417,
+        "Per Capita Income": 24153,
+        "Poverty Rate": 8.924731183
+    },
+    {
+        "Zipcode": 67661,
+        "Address": "Phillipsburg, KS 67661, USA",
+        "Population": 3352,
+        "Median Age": 45.4,
+        "Household Income": 40882,
+        "Per Capita Income": 23569,
+        "Poverty Rate": 8.293556086
+    },
+    {
+        "Zipcode": 98394,
+        "Address": "Vaughn, WA 98394, USA",
+        "Population": 1567,
+        "Median Age": 39.1,
+        "Household Income": 57941,
+        "Per Capita Income": 24595,
+        "Poverty Rate": 4.977664327
+    },
+    {
+        "Zipcode": 88337,
+        "Address": "La Luz, NM 88337, USA",
+        "Population": 2487,
+        "Median Age": 48.1,
+        "Household Income": 46996,
+        "Per Capita Income": 23700,
+        "Poverty Rate": 6.393244873
+    },
+    {
+        "Zipcode": 97321,
+        "Address": "Albany, OR 97321, USA",
+        "Population": 24852,
+        "Median Age": 41.1,
+        "Household Income": 60271,
+        "Per Capita Income": 27961,
+        "Poverty Rate": 11.6570095
+    },
+    {
+        "Zipcode": 54458,
+        "Address": "Nelsonville, WI 54458, USA",
+        "Population": 150,
+        "Median Age": 36.5,
+        "Household Income": 56389,
+        "Per Capita Income": 20718,
+        "Poverty Rate": 17.33333333
+    },
+    {
+        "Zipcode": 98101,
+        "Address": "Seattle, WA 98101, USA",
+        "Population": 10643,
+        "Median Age": 43,
+        "Household Income": 42938,
+        "Per Capita Income": 61716,
+        "Poverty Rate": 18.87625669
+    },
+    {
+        "Zipcode": 14411,
+        "Address": "Albion, NY 14411, USA",
+        "Population": 14257,
+        "Median Age": 39.9,
+        "Household Income": 42967,
+        "Per Capita Income": 18461,
+        "Poverty Rate": 13.60735078
+    },
+    {
+        "Zipcode": 67839,
+        "Address": "Dighton, KS 67839, USA",
+        "Population": 1251,
+        "Median Age": 46.8,
+        "Household Income": 49773,
+        "Per Capita Income": 30282,
+        "Poverty Rate": 9.67226219
+    },
+    {
+        "Zipcode": 78351,
+        "Address": "Driscoll, TX 78351, USA",
+        "Population": 564,
+        "Median Age": 37,
+        "Household Income": 36985,
+        "Per Capita Income": 16011,
+        "Poverty Rate": 20.74468085
+    },
+    {
+        "Zipcode": 67047,
+        "Address": "Fall River, KS 67047, USA",
+        "Population": 754,
+        "Median Age": 52.1,
+        "Household Income": 39500,
+        "Per Capita Income": 20428,
+        "Poverty Rate": 17.37400531
+    },
+    {
+        "Zipcode": 68005,
+        "Address": "Bellevue, NE 68005, USA",
+        "Population": 24163,
+        "Median Age": 34.2,
+        "Household Income": 53794,
+        "Per Capita Income": 25101,
+        "Poverty Rate": 13.99246782
+    },
+    {
+        "Zipcode": 17327,
+        "Address": "Glen Rock, PA 17327, USA",
+        "Population": 8190,
+        "Median Age": 46.7,
+        "Household Income": 67791,
+        "Per Capita Income": 32177,
+        "Poverty Rate": 3.504273504
+    },
+    {
+        "Zipcode": 98106,
+        "Address": "Seattle, WA 98106, USA",
+        "Population": 23855,
+        "Median Age": 35.3,
+        "Household Income": 57875,
+        "Per Capita Income": 27922,
+        "Poverty Rate": 16.38230979
+    },
+    {
+        "Zipcode": 98409,
+        "Address": "Tacoma, WA 98409, USA",
+        "Population": 23423,
+        "Median Age": 31.4,
+        "Household Income": 46886,
+        "Per Capita Income": 21513,
+        "Poverty Rate": 19.83520471
+    },
+    {
+        "Zipcode": 48416,
+        "Address": "Brown City, MI 48416, USA",
+        "Population": 4986,
+        "Median Age": 38.6,
+        "Household Income": 43397,
+        "Per Capita Income": 20143,
+        "Poverty Rate": 14.64099479
+    },
+    {
+        "Zipcode": 97633,
+        "Address": "Merrill, OR 97633, USA",
+        "Population": 1416,
+        "Median Age": 36.3,
+        "Household Income": 40742,
+        "Per Capita Income": 18448,
+        "Poverty Rate": 17.51412429
+    },
+    {
+        "Zipcode": 31007,
+        "Address": "Byromville, GA 31007, USA",
+        "Population": 1105,
+        "Median Age": 41.8,
+        "Household Income": 29417,
+        "Per Capita Income": 14202,
+        "Poverty Rate": 18.64253394
+    },
+    {
+        "Zipcode": 99737,
+        "Address": "Delta Junction, AK 99737, USA",
+        "Population": 4964,
+        "Median Age": 33.5,
+        "Household Income": 71250,
+        "Per Capita Income": 32842,
+        "Poverty Rate": 11.42224013
+    },
+    {
+        "Zipcode": 38224,
+        "Address": "Cottage Grove, TN 38224, USA",
+        "Population": 1044,
+        "Median Age": 39.2,
+        "Household Income": 36932,
+        "Per Capita Income": 19238,
+        "Poverty Rate": 20.11494253
+    },
+    {
+        "Zipcode": 79778,
+        "Address": "Rankin, TX 79778, USA",
+        "Population": 900,
+        "Median Age": 44.6,
+        "Household Income": 61806,
+        "Per Capita Income": 28706,
+        "Poverty Rate": 10.44444444
+    },
+    {
+        "Zipcode": 62063,
+        "Address": "Medora, IL 62063, USA",
+        "Population": 1056,
+        "Median Age": 41.3,
+        "Household Income": 54074,
+        "Per Capita Income": 25781,
+        "Poverty Rate": 8.617424242
+    },
+    {
+        "Zipcode": 17097,
+        "Address": "Wiconisco, PA 17097, USA",
+        "Population": 746,
+        "Median Age": 44.6,
+        "Household Income": 49904,
+        "Per Capita Income": 25655,
+        "Poverty Rate": 6.702412869
+    },
+    {
+        "Zipcode": 76950,
+        "Address": "Sonora, TX 76950, USA",
+        "Population": 4069,
+        "Median Age": 35.5,
+        "Household Income": 53500,
+        "Per Capita Income": 27732,
+        "Poverty Rate": 7.176210371
+    },
+    {
+        "Zipcode": 65243,
+        "Address": "Clark, MO 65243, USA",
+        "Population": 3176,
+        "Median Age": 29.3,
+        "Household Income": 55885,
+        "Per Capita Income": 16802,
+        "Poverty Rate": 25.15743073
+    },
+    {
+        "Zipcode": 97366,
+        "Address": "Newport, OR 97366, USA",
+        "Population": 1301,
+        "Median Age": 58.8,
+        "Household Income": 53135,
+        "Per Capita Income": 36010,
+        "Poverty Rate": 4.996156802
+    },
+    {
+        "Zipcode": 16930,
+        "Address": "Liberty, PA 16930, USA",
+        "Population": 1348,
+        "Median Age": 41,
+        "Household Income": 44934,
+        "Per Capita Income": 20611,
+        "Poverty Rate": 15.05934718
+    },
+    {
+        "Zipcode": 4637,
+        "Address": "Grand Lake Stream, ME 04637, USA",
+        "Population": 123,
+        "Median Age": 65.4,
+        "Household Income": 31125,
+        "Per Capita Income": 33564,
+        "Poverty Rate": 2.43902439
+    },
+    {
+        "Zipcode": 49080,
+        "Address": "Plainwell, MI 49080, USA",
+        "Population": 15624,
+        "Median Age": 40.9,
+        "Household Income": 53743,
+        "Per Capita Income": 25048,
+        "Poverty Rate": 11.97516641
+    },
+    {
+        "Zipcode": 83122,
+        "Address": "Grover, WY 83122, USA",
+        "Population": 469,
+        "Median Age": 36.1,
+        "Household Income": 83333,
+        "Per Capita Income": 28556,
+        "Poverty Rate": 0
+    },
+    {
+        "Zipcode": 29834,
+        "Address": "Langley, SC 29834, USA",
+        "Population": 1344,
+        "Median Age": 38.9,
+        "Household Income": 32375,
+        "Per Capita Income": 16178,
+        "Poverty Rate": 20.83333333
+    },
+    {
+        "Zipcode": 61067,
+        "Address": "Ridott, IL 61067, USA",
+        "Population": 645,
+        "Median Age": 49.6,
+        "Household Income": 40726,
+        "Per Capita Income": 37925,
+        "Poverty Rate": 8.062015504
+    },
+    {
+        "Zipcode": 27541,
+        "Address": "Hurdle Mills, NC 27541, USA",
+        "Population": 4295,
+        "Median Age": 45.1,
+        "Household Income": 56346,
+        "Per Capita Income": 27996,
+        "Poverty Rate": 5.797438882
+    },
+    {
+        "Zipcode": 57369,
+        "Address": "Platte, SD 57369, USA",
+        "Population": 2344,
+        "Median Age": 47.7,
+        "Household Income": 46196,
+        "Per Capita Income": 23758,
+        "Poverty Rate": 8.361774744
+    },
+    {
+        "Zipcode": 59820,
+        "Address": "Alberton, MT 59820, USA",
+        "Population": 1241,
+        "Median Age": 47.2,
+        "Household Income": 45956,
+        "Per Capita Income": 26394,
+        "Poverty Rate": 12.16760677
+    },
+    {
+        "Zipcode": 60433,
+        "Address": "Joliet, IL 60433, USA",
+        "Population": 17220,
+        "Median Age": 35.4,
+        "Household Income": 43644,
+        "Per Capita Income": 18967,
+        "Poverty Rate": 18.63530778
+    },
+    {
+        "Zipcode": 43157,
+        "Address": "Thurston, OH 43157, USA",
+        "Population": 606,
+        "Median Age": 32.6,
+        "Household Income": 27614,
+        "Per Capita Income": 13239,
+        "Poverty Rate": 32.34323432
+    },
+    {
+        "Zipcode": 36619,
+        "Address": "Mobile, AL 36619, USA",
+        "Population": 15405,
+        "Median Age": 37.9,
+        "Household Income": 55962,
+        "Per Capita Income": 24392,
+        "Poverty Rate": 11.1716975
+    },
+    {
+        "Zipcode": 97389,
+        "Address": "Tangent, OR 97389, USA",
+        "Population": 1576,
+        "Median Age": 36.5,
+        "Household Income": 46250,
+        "Per Capita Income": 21717,
+        "Poverty Rate": 16.18020305
+    },
+    {
+        "Zipcode": 62673,
+        "Address": "Oakford, IL 62673, USA",
+        "Population": 697,
+        "Median Age": 35.9,
+        "Household Income": 60179,
+        "Per Capita Income": 19800,
+        "Poverty Rate": 17.36011478
+    },
+    {
+        "Zipcode": 69334,
+        "Address": "Bayard, NE 69334, USA",
+        "Population": 2305,
+        "Median Age": 46.5,
+        "Household Income": 43575,
+        "Per Capita Income": 21241,
+        "Poverty Rate": 12.10412148
+    },
+    {
+        "Zipcode": 52141,
+        "Address": "Elgin, IA 52141, USA",
+        "Population": 1390,
+        "Median Age": 42.5,
+        "Household Income": 39679,
+        "Per Capita Income": 21960,
+        "Poverty Rate": 18.34532374
+    },
+    {
+        "Zipcode": 18519,
+        "Address": "Scranton, PA 18519, USA",
+        "Population": 4838,
+        "Median Age": 41.6,
+        "Household Income": 38990,
+        "Per Capita Income": 24672,
+        "Poverty Rate": 11.6783795
+    },
+    {
+        "Zipcode": 74956,
+        "Address": "Shady Point, OK 74956, USA",
+        "Population": 2269,
+        "Median Age": 36.4,
+        "Household Income": 40652,
+        "Per Capita Income": 18796,
+        "Poverty Rate": 19.52401939
+    },
+    {
+        "Zipcode": 41564,
+        "Address": "Sidney, KY 41564, USA",
+        "Population": 1312,
+        "Median Age": 34.3,
+        "Household Income": 41806,
+        "Per Capita Income": 16302,
+        "Poverty Rate": 19.89329268
+    },
+    {
+        "Zipcode": 59522,
+        "Address": "Chester, MT 59522, USA",
+        "Population": 1784,
+        "Median Age": 49.2,
+        "Household Income": 43036,
+        "Per Capita Income": 25407,
+        "Poverty Rate": 26.00896861
+    },
+    {
+        "Zipcode": 56289,
+        "Address": "Sunburg, MN 56289, USA",
+        "Population": 671,
+        "Median Age": 47.7,
+        "Household Income": 57159,
+        "Per Capita Income": 26149,
+        "Poverty Rate": 3.874813711
+    },
+    {
+        "Zipcode": 28697,
+        "Address": "Wilkesboro, NC 28697, USA",
+        "Population": 12899,
+        "Median Age": 42.9,
+        "Household Income": 39945,
+        "Per Capita Income": 25458,
+        "Poverty Rate": 22.92425769
+    },
+    {
+        "Zipcode": 48386,
+        "Address": "White Lake, MI 48386, USA",
+        "Population": 18081,
+        "Median Age": 42.9,
+        "Household Income": 74321,
+        "Per Capita Income": 33301,
+        "Poverty Rate": 6.448758365
+    },
+    {
+        "Zipcode": 78004,
+        "Address": "Bergheim, TX 78004, USA",
+        "Population": 1397,
+        "Median Age": 44.7,
+        "Household Income": 124592,
+        "Per Capita Income": 41737,
+        "Poverty Rate": 0
+    },
+    {
+        "Zipcode": 78941,
+        "Address": "Flatonia, TX 78941, USA",
+        "Population": 2754,
+        "Median Age": 45.7,
+        "Household Income": 40304,
+        "Per Capita Income": 23115,
+        "Poverty Rate": 11.29266521
+    },
+    {
+        "Zipcode": 58369,
+        "Address": "St John, ND 58369, USA",
+        "Population": 1306,
+        "Median Age": 38.9,
+        "Household Income": 29375,
+        "Per Capita Income": 17469,
+        "Poverty Rate": 30.93415008
+    },
+    {
+        "Zipcode": 94040,
+        "Address": "Mountain View, CA 94040, USA",
+        "Population": 33852,
+        "Median Age": 35.7,
+        "Household Income": 99375,
+        "Per Capita Income": 54558,
+        "Poverty Rate": 8.599196502
+    },
+    {
+        "Zipcode": 6883,
+        "Address": "Weston, CT 06883, USA",
+        "Population": 10261,
+        "Median Age": 42.5,
+        "Household Income": 207262,
+        "Per Capita Income": 90552,
+        "Poverty Rate": 1.773706266
+    },
+    {
+        "Zipcode": 33129,
+        "Address": "Miami, FL 33129, USA",
+        "Population": 14198,
+        "Median Age": 38.9,
+        "Household Income": 54127,
+        "Per Capita Income": 41352,
+        "Poverty Rate": 13.81180448
+    },
+    {
+        "Zipcode": 6824,
+        "Address": "Fairfield, CT 06824, USA",
+        "Population": 34864,
+        "Median Age": 38.5,
+        "Household Income": 128558,
+        "Per Capita Income": 60182,
+        "Poverty Rate": 4.692519504
+    },
+    {
+        "Zipcode": 18042,
+        "Address": "Easton, PA 18042, USA",
+        "Population": 41921,
+        "Median Age": 35.2,
+        "Household Income": 45441,
+        "Per Capita Income": 23227,
+        "Poverty Rate": 15.42663581
+    },
+    {
+        "Zipcode": 11722,
+        "Address": "Central Islip, NY 11722, USA",
+        "Population": 38241,
+        "Median Age": 33.1,
+        "Household Income": 67023,
+        "Per Capita Income": 21935,
+        "Poverty Rate": 10.82869172
+    },
+    {
+        "Zipcode": 16153,
+        "Address": "Stoneboro, PA 16153, USA",
+        "Population": 2686,
+        "Median Age": 44.6,
+        "Household Income": 50714,
+        "Per Capita Income": 22506,
+        "Poverty Rate": 15.93447506
+    },
+    {
+        "Zipcode": 51433,
+        "Address": "Auburn, IA 51433, USA",
+        "Population": 582,
+        "Median Age": 48.3,
+        "Household Income": 47500,
+        "Per Capita Income": 22422,
+        "Poverty Rate": 6.013745704
+    },
+    {
+        "Zipcode": 78611,
+        "Address": "Burnet, TX 78611, USA",
+        "Population": 13226,
+        "Median Age": 44.6,
+        "Household Income": 48409,
+        "Per Capita Income": 23381,
+        "Poverty Rate": 15.18977771
+    },
+    {
+        "Zipcode": 96084,
+        "Address": "Round Mountain, CA 96084, USA",
+        "Population": 593,
+        "Median Age": 55,
+        "Household Income": 31897,
+        "Per Capita Income": 23506,
+        "Poverty Rate": 16.69477234
+    },
+    {
+        "Zipcode": 77434,
+        "Address": "Eagle Lake, TX 77434, USA",
+        "Population": 4701,
+        "Median Age": 34.2,
+        "Household Income": 35105,
+        "Per Capita Income": 16735,
+        "Poverty Rate": 23.73962987
+    },
+    {
+        "Zipcode": 62613,
+        "Address": "Athens, IL 62613, USA",
+        "Population": 3774,
+        "Median Age": 37.8,
+        "Household Income": 60284,
+        "Per Capita Income": 28806,
+        "Poverty Rate": 5.908850026
+    },
+    {
+        "Zipcode": 76943,
+        "Address": "Ozona, TX 76943, USA",
+        "Population": 3719,
+        "Median Age": 40,
+        "Household Income": 49643,
+        "Per Capita Income": 22163,
+        "Poverty Rate": 15.46114547
+    },
+    {
+        "Zipcode": 5053,
+        "Address": "North Pomfret, VT 05053, USA",
+        "Population": 331,
+        "Median Age": 56.1,
+        "Household Income": 70227,
+        "Per Capita Income": 39193,
+        "Poverty Rate": 10.57401813
+    },
+    {
+        "Zipcode": 62373,
+        "Address": "Sutter, IL 62373, USA",
+        "Population": 314,
+        "Median Age": 42.2,
+        "Household Income": 58382,
+        "Per Capita Income": 22406,
+        "Poverty Rate": 4.458598726
+    },
+    {
+        "Zipcode": 78565,
+        "Address": "Los Ebanos, TX 78565, USA",
+        "Population": 216,
+        "Median Age": 41.3,
+        "Household Income": 8611,
+        "Per Capita Income": 5960,
+        "Poverty Rate": 90.27777778
+    },
+    {
+        "Zipcode": 17980,
+        "Address": "Tower City, PA 17980, USA",
+        "Population": 2963,
+        "Median Age": 45.3,
+        "Household Income": 50240,
+        "Per Capita Income": 24934,
+        "Poverty Rate": 10.76611542
+    },
+    {
+        "Zipcode": 77031,
+        "Address": "Houston, TX 77031, USA",
+        "Population": 18079,
+        "Median Age": 30.5,
+        "Household Income": 39278,
+        "Per Capita Income": 17932,
+        "Poverty Rate": 25.07328945
+    },
+    {
+        "Zipcode": 14131,
+        "Address": "Ransomville, NY 14131, USA",
+        "Population": 4756,
+        "Median Age": 47.9,
+        "Household Income": 57500,
+        "Per Capita Income": 27970,
+        "Poverty Rate": 9.440706476
+    },
+    {
+        "Zipcode": 11105,
+        "Address": "New York, NY 11105, USA",
+        "Population": 36190,
+        "Median Age": 35.3,
+        "Household Income": 57525,
+        "Per Capita Income": 33537,
+        "Poverty Rate": 13.53688864
+    },
+    {
+        "Zipcode": 54822,
+        "Address": "Cameron, WI 54822, USA",
+        "Population": 4585,
+        "Median Age": 39.9,
+        "Household Income": 48598,
+        "Per Capita Income": 22565,
+        "Poverty Rate": 11.23227917
+    },
+    {
+        "Zipcode": 87029,
+        "Address": "Lindrith, NM 87029, USA",
+        "Population": 218,
+        "Median Age": 54.4,
+        "Household Income": 29265,
+        "Per Capita Income": 28152,
+        "Poverty Rate": 18.34862385
+    },
+    {
+        "Zipcode": 36558,
+        "Address": "Millry, AL 36558, USA",
+        "Population": 3946,
+        "Median Age": 42.1,
+        "Household Income": 42500,
+        "Per Capita Income": 21410,
+        "Poverty Rate": 13.71008616
+    },
+    {
+        "Zipcode": 35117,
+        "Address": "Mt Olive, AL 35117, USA",
+        "Population": 5550,
+        "Median Age": 37.5,
+        "Household Income": 72500,
+        "Per Capita Income": 29385,
+        "Poverty Rate": 13.53153153
+    },
+    {
+        "Zipcode": 30177,
+        "Address": "Tate, GA 30177, USA",
+        "Population": 1369,
+        "Median Age": 35.9,
+        "Household Income": 33866,
+        "Per Capita Income": 15101,
+        "Poverty Rate": 10.44558072
+    },
+    {
+        "Zipcode": 25865,
+        "Address": "Lester, WV 25865, USA",
+        "Population": 1368,
+        "Median Age": 38.8,
+        "Household Income": 65163,
+        "Per Capita Income": 25341,
+        "Poverty Rate": 10.30701754
+    },
+    {
+        "Zipcode": 53576,
+        "Address": "Orfordville, WI 53576, USA",
+        "Population": 2452,
+        "Median Age": 37.9,
+        "Household Income": 55893,
+        "Per Capita Income": 22504,
+        "Poverty Rate": 12.19412724
+    },
+    {
+        "Zipcode": 77373,
+        "Address": "Spring, TX 77373, USA",
+        "Population": 55927,
+        "Median Age": 32.4,
+        "Household Income": 67742,
+        "Per Capita Income": 25921,
+        "Poverty Rate": 9.578557763
+    },
+    {
+        "Zipcode": 55346,
+        "Address": "Eden Prairie, MN 55346, USA",
+        "Population": 16405,
+        "Median Age": 40.8,
+        "Household Income": 100775,
+        "Per Capita Income": 46370,
+        "Poverty Rate": 3.212435233
+    },
+    {
+        "Zipcode": 85743,
+        "Address": "Tucson, AZ 85743, USA",
+        "Population": 28858,
+        "Median Age": 41.2,
+        "Household Income": 69577,
+        "Per Capita Income": 32411,
+        "Poverty Rate": 7.422551805
+    },
+    {
+        "Zipcode": 83849,
+        "Address": "Osburn, ID 83849, USA",
+        "Population": 1780,
+        "Median Age": 49,
+        "Household Income": 37946,
+        "Per Capita Income": 22393,
+        "Poverty Rate": 5.561797753
+    },
+    {
+        "Zipcode": 27317,
+        "Address": "Randleman, NC 27317, USA",
+        "Population": 16383,
+        "Median Age": 40.5,
+        "Household Income": 42295,
+        "Per Capita Income": 22432,
+        "Poverty Rate": 16.66971861
+    },
+    {
+        "Zipcode": 49058,
+        "Address": "Hastings, MI 49058, USA",
+        "Population": 19031,
+        "Median Age": 40.8,
+        "Household Income": 46777,
+        "Per Capita Income": 22137,
+        "Poverty Rate": 13.18375282
+    },
+    {
+        "Zipcode": 29468,
+        "Address": "Pineville, SC 29468, USA",
+        "Population": 1768,
+        "Median Age": 43.8,
+        "Household Income": 19663,
+        "Per Capita Income": 28526,
+        "Poverty Rate": 37.27375566
+    },
+    {
+        "Zipcode": 72434,
+        "Address": "Imboden, AR 72434, USA",
+        "Population": 1857,
+        "Median Age": 37.2,
+        "Household Income": 30625,
+        "Per Capita Income": 16411,
+        "Poverty Rate": 21.70166936
+    },
+    {
+        "Zipcode": 27043,
+        "Address": "Pinnacle, NC 27043, USA",
+        "Population": 6225,
+        "Median Age": 46,
+        "Household Income": 48410,
+        "Per Capita Income": 24449,
+        "Poverty Rate": 15.96787149
+    },
+    {
+        "Zipcode": 16699,
+        "Address": "Cresson, PA 16699, USA",
+        "Population": 820,
+        "Median Age": 34.7,
+        "Household Income": null,
+        "Per Capita Income": 4506,
+        "Poverty Rate": 0
+    },
+    {
+        "Zipcode": 25253,
+        "Address": "Letart, WV 25253, USA",
+        "Population": 2118,
+        "Median Age": 38.9,
+        "Household Income": 40245,
+        "Per Capita Income": 18032,
+        "Poverty Rate": 22.56846081
+    },
+    {
+        "Zipcode": 30268,
+        "Address": "Palmetto, GA 30268, USA",
+        "Population": 9736,
+        "Median Age": 32.7,
+        "Household Income": 47421,
+        "Per Capita Income": 22939,
+        "Poverty Rate": 12.48972884
+    },
+    {
+        "Zipcode": 54979,
+        "Address": "Van Dyne, WI 54979, USA",
+        "Population": 1400,
+        "Median Age": 42.9,
+        "Household Income": 65313,
+        "Per Capita Income": 26566,
+        "Poverty Rate": 1.714285714
+    },
+    {
+        "Zipcode": 30309,
+        "Address": "Atlanta, GA 30309, USA",
+        "Population": 21074,
+        "Median Age": 35,
+        "Household Income": 71854,
+        "Per Capita Income": 66311,
+        "Poverty Rate": 10.29230331
+    },
+    {
+        "Zipcode": 47393,
+        "Address": "Williamsburg, IN 47393, USA",
+        "Population": 1823,
+        "Median Age": 40.4,
+        "Household Income": 53698,
+        "Per Capita Income": 18472,
+        "Poverty Rate": 20.62534284
+    },
+    {
+        "Zipcode": 85611,
+        "Address": "Elgin, AZ 85611, USA",
+        "Population": 963,
+        "Median Age": 53.1,
+        "Household Income": 50441,
+        "Per Capita Income": 23419,
+        "Poverty Rate": 9.345794393
+    },
+    {
+        "Zipcode": 14806,
+        "Address": "Andover, NY 14806, USA",
+        "Population": 2161,
+        "Median Age": 41.6,
+        "Household Income": 49792,
+        "Per Capita Income": 22379,
+        "Poverty Rate": 17.26052753
+    },
+    {
+        "Zipcode": 75457,
+        "Address": "Mt Vernon, TX 75457, USA",
+        "Population": 6116,
+        "Median Age": 40.7,
+        "Household Income": 39909,
+        "Per Capita Income": 26517,
+        "Poverty Rate": 15.89274035
+    },
+    {
+        "Zipcode": 80482,
+        "Address": "Winter Park, CO 80482, USA",
+        "Population": 1151,
+        "Median Age": 46.5,
+        "Household Income": 61000,
+        "Per Capita Income": 39984,
+        "Poverty Rate": 1.563857515
+    },
+    {
+        "Zipcode": 62340,
+        "Address": "Griggsville, IL 62340, USA",
+        "Population": 1569,
+        "Median Age": 43.8,
+        "Household Income": 38036,
+        "Per Capita Income": 20380,
+        "Poverty Rate": 20.84130019
+    },
+    {
+        "Zipcode": 24843,
+        "Address": "Hensley, WV 24843, USA",
+        "Population": 140,
+        "Median Age": 60.4,
+        "Household Income": 20673,
+        "Per Capita Income": 14761,
+        "Poverty Rate": 37.14285714
+    },
+    {
+        "Zipcode": 48659,
+        "Address": "Sterling, MI 48659, USA",
+        "Population": 2781,
+        "Median Age": 43.1,
+        "Household Income": 44315,
+        "Per Capita Income": 19879,
+        "Poverty Rate": 12.54944265
+    },
+    {
+        "Zipcode": 83634,
+        "Address": "Kuna, ID 83634, USA",
+        "Population": 25875,
+        "Median Age": 31,
+        "Household Income": 59221,
+        "Per Capita Income": 16711,
+        "Poverty Rate": 16.45217391
+    },
+    {
+        "Zipcode": 12450,
+        "Address": "Lanesville, NY 12450, USA",
+        "Population": 204,
+        "Median Age": 58.7,
+        "Household Income": 22200,
+        "Per Capita Income": 20052,
+        "Poverty Rate": 15.68627451
+    },
+    {
+        "Zipcode": 42717,
+        "Address": "Burkesville, KY 42717, USA",
+        "Population": 6711,
+        "Median Age": 43.4,
+        "Household Income": 30985,
+        "Per Capita Income": 16875,
+        "Poverty Rate": 23.31992252
+    },
+    {
+        "Zipcode": 97875,
+        "Address": "Stanfield, OR 97875, USA",
+        "Population": 2707,
+        "Median Age": 36,
+        "Household Income": 55478,
+        "Per Capita Income": 22277,
+        "Poverty Rate": 11.89508681
+    },
+    {
+        "Zipcode": 8002,
+        "Address": "Cherry Hill, NJ 08002, USA",
+        "Population": 22025,
+        "Median Age": 39.7,
+        "Household Income": 68465,
+        "Per Capita Income": 34026,
+        "Poverty Rate": 8.308740068
+    },
+    {
+        "Zipcode": 25111,
+        "Address": "Indore, WV 25111, USA",
+        "Population": 723,
+        "Median Age": 43.4,
+        "Household Income": 36417,
+        "Per Capita Income": 15064,
+        "Poverty Rate": 32.08852006
+    },
+    {
+        "Zipcode": 27853,
+        "Address": "Margarettsville, NC 27853, USA",
+        "Population": 659,
+        "Median Age": 42.8,
+        "Household Income": 25966,
+        "Per Capita Income": 11178,
+        "Poverty Rate": 40.06069803
+    },
+    {
+        "Zipcode": 27298,
+        "Address": "Liberty, NC 27298, USA",
+        "Population": 8969,
+        "Median Age": 45.4,
+        "Household Income": 43097,
+        "Per Capita Income": 23966,
+        "Poverty Rate": 11.91883153
+    },
+    {
+        "Zipcode": 4268,
+        "Address": "Norway, ME 04268, USA",
+        "Population": 4999,
+        "Median Age": 49.2,
+        "Household Income": 38629,
+        "Per Capita Income": 21431,
+        "Poverty Rate": 16.58331666
+    },
+    {
+        "Zipcode": 33542,
+        "Address": "Zephyrhills, FL 33542, USA",
+        "Population": 21178,
+        "Median Age": 54.2,
+        "Household Income": 32174,
+        "Per Capita Income": 20291,
+        "Poverty Rate": 19.20861271
+    },
+    {
+        "Zipcode": 31547,
+        "Address": "Kings Bay Base, GA 31547, USA",
+        "Population": 952,
+        "Median Age": 22,
+        "Household Income": 45238,
+        "Per Capita Income": 24428,
+        "Poverty Rate": 12.18487395
+    },
+    {
+        "Zipcode": 14807,
+        "Address": "Arkport, NY 14807, USA",
+        "Population": 3088,
+        "Median Age": 48,
+        "Household Income": 45821,
+        "Per Capita Income": 23042,
+        "Poverty Rate": 6.994818653
+    },
+    {
+        "Zipcode": 62633,
+        "Address": "Easton, IL 62633, USA",
+        "Population": 690,
+        "Median Age": 50.3,
+        "Household Income": 56250,
+        "Per Capita Income": 27852,
+        "Poverty Rate": 7.536231884
+    },
+    {
+        "Zipcode": 48851,
+        "Address": "Lyons, MI 48851, USA",
+        "Population": 2493,
+        "Median Age": 36.5,
+        "Household Income": 53704,
+        "Per Capita Income": 22288,
+        "Poverty Rate": 8.182912154
+    },
+    {
+        "Zipcode": 92111,
+        "Address": "San Diego, CA 92111, USA",
+        "Population": 47271,
+        "Median Age": 35.9,
+        "Household Income": 57350,
+        "Per Capita Income": 27391,
+        "Poverty Rate": 18.79799454
+    },
+    {
+        "Zipcode": 37743,
+        "Address": "Greeneville, TN 37743, USA",
+        "Population": 26696,
+        "Median Age": 44.8,
+        "Household Income": 34855,
+        "Per Capita Income": 19552,
+        "Poverty Rate": 21.76730596
+    },
+    {
+        "Zipcode": 16870,
+        "Address": "Port Matilda, PA 16870, USA",
+        "Population": 6735,
+        "Median Age": 39.1,
+        "Household Income": 84808,
+        "Per Capita Income": 37320,
+        "Poverty Rate": 3.414996288
+    },
+    {
+        "Zipcode": 2717,
+        "Address": "East Freetown, MA 02717, USA",
+        "Population": 4356,
+        "Median Age": 42.8,
+        "Household Income": 81150,
+        "Per Capita Income": 32987,
+        "Poverty Rate": 3.558310376
+    },
+    {
+        "Zipcode": 74438,
+        "Address": "Hitchita, OK 74438, USA",
+        "Population": 265,
+        "Median Age": 31.6,
+        "Household Income": 46875,
+        "Per Capita Income": 14888,
+        "Poverty Rate": 17.35849057
+    },
+    {
+        "Zipcode": 67530,
+        "Address": "Great Bend, KS 67530, USA",
+        "Population": 19576,
+        "Median Age": 39.1,
+        "Household Income": 43352,
+        "Per Capita Income": 26179,
+        "Poverty Rate": 14.727217
+    },
+    {
+        "Zipcode": 56529,
+        "Address": "Dilworth, MN 56529, USA",
+        "Population": 4047,
+        "Median Age": 32.2,
+        "Household Income": 46116,
+        "Per Capita Income": 21554,
+        "Poverty Rate": 16.48134421
+    },
+    {
+        "Zipcode": 26202,
+        "Address": "Fenwick, WV 26202, USA",
+        "Population": 762,
+        "Median Age": 42.1,
+        "Household Income": 49205,
+        "Per Capita Income": 17950,
+        "Poverty Rate": 3.543307087
+    },
+    {
+        "Zipcode": 46312,
+        "Address": "East Chicago, IN 46312, USA",
+        "Population": 29584,
+        "Median Age": 29.8,
+        "Household Income": 27583,
+        "Per Capita Income": 13497,
+        "Poverty Rate": 35.46849648
+    },
+    {
+        "Zipcode": 10913,
+        "Address": "Blauvelt, NY 10913, USA",
+        "Population": 5175,
+        "Median Age": 41.8,
+        "Household Income": 122857,
+        "Per Capita Income": 46193,
+        "Poverty Rate": 1.835748792
+    },
+    {
+        "Zipcode": 63030,
+        "Address": "Fletcher, MO 63030, USA",
+        "Population": 315,
+        "Median Age": 41,
+        "Household Income": 49441,
+        "Per Capita Income": 22871,
+        "Poverty Rate": 7.936507937
+    },
+    {
+        "Zipcode": 78072,
+        "Address": "Tilden, TX 78072, USA",
+        "Population": 570,
+        "Median Age": 41.2,
+        "Household Income": 42083,
+        "Per Capita Income": 21532,
+        "Poverty Rate": 20.70175439
+    },
+    {
+        "Zipcode": 53018,
+        "Address": "Delafield, WI 53018, USA",
+        "Population": 8120,
+        "Median Age": 43.3,
+        "Household Income": 94873,
+        "Per Capita Income": 42783,
+        "Poverty Rate": 3.177339901
+    },
+    {
+        "Zipcode": 23389,
+        "Address": "Harborton, VA 23389, USA",
+        "Population": 136,
+        "Median Age": 73.3,
+        "Household Income": null,
+        "Per Capita Income": 13575,
+        "Poverty Rate": 0
+    },
+    {
+        "Zipcode": 45780,
+        "Address": "The Plains, OH 45780, USA",
+        "Population": 3351,
+        "Median Age": 41,
+        "Household Income": 33892,
+        "Per Capita Income": 17139,
+        "Poverty Rate": 28.79737392
+    },
+    {
+        "Zipcode": 79703,
+        "Address": "Midland, TX 79703, USA",
+        "Population": 21214,
+        "Median Age": 30.5,
+        "Household Income": 57842,
+        "Per Capita Income": 23946,
+        "Poverty Rate": 8.80079193
+    },
+    {
+        "Zipcode": 19076,
+        "Address": "Prospect Park, PA 19076, USA",
+        "Population": 6606,
+        "Median Age": 36.2,
+        "Household Income": 67727,
+        "Per Capita Income": 26908,
+        "Poverty Rate": 10.44504995
+    },
+    {
+        "Zipcode": 28732,
+        "Address": "Fletcher, NC 28732, USA",
+        "Population": 15406,
+        "Median Age": 40.6,
+        "Household Income": 45273,
+        "Per Capita Income": 26177,
+        "Poverty Rate": 9.269115929
+    },
+    {
+        "Zipcode": 85553,
+        "Address": "Tonto Basin, AZ 85553, USA",
+        "Population": 1441,
+        "Median Age": 64.6,
+        "Household Income": 36442,
+        "Per Capita Income": 28245,
+        "Poverty Rate": 16.93268563
+    },
+    {
+        "Zipcode": 44708,
+        "Address": "Canton, OH 44708, USA",
+        "Population": 25341,
+        "Median Age": 42.8,
+        "Household Income": 44731,
+        "Per Capita Income": 26042,
+        "Poverty Rate": 14.60873683
+    },
+    {
+        "Zipcode": 52315,
+        "Address": "Newhall, IA 52315, USA",
+        "Population": 958,
+        "Median Age": 42.4,
+        "Household Income": 61750,
+        "Per Capita Income": 27831,
+        "Poverty Rate": 1.461377871
+    },
+    {
+        "Zipcode": 32444,
+        "Address": "Lynn Haven, FL 32444, USA",
+        "Population": 19205,
+        "Median Age": 40.2,
+        "Household Income": 61233,
+        "Per Capita Income": 28643,
+        "Poverty Rate": 10.77323614
+    },
+    {
+        "Zipcode": 60468,
+        "Address": "Peotone, IL 60468, USA",
+        "Population": 5847,
+        "Median Age": 41.5,
+        "Household Income": 75000,
+        "Per Capita Income": 30813,
+        "Poverty Rate": 3.488968702
+    },
+    {
+        "Zipcode": 85233,
+        "Address": "Gilbert, AZ 85233, USA",
+        "Population": 39027,
+        "Median Age": 34.7,
+        "Household Income": 75365,
+        "Per Capita Income": 32900,
+        "Poverty Rate": 7.628052374
+    },
+    {
+        "Zipcode": 76373,
+        "Address": "Oklaunion, TX 76373, USA",
+        "Population": 281,
+        "Median Age": 36.4,
+        "Household Income": 45948,
+        "Per Capita Income": 15359,
+        "Poverty Rate": 0
+    },
+    {
+        "Zipcode": 64081,
+        "Address": "Lee's Summit, MO 64081, USA",
+        "Population": 23549,
+        "Median Age": 41.3,
+        "Household Income": 76684,
+        "Per Capita Income": 35039,
+        "Poverty Rate": 5.507664869
+    },
+    {
+        "Zipcode": 45328,
+        "Address": "Gettysburg, OH 45328, USA",
+        "Population": 692,
+        "Median Age": 30.4,
+        "Household Income": 43750,
+        "Per Capita Income": 14939,
+        "Poverty Rate": 28.03468208
+    },
+    {
+        "Zipcode": 68723,
+        "Address": "Carroll, NE 68723, USA",
+        "Population": 513,
+        "Median Age": 51.2,
+        "Household Income": 59000,
+        "Per Capita Income": 25617,
+        "Poverty Rate": 5.653021442
+    },
+    {
+        "Zipcode": 4622,
+        "Address": "Cherryfield, ME 04622, USA",
+        "Population": 1480,
+        "Median Age": 40.8,
+        "Household Income": 40104,
+        "Per Capita Income": 20084,
+        "Poverty Rate": 17.77027027
+    },
+    {
+        "Zipcode": 51049,
+        "Address": "Quimby, IA 51049, USA",
+        "Population": 476,
+        "Median Age": 47.9,
+        "Household Income": 47847,
+        "Per Capita Income": 22334,
+        "Poverty Rate": 12.39495798
+    },
+    {
+        "Zipcode": 77807,
+        "Address": "Bryan, TX 77807, USA",
+        "Population": 10882,
+        "Median Age": 30.2,
+        "Household Income": 42154,
+        "Per Capita Income": 19089,
+        "Poverty Rate": 24.96783679
+    },
+    {
+        "Zipcode": 60305,
+        "Address": "River Forest, IL 60305, USA",
+        "Population": 11183,
+        "Median Age": 41.4,
+        "Household Income": 113317,
+        "Per Capita Income": 62034,
+        "Poverty Rate": 5.651435214
+    },
+    {
+        "Zipcode": 47670,
+        "Address": "Princeton, IN 47670, USA",
+        "Population": 12140,
+        "Median Age": 39.5,
+        "Household Income": 45915,
+        "Per Capita Income": 23971,
+        "Poverty Rate": 12.42174629
+    },
+    {
+        "Zipcode": 78885,
+        "Address": "Vanderpool, TX 78885, USA",
+        "Population": 106,
+        "Median Age": 55.5,
+        "Household Income": 80417,
+        "Per Capita Income": 38706,
+        "Poverty Rate": 4.716981132
+    },
+    {
+        "Zipcode": 7603,
+        "Address": "Bogota, NJ 07603, USA",
+        "Population": 8231,
+        "Median Age": 38.7,
+        "Household Income": 77821,
+        "Per Capita Income": 31670,
+        "Poverty Rate": 8.832462641
+    },
+    {
+        "Zipcode": 84764,
+        "Address": "Bryce, UT 84764, USA",
+        "Population": 163,
+        "Median Age": 27,
+        "Household Income": 38750,
+        "Per Capita Income": 19698,
+        "Poverty Rate": 24.5398773
+    },
+    {
+        "Zipcode": 72680,
+        "Address": "Timbo, AR 72680, USA",
+        "Population": 769,
+        "Median Age": 46.6,
+        "Household Income": 28750,
+        "Per Capita Income": 23495,
+        "Poverty Rate": 21.58647594
+    },
+    {
+        "Zipcode": 85606,
+        "Address": "Cochise, AZ 85606, USA",
+        "Population": 1426,
+        "Median Age": 53.4,
+        "Household Income": 27406,
+        "Per Capita Income": 17731,
+        "Poverty Rate": 25.2454418
+    },
+    {
+        "Zipcode": 78122,
+        "Address": "Leesville, TX 78122, USA",
+        "Population": 200,
+        "Median Age": 56.6,
+        "Household Income": 30610,
+        "Per Capita Income": 20433,
+        "Poverty Rate": 13
+    },
+    {
+        "Zipcode": 5658,
+        "Address": "Marshfield, VT 05658, USA",
+        "Population": 1505,
+        "Median Age": 41.6,
+        "Household Income": 43958,
+        "Per Capita Income": 22443,
+        "Poverty Rate": 17.6744186
+    },
+    {
+        "Zipcode": 16665,
+        "Address": "Newry, PA 16665, USA",
+        "Population": 291,
+        "Median Age": 43.3,
+        "Household Income": 27188,
+        "Per Capita Income": 19095,
+        "Poverty Rate": 19.24398625
+    },
+    {
+        "Zipcode": 95246,
+        "Address": "Mountain Ranch, CA 95246, USA",
+        "Population": 1207,
+        "Median Age": 52.8,
+        "Household Income": 47379,
+        "Per Capita Income": 29646,
+        "Poverty Rate": 5.21955261
+    },
+    {
+        "Zipcode": 94556,
+        "Address": "Moraga, CA 94556, USA",
+        "Population": 15064,
+        "Median Age": 47.4,
+        "Household Income": 120960,
+        "Per Capita Income": 62600,
+        "Poverty Rate": 4.155602762
+    },
+    {
+        "Zipcode": 35951,
+        "Address": "Albertville, AL 35951, USA",
+        "Population": 12839,
+        "Median Age": 35.7,
+        "Household Income": 37210,
+        "Per Capita Income": 19602,
+        "Poverty Rate": 20.91284368
+    },
+    {
+        "Zipcode": 47967,
+        "Address": "New Richmond, IN 47967, USA",
+        "Population": 924,
+        "Median Age": 35.5,
+        "Household Income": 53462,
+        "Per Capita Income": 19191,
+        "Poverty Rate": 9.632034632
+    },
+    {
+        "Zipcode": 57105,
+        "Address": "Sioux Falls, SD 57105, USA",
+        "Population": 21984,
+        "Median Age": 38.2,
+        "Household Income": 52255,
+        "Per Capita Income": 30000,
+        "Poverty Rate": 8.956513828
+    },
+    {
+        "Zipcode": 64455,
+        "Address": "Graham, MO 64455, USA",
+        "Population": 315,
+        "Median Age": 50.6,
+        "Household Income": 43542,
+        "Per Capita Income": 25407,
+        "Poverty Rate": 16.50793651
+    },
+    {
+        "Zipcode": 24887,
+        "Address": "Switchback, WV 24887, USA",
+        "Population": 125,
+        "Median Age": 14.8,
+        "Household Income": null,
+        "Per Capita Income": 4526,
+        "Poverty Rate": 88.8
+    },
+    {
+        "Zipcode": 47926,
+        "Address": "Burnettsville, IN 47926, USA",
+        "Population": 932,
+        "Median Age": 35.9,
+        "Household Income": 50469,
+        "Per Capita Income": 20121,
+        "Poverty Rate": 8.690987124
+    },
+    {
+        "Zipcode": 36701,
+        "Address": "Selma, AL 36701, USA",
+        "Population": 22605,
+        "Median Age": 39.4,
+        "Household Income": 32136,
+        "Per Capita Income": 20992,
+        "Poverty Rate": 26.14023446
+    },
+    {
+        "Zipcode": 59087,
+        "Address": "Winnett, MT 59087, USA",
+        "Population": 506,
+        "Median Age": 48.3,
+        "Household Income": 41250,
+        "Per Capita Income": 22816,
+        "Poverty Rate": 10.27667984
+    },
+    {
+        "Zipcode": 22952,
+        "Address": "Lyndhurst, VA 22952, USA",
+        "Population": 2088,
+        "Median Age": 46.3,
+        "Household Income": 43095,
+        "Per Capita Income": 23158,
+        "Poverty Rate": 5.651340996
+    },
+    {
+        "Zipcode": 59201,
+        "Address": "Wolf Point, MT 59201, USA",
+        "Population": 5193,
+        "Median Age": 30.8,
+        "Household Income": 42699,
+        "Per Capita Income": 17624,
+        "Poverty Rate": 20.75871365
+    },
+    {
+        "Zipcode": 92115,
+        "Address": "San Diego, CA 92115, USA",
+        "Population": 61084,
+        "Median Age": 27.5,
+        "Household Income": 41866,
+        "Per Capita Income": 21011,
+        "Poverty Rate": 25.69576321
+    },
+    {
+        "Zipcode": 28327,
+        "Address": "Carthage, NC 28327, USA",
+        "Population": 15333,
+        "Median Age": 40.6,
+        "Household Income": 51609,
+        "Per Capita Income": 23841,
+        "Poverty Rate": 14.78510402
+    },
+    {
+        "Zipcode": 38504,
+        "Address": "Allardt, TN 38504, USA",
+        "Population": 1167,
+        "Median Age": 38.6,
+        "Household Income": 46786,
+        "Per Capita Income": 19634,
+        "Poverty Rate": 9.340188518
+    }
+]

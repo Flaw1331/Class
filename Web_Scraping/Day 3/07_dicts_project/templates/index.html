@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Hurricanes!</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
+</head>
+
+<body>
+  <div class="container text-center">
+    <h1 class="jumbotron">SuperHeroes</h1>
+    <div>
+      <ul class="list-group">
+        <!-- ******************************** -->
+        {% for superhero in justice_league_members %}
+          <p>{{ superhero.superhero }}: {{ superhero.real_name }}</p>
+        {% endfor %}
+        <!-- Insert List of Super Heroes Here -->
+
+        <!-- ******************************** -->
+      </ul>
+    </div>
+  </div>
+</body>
+
+</html>
