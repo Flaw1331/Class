@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <!-- https://www.bootstrapcdn.com/bootswatch/ -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/4.0.0/slate/bootstrap.min.css">
+  <link rel="stylesheet" type='text/css' href="site.css">
+  <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+  <title>Home</title>
+</head>
+
+<body>
+  <!-- Navbar Expand Md says at medium resolution expand out the Navbar -->
+  <header class="navbar navbar-dark navbar-expand-md">
+    <div class="navbar-brand">
+      <i class="fas fa-chess-rook"></i> Intro to Javascript
+    </div>
+  </header>
+  <div class="container">
+    <div class='card'>
+      <div class='card-header text-white'>
+        <h3 class='text-center'>Javascript</h3>
+      </div>
+      <div class='card-body'>
+        <div id="my-text"></div>
+        <div class='text-white'>
+          <h1>List Item HTML </h1>
+          <p> In this activity we will render an unordered list in the DOM  to hold each element in the `todos` array.
+          </p>
+          <h3>Instructions</h3>
+          <ol>
+            <li>
+              In `index.html`, there is a DOM element with an `id` of `my-text`. In `index.js`, store a reference to the DOM element
+              into a variable named `todoList`. Accomplish this using the `document.getElementById` method.
+            </li>
+            <li>
+              Using a for-loop, iterate through each object in the `todos` array.
+            </li>
+            <li>
+              On each iteration of the loop, use `document.createElement` to create a new `todoListItem`.
+            </li>
+            <li>
+              Set the `innerHTML` property of each `todoListItem` equal to the `text` property of the "current" `todo` item from
+              the list.
+            </li>
+            <li>
+              Finally, use `appendChild` to add the `todoListItem` as a child of the `todoList` element.
+            </li>
+
+          </ol>
+
+          <h3>Hints:</h3>
+          <p>
+            Check out
+            <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML">MDN's Docs on Element.innerHTML</a>
+          </p>
+
+        </div>
+        <button class='btn' id='ok-button'>ok</button>
+      </div>
+
+    </div>
+
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+
+  <script>
+// @TODO: Uncomment the following code
+
+var todos = [
+  {
+    complete: false,
+    text: "Learn JavaScript"
+  },
+  {
+    complete: false,
+    text: "Learn JavaScript Charting"
+  },
+  {
+    complete: false,
+    text: "Make Awesome Front-End Projects"
+  }
+];
+
+function renderTodos() {
+ // Write code here to:
+ // 1. Get a reference to the element in the DOM with 
+ //    an id of my-text using document.getElementById
+
+ // 2. Using a for-loop, go through each element in 
+ //    the todos array and build a string containing 
+ //    an `li` element for each element in the todos 
+ //    array with the todo's text inside
+
+ // 3. Using the innerHTML method, set the innerHTML 
+ //    of the my-text element to the string created 
+ //    in the previous step
+}
+
+// running the renderTodos function once the page loads
+renderTodos();
+
+  </script>
+
+</body>
+
+</html>

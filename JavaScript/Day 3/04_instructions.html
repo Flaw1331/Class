@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Giphy API</title>
+</head>
+
+<body>
+  <img src="" alt="giphy">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.6/showdown.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.7.3/d3.min.js"></script>
+
+  <script type="text/javascript">
+    var converter = new showdown.Converter();
+    var md = '# Movie Gifs \n' +
+      'In this activity, you will use `d3.json` to fetch gifs related to your favorite movie from [https://giphy.com/](https://giphy.com/).\n' +
+      '### Instructions\n' +
+      '* Use `d3.json` to fetch a gif related to your favorite movie. \n' +
+      '* Find the `fixed_height` image url in the response object for the first gif and save that string to variable.\n' +
+      '* Use `d3.select` to grab a reference to the image tag in your html starter file. \n' +
+      '* Use D3 to add the `fixed_height` image url to the `src` attribute of your image tag. \n' +
+      '* Test the page and enjoy your GIF!  ';
+    var html = converter.makeHtml(md);
+    d3.select('body').append('p').html(html);
+
+    // **** 
+    var movie = "";  //put your movie here
+    var queryURL = "http://api.giphy.com/v1/gifs/search?q=movies+" + movie + "&api_key=dc6zaTOxFJmzC&limit=10";
+
+    // Your code below
+
+
+
+
+  </script>
+
+</body>
+
+</html>

@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.7.3/d3.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/4.0.0/slate/bootstrap.min.css">
+    <link rel="stylesheet" type='text/css' href="site.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+    <title>New York Times</title>
+  <link rel="stylesheet" type='text/css' href="site.css">
+</head>
+
+<body>
+  
+  <div class="editor-picks">
+    <div class="collection" data-slug="calvin-klein" data-size="35">
+      <!--[if lte IE 8]><a href="http://www.nytimes.com/fashion/runway/calvin-klein/spring-2014-rtw/1"><img src="http://graphics8.nytimes.com/newsgraphics/2013/09/13/fashion-week-editors-picks/assets/crops/calvin-klein.jpg" height="225" width="720"></a><![endif]-->
+      <div class="description">
+        <h3>D3. Fish Eye. </h3>
+        <p><a href="http://www.nytimes.com/newsgraphics/2013/09/13/fashion-week-editors-picks/index.html?module=Slide&region=SlideShowTopBar&version=SlideCard-1&action=Click&contentCollection=Fashion%20%26%20Style&slideshowTitle=Calvin%20Klein%3A%20Spring%202014%20RTW&currentSlide=1&entrySlide=1&pgtype=imageslideshow">See New York Times site</a></p>
+      </div>
+      <div class="graphic">
+        <div class="editor-picks">
+          <div class="collection" data-slug="calvin-klein" data-size="35">
+            <div class="description" style='display: none;'>
+              <h3>Calvin Klein</h3>
+              <p>A beautiful, innovative collection in which Francisco Costa layered references to urban tribes, ’80s art, handcraft
+                and even, seemingly, radical chicks of the 1920s. It added up to a modern expression of fashion.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+<script>
+  let width = 225;
+  let height = 225;
+  let graphic = d3.select(".graphic");
+  let collection = graphic.select(".collection")
+    .datum(function (d) {
+      return {
+        slug: this.getAttribute("data-slug"),
+        size: this.getAttribute("data-size")
+      };
+    });
+
+  let canvas = collection.append("canvas");
+
+  let pixelRatio = 1;
+  if (window.devicePixelRatio >= 2 && screen.availWidth >= 1280) { // retina devices
+    pixelRatio = 2;
+  }
+
+  canvas.attr("height", height * pixelRatio).style("height", height + "px");
+  let description = collection.select(".description");
+
+
+  // Notice that the resize function is called 
+  // each time the browser resizes.
+  d3.select(window)
+    .on("scroll", scroll)
+    .on("resize", resize);
+
+
+  // Each photo has to be resized, and the whole 
+  // canvas is made wider or narrower.
+  function resize() {
+    width = parseInt(graphic.style("width")) - 260;
+    console.log('resize to ' + width);
+    collection.select("canvas")
+      .attr("width", width * pixelRatio)
+      .style("width", width + "px")
+      .each(function (d) {
+        let context = d.context = this.getContext("2d");
+        context.scale(pixelRatio, pixelRatio);
+        context.strokeStyle = "rgba(0,0,0,0.8)";
+        if (d.enabled) d.resize();
+      });
+    scroll();
+  }
+
+  // Recompute which canvases are visible in the viewport.
+  function scroll() {
+    let dy = innerHeight;
+    if (!canvas
+      .each(enableFisheye)
+      .empty()) {
+      canvas = canvas.filter(function (d) { return !d.enabled; });
+    }
+  }
+
+  function enableFisheye(scrollingImage) {
+    scrollingImage.enabled = true;
+
+    let that = this,
+      link = that.parentNode,
+      div = link.parentNode,
+      touchtime;
+
+    let normalWidth = width / scrollingImage.size,
+      image = new Image,
+      imageWidth = 105,
+      imageHeight = 225,
+      desiredDistortion = 0,
+      desiredFocus,
+      progress = 0,
+      idle = true;
+
+    let fishEyeDistortion = fisheye()
+      .distortion(0)
+      .extent([0, width]);
+
+    image.src = "http://graphics8.nytimes.com/newsgraphics/2013/09/13/fashion-week-editors-picks/assets/thumbs-" + pixelRatio + "/" + scrollingImage.slug + ".jpg";
+    image.onload = initialize;
+
+    d3.timer(function () {
+      if (progress < 0) return true;
+      let context = scrollingImage.context;
+      context.clearRect(0, 0, width, 2);
+      context.fillStyle = "#777";
+      context.fillRect(0, 0, ++progress, 2);
+    });
+
+    scrollingImage.resize = function () {
+      let f = fishEyeDistortion.focus() / fishEyeDistortion.extent()[1];
+      let d1 = imageWidth / normalWidth - 1;
+      let d0 = fishEyeDistortion.distortion() / d1;
+      normalWidth = width / scrollingImage.size;
+      fishEyeDistortion.distortion(d0 * d1).extent([0, width]).focus(f * width);
+      render();
+    };
+
+    function initialize() {
+      progress = -1;
+
+      d3.select(that)
+        .on("mouseover", mouseover)
+        .on("mousemove", mousemove)
+        .on("mouseout", mouseout)
+        .on("touchmove", mousemove)
+        .on("touchend", mouseout);
+
+      render();
+    }
+
+    function render() {
+      let context = scrollingImage.context;
+      context.clearRect(0, 0, width, height);
+
+      for (let i = 0, n = scrollingImage.size; i < n; ++i) {
+        let x0 = fishEyeDistortion(i * normalWidth);
+        let x1 = fishEyeDistortion((i + 1) * normalWidth);
+        let dx = Math.min(imageWidth, x1 - x0);
+        context.drawImage(image,
+          Math.round((i * imageWidth + (imageWidth - dx) / 2) * pixelRatio),
+          0,
+          dx * pixelRatio,
+          imageHeight * pixelRatio,
+          x0,
+          0,
+          dx,
+          height);
+        context.beginPath();
+        context.moveTo(x0, 0);
+        context.lineTo(x0, height);
+        context.stroke();
+      }
+
+      context.strokeRect(0, 0, width, height);
+    }
+
+    function move() {
+      if (idle) d3.timer(function () {
+        let currentDistortion = fishEyeDistortion.distortion();
+        let currentFocus = currentDistortion ? fishEyeDistortion.focus() : desiredFocus;
+        // console.log('currentDistortion: ' + currentDistortion);
+        // console.log('currentFocus: ' + currentFocus);
+        idle = Math.abs(desiredDistortion - currentDistortion) < .01 && Math.abs(desiredFocus - currentFocus) < .5;
+        fishEyeDistortion.distortion(idle ? desiredDistortion : currentDistortion + (desiredDistortion - currentDistortion) * .14);
+        fishEyeDistortion.focus(idle ? desiredFocus : currentFocus + (desiredFocus - currentFocus) * .14);
+
+        render();
+        return idle;
+      });
+    }
+
+    function mouseover() {
+      desiredDistortion = imageWidth / normalWidth - 1;
+      mousemove();
+
+    }
+
+    function mouseout() {
+      desiredDistortion = 0;
+      mousemove();
+    }
+
+    function mousemove() {
+      desiredFocus = Math.max(0, Math.min(width - 1e-6, d3.mouse(that)[0]));
+      move();
+    }
+
+  }
+
+  function fisheye() {
+    var min = 0,
+      max = 1,
+      distortion = 3,
+      focus = 0;
+
+    function G(x) {
+      return (distortion + 1) * x / (distortion * x + 1);
+    }
+
+    function fisheye(x) {
+      var Dmax_x = (x < focus ? min : max) - focus,
+        Dnorm_x = x - focus;
+      return G(Dnorm_x / Dmax_x) * Dmax_x + focus;
+    }
+
+    fisheye.extent = function (_) {
+      if (!arguments.length) return [min, max];
+      min = +_[0], max = +_[1];
+      return fisheye;
+    };
+
+    fisheye.distortion = function (_) {
+      if (!arguments.length) return distortion;
+      distortion = +_;
+      return fisheye;
+    };
+
+    fisheye.focus = function (_) {
+      if (!arguments.length) return focus;
+      focus = +_;
+      return fisheye;
+    };
+
+    return fisheye;
+  }
+
+  resize();
+</script>
+
+</html>
