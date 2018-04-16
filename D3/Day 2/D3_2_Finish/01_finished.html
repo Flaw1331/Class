@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.7.3/d3.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/4.0.0/slate/bootstrap.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+    <title>D3.js</title>
+</head>
+
+<body>
+    <header class="navbar navbar-dark navbar-expand-md">
+        <div class="navbar-brand">
+            <i class="fas fa-chess-rook"></i> Intro to D3.js
+        </div>
+    </header>
+    <div class="container">
+        <div class='card'>
+            <div class='card-header text-white'>
+                <h3 class='text-center'>D3.js</h3>
+            </div>
+            <div class='card-body'>
+                <div id='plot'></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+
+
+    <script>
+// Answer the following questions after discussing with a partner.
+
+/* 1. What does SVG stand for?  How are they used with D3?
+
+* Scalable Vector Graphics
+
+* Allows us to define our own graphics, like shapes and lines, 
+  giving us flexibility to build our custom charts. */
+
+
+/* 2.  What is data binding?
+
+* SVGs allow us to define our own graphics like shapes and lines.  This gives us flexibility to build our custom charts. */
+
+
+/* 3.  Given the following and a an HTML page with no elements currently in the body,
+use the enter pattern to render three <li> elements to the page with text matching
+the integers in the array. */
+
+var arr = [1, 2, 3]
+var ul = d3.select("#plot").append("ul")
+//YOUR CODE HERE//
+var selection = ul.selectAll("li") // creates virtual selection
+  .data(arr) // binds data
+  .enter()
+  .append("li") // appends li element for each item in array (since there are currently none)
+  .text(function (d) {
+    return d
+  }) // sets the text of each element to match the items in array
+
+/* 4. Imagine three <li> elements already exists on the page.  Create code to update the text of that element while also adding three new elements
+to match the array below. */
+var arr = [1, 1, 2, 3, 5, 8]
+var ul = d3.select("ul")
+// YOUR CODE HERE //
+var selection = ul.selectAll("li")
+  .data(arr)
+  .enter()
+  .append("li")
+  .merge(selection)
+  .text(function (d) {
+    return d
+  })
+
+/* Bonus - Make the code in number 4 more concise by using the ES6 syntax for arrow functions.  Then, modify the code to set the text of each
+element to "(index in the array): (item from the array) */
+// YOUR CODE HERE //
+var selection = ul.selectAll("li") // creates virtual selection
+  .data(arr) // binds data
+  .enter()
+  .append("li") // appends li element for each item in array (since there are currently none)
+  .merge(selection)
+  .text((d, i) => `${i}: ${d}`) // uses arrow function and template literals to set text
+
+    </script>
+
+</body>
+
+</html>

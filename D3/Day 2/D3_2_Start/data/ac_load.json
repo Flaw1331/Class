@@ -1,0 +1,34 @@
+{
+  "title":"AC Electrical Load. Yakutat, Alaska",
+  "units":"kW",
+  "data": [
+    {
+      "day":"Monday",
+      "value":193.3711
+    },
+    {
+      "day":"Tuesday",
+      "value":183.6716
+    },
+    {
+      "day":"Wednesday",
+      "value":197.4985
+    },
+    {
+      "day":"Thursday",
+      "value":223.5015
+    },
+    {
+      "day":"Friday",
+      "value":232.1691
+    },
+    {
+      "day":"Saturday",
+      "value":286.4451
+    },
+    {
+      "day":"Sunday",
+      "value":264.776
+    }
+  ]
+}

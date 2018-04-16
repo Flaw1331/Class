@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>HeatMap</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="leaflet-heat.js"></script>
+
+  </head>
+<body>
+  Leaflet is designed to be a very light-weight and fast library and it only focuses on a core set of features. Through the use of plugins, however, we can give additional functionality to Leaflet.
+  <br><br>
+  Plugins are third-party libraries that integrate with Leaflet to give it additional features. We can create heat maps, map our data as a function of time, and so much more!
+  <br><br>See <a href="http://Leafletjs.com/plugins.html">The Leaflet plugins</a> for more reference.
+  <br><br>
+   
+  * Now it is time to add in our plugin! For this activity we will be using <a href="https://github.com/Leaflet/Leaflet.heat">[Leaflet.Heat]</a> to make a heat map. 
+  <br><br>
+  * As stated in the documentation, all we have to do to use the Leaflet.heat plugin is download the `Leaflet.heat.js` file and link to it in our project's HTML file.
+  <br><br>
+    * The documentation tells us that we will need to create a new type of layer, a `heatLayer`, and feed it an array of points. It might be a good idea ask the students how to implement this plugin by looking at its repository. Reading and parsing documentation is an important skill for any developer!
+<br><br>  
+    * Instead of adding a marker to the map, we will loop through the data and push it to an array. We will feed that array of points into the `heatLayer`, along with some options, and then add it to the map.
+  <br><br>
+    * In the finished file, we have made some additional changes by modifying the `radius` and `blur` while also upping the record count to 10,000! According to the documentation, what other options could we have modified?
+<br><br>  
+<div id="map"></div>
+
+<style>
+
+  body {
+    padding: 0px;
+    margin: 0px;
+  }
+
+  #map,
+  body,
+  html {
+    height: 100%;
+  }
+
+</style>
+
+<script type="text/javascript">
+
+var myMap = L.map('map', {
+  center: [37.7749, -122.4194],
+  zoom: 13
+});
+
+let mapboxUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}';
+let accessToken = 'pk.eyJ1IjoicmluY2tkIiwiYSI6ImNpamc3ODR1aDAxMmx0c2x0Zm9lc3E1OTAifQ.pIkP7PdJMrR5TBIp93Dlbg';
+let myLayer = L.tileLayer(mapboxUrl, {id: 'mapbox.streets-satellite', maxZoom: 20, accessToken: accessToken});
+myLayer.addTo(myMap);
+
+var url = "https://data.sfgov.org/resource/gxxq-x39z.json?$limit=10000"
+
+d3.json(url, function(response){
+
+  console.log(response);
+
+  var heatArray = [];
+
+  for (var i = 0; i < response.length; i++) {
+    var location = response[i].location;
+
+    if (location) {
+      heatArray.push([location.latitude, location.longitude])
+    }
+  }
+
+  var heat = L.heatLayer(heatArray, {
+    radius: 20,
+    blur: 35
+  }).addTo(myMap)
+
+});
+
+</script>
+
+</body>
+</html>

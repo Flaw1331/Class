@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Crime Spots</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+  </head>
+<body>  
+  In this exercise we will be visualizing historical crime data in SF.
+  <br> 
+  All of this information and more is available at <a href="https://data.sfgov.org/">San Francisco's open data site</a>.
+  <br><br>
+  Our specific dataset can be found <a href="https://data.sfgov.org/Public-Safety/Map-Crime-Incidents-from-1-Jan-2003/gxxq-x39z">https://data.sfgov.org/Public-Safety/Map-Crime-Incidents-from-1-Jan-2003/gxxq-x39z</a>. 
+  <br><br>
+  Click `Export`, and then SODA API. The API endpoint will be revealed
+  
+  <br>
+  We then use d3 to load data from this SODA API endpoint.
+  <br><br>
+
+<div id="map"></div>
+
+<style>
+
+  body {
+    padding: 0px;
+    margin: 0px;
+  }
+
+  #map,
+  body,
+  html {
+    height: 100%;
+  }
+
+</style>
+
+<script type="text/javascript">
+
+var mapbox = 'https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoicmluY2tkIiwiYSI6ImNpamc3ODR1aDAxMmx0c2x0Zm9lc3E1OTAifQ.pIkP7PdJMrR5TBIp93Dlbg'
+
+var myMap = L.map('map', {
+  center: [37.7749, -122.4194],
+  zoom: 13
+});
+
+L.tileLayer(mapbox).addTo(myMap);
+
+var newtry = "https://data.sfgov.org/resource/gxxq-x39z.json?$limit=1000"
+
+d3.json(newtry, function(response){
+
+  console.log(response);
+
+  for (var i = 0; i < response.length; i++) {
+    var location = response[i].location;
+
+    if (location) {
+      L.marker([location.latitude, location.longitude]).addTo(myMap);
+    }
+  }
+
+});
+
+</script>
+
+</body>
+</html>

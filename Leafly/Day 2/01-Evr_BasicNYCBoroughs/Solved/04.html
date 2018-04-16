@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <title>City Population</title>
+
+  <!-- Leaflet JS & CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+
+  <!-- d3 JavaScript -->
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body>
+    <ul>
+        <li>
+          The last step in completing our map will be to add some interaction. Specifically, we will be adding mouse events using
+          the `onEachFeature` option.
+        </li>
+        <li>
+          `onEachFeature` will call the provided function on every feature--essentially looping through all of the neighborhoods.
+          This is useful because we want to bind some mouse events to all of our neighborhoods.
+        </li>
+        <li>
+          First we want to bind a pop-up so that, when we click on a neighborhood, we can see its name and which borough it belongs
+          to.
+        </li>
+        <li>
+          We also have access to a number of events we can subscribe to. We are going to set events to trigger on mouseover, mouseout,
+          and click. On mouseover and mouseout we want to change the opacity of the feature so that it has a nice highlight effect.
+        </li>
+        <li>
+          Our click function calls the `fitBounds()` function on our clicked feature.
+        </li>
+      </ul>
+    
+  <!-- map div -->
+  <div id="map"></div>
+  <script type="text/javascript" src="logic4.js"></script>
+
+</body>
+
+</html>
