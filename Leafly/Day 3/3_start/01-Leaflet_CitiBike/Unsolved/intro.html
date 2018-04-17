@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Citi Bike</title>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.css">
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+</head>
+
+<body>
+    <h3>Basic Version</h3>
+    <b>Take a look at this json file:</b>
+    <a href="https://gbfs.citibikenyc.com/gbfs/en/station_information.json">https://gbfs.citibikenyc.com/gbfs/en/station_information.json</a>
+    <br>
+    <br> Notice we have latitude and longitude, but it is not geojson data. It is just plain .json
+    <br>
+    <br> Notice that the response also includes other useful information, such as the `name`, `station_id`, and `capacity` of
+    each bike station.
+    <br>
+    <br>
+
+    <h3>Advanced Version</h3>
+    This version groups markers into layers according to station status, e.g. "Out of Order", "Coming Soon", or "Empty".
+
+    <br>
+    <br> Using a Leaflet plugin, different custom markers are used for each status group.
+    <br>
+    <br> See this leaflet plugin:
+    <a href="https://github.com/coryasilva/Leaflet.ExtraMarkers">https://github.com/coryasilva/Leaflet.ExtraMarkers</a>
+
+    <br>
+    <br>Similar to the first example, when a marker is clicked, a popup appears. Additionally, we see the number of bikes available
+    at each station along with the station name and total capacity.
+    <br>
+    <br>This version of the activity uses a map legend to display quantities of markers of each status, as well as their colors
+    and the last time the API was updated.
+    <br>
+    <br>You'll also need the <b>Citi Bike API Station Status Endpoint</b>:
+    <a href="https://gbfs.citibikenyc.com/gbfs/en/station_status.json">https://gbfs.citibikenyc.com/gbfs/en/station_status.json</a>.
+    <ul>
+        <li>
+            This endpoint provides information about the status of each bike station, including the number of bikes available and whether
+            or not the station is currently installed and renting bikes.
+        </li>
+        <li>
+            This endpoint does not, however, provide coordinates for each bike station. This must still be obtained from the first endpoint
+            we discussed, the
+            <b>Citi Bike API Station Information Endpoint
+            </b>
+                    <a href="https://gbfs.citibikenyc.com/gbfs/en/station_information.json">https://gbfs.citibikenyc.com/gbfs/en/station_information.json</a>.
+        </li>
+        <li>
+            The stations in both API responses have corresponding `station_id` properties. This should make it easier to match up and
+            utilize data in both datasets.
+        </li>
+    </ul>
+
+
+
+    <br>
+    <br>
+    <b>Complete the basic version of the activity before moving on to this more advanced version.</b>
+
+    <!-- The div that holds our map -->
+    <div id="map-id"></div>
+
+    <!-- D3 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
+    <!-- Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
+    <!-- Our JavaScript -->
+    <script type="text/javascript" src="js/logic.js"></script>
+
+</body>
+
+</html>
